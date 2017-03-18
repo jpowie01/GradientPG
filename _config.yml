@@ -1,1 +1,20 @@
-theme: jekyll-theme-cayman
+# Site settings
+title: Gradient
+email: tbd@eti.pg.gda.pl
+description: Koło Naukowe Politechniki Gdańskiej "Gradient"
+# url: "TBD"
+# github: xxx
+# disqus_shortname: "xxx"
+# google_analytics: xxx
+
+paginate: 2
+# comments: true
+paginate_path: "/page/:num"
+
+sass:
+  style: :compressed
+  sass_dir: _sass
+
+# Build settings
+markdown  : kramdown
+permalink : /:title/
