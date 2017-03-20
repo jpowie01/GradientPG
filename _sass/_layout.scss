@@ -11,6 +11,12 @@ $tablet: $b2;
 $b1: 960px;
 $desktop: $b1;
 
+$main-theme-colors: (
+	light:    #86D0F3,
+	regular:  #53B1E4,
+	dark:     #1C5C7F,
+);
+
 /*
 *	Globals
 */
@@ -353,7 +359,7 @@ pre code.hljs {
 .site-footer {
 	$link-color: $white;
 	padding: 1em 1em 2em 1em;
-	background-color: $highlight-color;
+	background-color: map_get($main-theme-colors, dark); //$highlight-color
 	color: $white;
 	a {
 	  color: $link-color;
