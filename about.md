@@ -1,9 +1,9 @@
 ---
 layout: page
-title: O nas
-permalink: /o-nas/
-slug: o-nas
+title: O kole
+permalink: /about/
 ---
 
-### Czym się zajmujemy?
-TDB
+<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+
+Tutaj znajdzie się jakiś fajny opis koła, ze wskazaniem na to co robimy, gdzie i jak dalej to będzie wyglądać.

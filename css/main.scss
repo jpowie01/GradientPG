@@ -3,12 +3,17 @@
 ---
 @charset "utf-8";
 
-@import "variables";
-@import "mixins";
-@import "placeholders";
+// Import partials from `sass_dir` (defaults to `_sass`)
+// Includes Bourbon, Neat, and Bitters (thanks, thoughtbot!)
+@import
+  "bourbon/bourbon",
+  "base/base",
+  "neat/neat",
+  "layout"
+;
 
-@import "normalize";
-@import "globals";
-@import "helpers";
-@import "layout";
-@import "syntax";
+$main-theme-colors: (
+  light:    #86D0F3,
+  regular:  #53B1E4,
+  dark:     #1C5C7F,
+);
