@@ -3,9 +3,11 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   2015-04-18 08:43:59
 author: Ben Centra
-categories: Jekyll
+categories: Project
 tags:	jekyll welcome
 cover:  "/assets/instacode.png"
+minicover: "/assets/mini_instacode.png"
+description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vehicula est in elit luctus euismod. Donec hendrerit ornare turpis ac eleifend. Suspendisse ante velit, pellentesque vel massa eleifend, gravida fermentum ligula. Proin tristique tortor at feugiat gravida. Morbi gravida id orci fermentum accumsan. Nunc posuere laoreet tincidunt. Nunc a aliquet tortor, sit amet laoreet orci. Integer sit amet justo at metus consequat tincidunt eget id mauris. Sed vehicula cursus orci quis convallis. Cras sed erat in leo tincidunt tristique ut id lacus. Praesent porta, sem id tempor consectetur, eros ante condimentum lorem, ut lobortis nibh massa sed urna. Duis ac bibendum justo. Nam ac leo consequat nunc euismod efficitur eget vitae libero. Vivamus sollicitudin tellus in mi vestibulum pellentesque."
 ---
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.

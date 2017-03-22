@@ -4,10 +4,10 @@
     <title>Gradient</title>
     <description>Koło Naukowe Politechniki Gdańskiej &quot;Gradient&quot; zajmujące się tematyką uczenia maszynowego
 </description>
-    <link>https://jpowie01.github.io/GradientPG//gradientPG/</link>
-    <atom:link href="https://jpowie01.github.io/GradientPG//gradientPG/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 20 Mar 2017 22:45:14 +0100</pubDate>
-    <lastBuildDate>Mon, 20 Mar 2017 22:45:14 +0100</lastBuildDate>
+    <link>https://jpowie01.github.io/GradientPG//GradientPG/</link>
+    <atom:link href="https://jpowie01.github.io/GradientPG//GradientPG/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 22 Mar 2017 23:20:09 +0100</pubDate>
+    <lastBuildDate>Wed, 22 Mar 2017 23:20:09 +0100</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -68,15 +68,15 @@ function demo(string, times) {
 
 </description>
         <pubDate>Sat, 18 Apr 2015 10:43:59 +0200</pubDate>
-        <link>https://jpowie01.github.io/GradientPG//gradientPG/jekyll/2015/04/18/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">https://jpowie01.github.io/GradientPG//gradientPG/jekyll/2015/04/18/welcome-to-jekyll.html</guid>
+        <link>https://jpowie01.github.io/GradientPG//GradientPG/project/2015/04/18/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">https://jpowie01.github.io/GradientPG//GradientPG/project/2015/04/18/welcome-to-jekyll.html</guid>
         
         <category>jekyll</category>
         
         <category>welcome</category>
         
         
-        <category>Jekyll</category>
+        <category>Project</category>
         
       </item>
     
@@ -92,8 +92,8 @@ cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
         <pubDate>Sat, 18 Apr 2015 10:43:59 +0200</pubDate>
-        <link>https://jpowie01.github.io/GradientPG//gradientPG/dummy/2015/04/18/dummy6.html</link>
-        <guid isPermaLink="true">https://jpowie01.github.io/GradientPG//gradientPG/dummy/2015/04/18/dummy6.html</guid>
+        <link>https://jpowie01.github.io/GradientPG//GradientPG/dummy/2015/04/18/dummy6.html</link>
+        <guid isPermaLink="true">https://jpowie01.github.io/GradientPG//GradientPG/dummy/2015/04/18/dummy6.html</guid>
         
         <category>lorem</category>
         
@@ -116,8 +116,8 @@ cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
         <pubDate>Sat, 18 Apr 2015 10:43:59 +0200</pubDate>
-        <link>https://jpowie01.github.io/GradientPG//gradientPG/dummy/2015/04/18/dummy5.html</link>
-        <guid isPermaLink="true">https://jpowie01.github.io/GradientPG//gradientPG/dummy/2015/04/18/dummy5.html</guid>
+        <link>https://jpowie01.github.io/GradientPG//GradientPG/dummy/2015/04/18/dummy5.html</link>
+        <guid isPermaLink="true">https://jpowie01.github.io/GradientPG//GradientPG/dummy/2015/04/18/dummy5.html</guid>
         
         <category>lorem</category>
         
@@ -138,13 +138,13 @@ cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
         <pubDate>Sat, 18 Apr 2015 10:43:59 +0200</pubDate>
-        <link>https://jpowie01.github.io/GradientPG//gradientPG/dummy/2015/04/18/dummy4.html</link>
-        <guid isPermaLink="true">https://jpowie01.github.io/GradientPG//gradientPG/dummy/2015/04/18/dummy4.html</guid>
+        <link>https://jpowie01.github.io/GradientPG//GradientPG/project/2015/04/18/dummy4.html</link>
+        <guid isPermaLink="true">https://jpowie01.github.io/GradientPG//GradientPG/project/2015/04/18/dummy4.html</guid>
         
         <category>ipsum</category>
         
         
-        <category>Dummy</category>
+        <category>Project</category>
         
       </item>
     
@@ -160,8 +160,8 @@ cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
         <pubDate>Sat, 18 Apr 2015 10:43:59 +0200</pubDate>
-        <link>https://jpowie01.github.io/GradientPG//gradientPG/dummy/2015/04/18/dummy3.html</link>
-        <guid isPermaLink="true">https://jpowie01.github.io/GradientPG//gradientPG/dummy/2015/04/18/dummy3.html</guid>
+        <link>https://jpowie01.github.io/GradientPG//GradientPG/dummy/2015/04/18/dummy3.html</link>
+        <guid isPermaLink="true">https://jpowie01.github.io/GradientPG//GradientPG/dummy/2015/04/18/dummy3.html</guid>
         
         
         <category>Dummy</category>
@@ -180,8 +180,8 @@ cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
         <pubDate>Sat, 18 Apr 2015 10:43:59 +0200</pubDate>
-        <link>https://jpowie01.github.io/GradientPG//gradientPG/dummy/2015/04/18/dummy2.html</link>
-        <guid isPermaLink="true">https://jpowie01.github.io/GradientPG//gradientPG/dummy/2015/04/18/dummy2.html</guid>
+        <link>https://jpowie01.github.io/GradientPG//GradientPG/dummy/2015/04/18/dummy2.html</link>
+        <guid isPermaLink="true">https://jpowie01.github.io/GradientPG//GradientPG/dummy/2015/04/18/dummy2.html</guid>
         
         
         <category>Dummy</category>
@@ -200,8 +200,8 @@ cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
         <pubDate>Sat, 18 Apr 2015 10:43:59 +0200</pubDate>
-        <link>https://jpowie01.github.io/GradientPG//gradientPG/dummy/2015/04/18/dummy.html</link>
-        <guid isPermaLink="true">https://jpowie01.github.io/GradientPG//gradientPG/dummy/2015/04/18/dummy.html</guid>
+        <link>https://jpowie01.github.io/GradientPG//GradientPG/dummy/2015/04/18/dummy.html</link>
+        <guid isPermaLink="true">https://jpowie01.github.io/GradientPG//GradientPG/dummy/2015/04/18/dummy.html</guid>
         
         
         <category>Dummy</category>
