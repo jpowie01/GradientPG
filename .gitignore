@@ -9,3 +9,6 @@ _site
 # Bundler
 .bundle/
 vendor/
+
+# IDEs
+.idea/
