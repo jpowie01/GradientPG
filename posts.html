@@ -6,7 +6,7 @@ permalink: /posts/
 
 {% for category in site.categories %}
   {% capture cat %}{{ category | first }}{% endcapture %}
-  {% if cat != "Project" %}
+  {% if cat != "Projekty" %}
   <h2 id="{{cat}}">{{ cat | capitalize }}</h2>
   {% for desc in site.descriptions %}
     {% if desc.cat == cat %}
@@ -19,7 +19,7 @@ permalink: /posts/
       <strong>
         <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </strong>
-      <span class="post-date">- {{ post.date | date_to_long_string }}</span>
+      <span class="post-date">- {{ post.date | date: "%d/%m/%Y" }}</span>
     </li>
   {% endfor %}
   </ul>

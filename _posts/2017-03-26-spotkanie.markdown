@@ -3,7 +3,7 @@ layout: post
 title:  "Spotkanie #01 - 27.03.2017"
 date:   2017-03-26 12:00:00
 author: Jakub Powierza
-categories: Spotkanie
+categories: Spotkania
 tags:	spotkanie agenda
 cover:  "/assets/budynek_eti.jpg"
 ---

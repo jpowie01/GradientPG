@@ -4,17 +4,17 @@ title: Projekty
 permalink: /projekty/
 ---
 
-{% if site.categories.Project %}
-	<ul class="post-list">
-		{% for post in site.categories.Project %}
+{% if site.categories.Projekty %}
+	<ul class="post-list" style="margin-bottom: 20px;">
+		{% for post in site.categories.Projekty %}
 			<li style="padding: 10px 0; display: flex;">
-				<img src="{{ post.minicover | prepend: site.baseurl }}" style="width: 30%; margin-right: 20px; float: left;" />
+				<img src="{{ post.miniature | prepend: site.baseurl }}" style="width: 30%; margin-right: 20px; float: left;" />
 				<section style="width: 70%;">
 					<h2>
 						<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 					</h2>
 					<section class="post-excerpt" itemprop="description">
-						<p>{{ post.description | strip_html | truncatewords: 25 }}</p>
+						<p>{{ post.excerpt | strip_html | truncatewords: 25 }}</p>
 					</section>
 				</section>
 			</li>
