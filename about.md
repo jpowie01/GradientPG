@@ -1,9 +1,14 @@
 ---
 layout: page
-title: O kole
+title: O nas
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+## Czym się znajmujemy?
+TODO
 
-Tutaj znajdzie się jakiś fajny opis koła, ze wskazaniem na to co robimy, gdzie i jak dalej to będzie wyglądać.
+## Gdzie i kiedy?
+TODO
+
+## Plany
+TODO
