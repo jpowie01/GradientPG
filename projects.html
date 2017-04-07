@@ -7,9 +7,9 @@ permalink: /projekty/
 {% if site.categories.Projekty %}
 	<ul class="post-list" style="margin-bottom: 20px;">
 		{% for post in site.categories.Projekty %}
-			<li style="padding: 10px 0; display: flex;">
-				<img src="{{ post.miniature | prepend: site.baseurl }}" style="width: 30%; margin-right: 20px; float: left;" />
-				<section style="width: 70%;">
+			<li style="padding: 10px 0;">
+				<img src="{{ post.miniature | prepend: site.baseurl }}" style="width: 30%; padding-bottom:10%; margin-right: 20px; float: left;" />
+				<section>
 					<h2>
 						<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 					</h2>

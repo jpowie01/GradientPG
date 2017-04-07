@@ -5,8 +5,8 @@
     <description>Koło Naukowe Politechniki Gdańskiej &quot;Gradient&quot; zajmujące się tematyką uczenia maszynowego</description>
     <link>https://jpowie01.github.io/GradientPG//GradientPG/</link>
     <atom:link href="https://jpowie01.github.io/GradientPG//GradientPG/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 26 Mar 2017 23:36:43 +0200</pubDate>
-    <lastBuildDate>Sun, 26 Mar 2017 23:36:43 +0200</lastBuildDate>
+    <pubDate>Fri, 07 Apr 2017 21:51:19 +0200</pubDate>
+    <lastBuildDate>Fri, 07 Apr 2017 21:51:19 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -71,6 +71,98 @@ Sum of 1 and 5 is 6.&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
         <pubDate>Sun, 26 Mar 2017 14:00:00 +0200</pubDate>
         <link>https://jpowie01.github.io/GradientPG//GradientPG/projekty/2017/03/26/przykladowy-projekt.html</link>
         <guid isPermaLink="true">https://jpowie01.github.io/GradientPG//GradientPG/projekty/2017/03/26/przykladowy-projekt.html</guid>
+        
+        <category>python</category>
+        
+        <category>siec-neuronowa</category>
+        
+        <category>konwolucja</category>
+        
+        
+        <category>Projekty</category>
+        
+      </item>
+    
+      <item>
+        <title>Przykładowy projekt</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis commodo ipsum eu varius ullamcorper. Proin rutrum massa nec tellus vulputate, ut elementum odio luctus. Curabitur non cursus est. Vestibulum non turpis in augue elementum faucibus ut ac tellus. Donec quis rutrum orci. Fusce quis purus in ex dignissim elementum id eu ipsum.&lt;/p&gt;
+
+&lt;h2 id=&quot;wstp&quot;&gt;Wstęp&lt;/h2&gt;
+&lt;p&gt;Aenean elit ante, elementum nec mi pellentesque, dictum viverra orci. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Quisque sit amet lacus gravida, volutpat nisi a, posuere massa. Pellentesque ac nunc sodales, malesuada felis et, mollis libero. Mauris maximus, urna sed bibendum pretium, nibh nisl ornare justo, eu tristique purus neque quis mi. Nam ultricies faucibus dui, a lobortis magna elementum sit amet.&lt;/p&gt;
+
+&lt;h2 id=&quot;nagwek&quot;&gt;Nagłówek&lt;/h2&gt;
+&lt;p&gt;Morbi tempus, neque lobortis ultrices finibus, dolor lacus dapibus ante, vel ultrices mauris velit eget neque. Sed sem lectus, mattis id arcu vitae, placerat elementum libero. Integer luctus at metus in molestie. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec vel lacus libero. Proin facilisis aliquet vestibulum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec sed ultricies nisl. Vivamus non ex a est rhoncus gravida. Maecenas sodales ex libero, nec molestie purus luctus quis. Mauris mi eros, convallis a nibh eget, volutpat pellentesque mauris. Morbi sit amet augue quis urna congue luctus eu non nunc. Fusce eu cursus velit, sed posuere quam.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;nd&quot;&gt;@random_decorator&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;sum_of_two_numbers&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;first&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;second&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+    &lt;span class=&quot;s&quot;&gt;&quot;&quot;&quot;Take two numbers and return their sum
+
+    :param first: First number
+    :param second: Second number
+    :return: Sum of these two numbers
+    &quot;&quot;&quot;&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;first&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;second&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;value&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sum_of_two_numbers&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'Sum of 1 and 5 is {}.'&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;format&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;value&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Donec quis rutrum orci.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;gp&quot;&gt;$ &lt;/span&gt;python path/to/this/script.py
+Sum of 1 and 5 is 6.&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;podsumowanie&quot;&gt;Podsumowanie&lt;/h2&gt;
+&lt;p&gt;Aliquam erat volutpat. Nunc interdum consequat massa quis placerat. Mauris ante elit, finibus eget metus ut, luctus fermentum diam. Mauris convallis nunc metus, quis imperdiet erat consequat sit amet. Donec sodales sapien quis purus maximus, lacinia rhoncus justo fringilla. Aliquam in est risus. Cras sit amet nisl sollicitudin, euismod augue quis, luctus velit. Integer sagittis magna dui, vel molestie ipsum lacinia eget. Vivamus molestie sem pulvinar ex pellentesque, sed fringilla augue ultrices.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 26 Mar 2017 14:00:00 +0200</pubDate>
+        <link>https://jpowie01.github.io/GradientPG//GradientPG/projekty/2017/03/26/przykladowy-projekt.2.html</link>
+        <guid isPermaLink="true">https://jpowie01.github.io/GradientPG//GradientPG/projekty/2017/03/26/przykladowy-projekt.2.html</guid>
+        
+        <category>python</category>
+        
+        <category>siec-neuronowa</category>
+        
+        <category>konwolucja</category>
+        
+        
+        <category>Projekty</category>
+        
+      </item>
+    
+      <item>
+        <title>Przykładowy projekt</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis commodo ipsum eu varius ullamcorper. Proin rutrum massa nec tellus vulputate, ut elementum odio luctus. Curabitur non cursus est. Vestibulum non turpis in augue elementum faucibus ut ac tellus. Donec quis rutrum orci. Fusce quis purus in ex dignissim elementum id eu ipsum.&lt;/p&gt;
+
+&lt;h2 id=&quot;wstp&quot;&gt;Wstęp&lt;/h2&gt;
+&lt;p&gt;Aenean elit ante, elementum nec mi pellentesque, dictum viverra orci. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Quisque sit amet lacus gravida, volutpat nisi a, posuere massa. Pellentesque ac nunc sodales, malesuada felis et, mollis libero. Mauris maximus, urna sed bibendum pretium, nibh nisl ornare justo, eu tristique purus neque quis mi. Nam ultricies faucibus dui, a lobortis magna elementum sit amet.&lt;/p&gt;
+
+&lt;h2 id=&quot;nagwek&quot;&gt;Nagłówek&lt;/h2&gt;
+&lt;p&gt;Morbi tempus, neque lobortis ultrices finibus, dolor lacus dapibus ante, vel ultrices mauris velit eget neque. Sed sem lectus, mattis id arcu vitae, placerat elementum libero. Integer luctus at metus in molestie. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec vel lacus libero. Proin facilisis aliquet vestibulum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec sed ultricies nisl. Vivamus non ex a est rhoncus gravida. Maecenas sodales ex libero, nec molestie purus luctus quis. Mauris mi eros, convallis a nibh eget, volutpat pellentesque mauris. Morbi sit amet augue quis urna congue luctus eu non nunc. Fusce eu cursus velit, sed posuere quam.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;nd&quot;&gt;@random_decorator&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;sum_of_two_numbers&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;first&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;second&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+    &lt;span class=&quot;s&quot;&gt;&quot;&quot;&quot;Take two numbers and return their sum
+
+    :param first: First number
+    :param second: Second number
+    :return: Sum of these two numbers
+    &quot;&quot;&quot;&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;first&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;second&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;value&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sum_of_two_numbers&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'Sum of 1 and 5 is {}.'&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;format&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;value&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Donec quis rutrum orci.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;gp&quot;&gt;$ &lt;/span&gt;python path/to/this/script.py
+Sum of 1 and 5 is 6.&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;podsumowanie&quot;&gt;Podsumowanie&lt;/h2&gt;
+&lt;p&gt;Aliquam erat volutpat. Nunc interdum consequat massa quis placerat. Mauris ante elit, finibus eget metus ut, luctus fermentum diam. Mauris convallis nunc metus, quis imperdiet erat consequat sit amet. Donec sodales sapien quis purus maximus, lacinia rhoncus justo fringilla. Aliquam in est risus. Cras sit amet nisl sollicitudin, euismod augue quis, luctus velit. Integer sagittis magna dui, vel molestie ipsum lacinia eget. Vivamus molestie sem pulvinar ex pellentesque, sed fringilla augue ultrices.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 26 Mar 2017 14:00:00 +0200</pubDate>
+        <link>https://jpowie01.github.io/GradientPG//GradientPG/projekty/2017/03/26/przykladowy-projekt.1.html</link>
+        <guid isPermaLink="true">https://jpowie01.github.io/GradientPG//GradientPG/projekty/2017/03/26/przykladowy-projekt.1.html</guid>
         
         <category>python</category>
         
