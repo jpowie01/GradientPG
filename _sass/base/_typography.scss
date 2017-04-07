@@ -39,7 +39,17 @@ h6 {
 }
 
 p {
-  margin: 0 0 $small-spacing;
+	margin: 0 0 $small-spacing;
+}
+
+.information-page article p {
+	text-align: justify;
+	text-indent: 50px;
+}
+
+.article-post article p {
+	text-align: justify;
+	text-indent: 50px;
 }
 
 a {

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article-post
 title:  "Przykładowy projekt"
 date:   2017-03-26 12:00:00
 author: Jakub Powierza

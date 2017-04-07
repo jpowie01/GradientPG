@@ -13,7 +13,7 @@ permalink: /statut/
 **II. Sposób nabywania i utraty członkostwa oraz prawa i obowiązki członków, przyczyny utraty członkostwa**
 1.	**Sposób nabywania członkostwa**
 	1.	Członkiem może zostać każdy student oraz pracownik Politechniki Gdańskiej, ale również każda osoba zaakceptowana przez Zarząd Koła Naukowego.
-	2.	Wniosek o członkostwo zostaje złożony w sposób ustny do członka Zarządu Koła Naukowego .
+	2.	Wniosek o członkostwo zostaje złożony w sposób ustny do członka Zarządu Koła Naukowego.
 	3.	Decyzję o przyjęciu członka podejmuje Zarząd Koła Naukowego podczas posiedzenia.
 2.	**Utraty członkostwa, przyczyny utraty członkostwa**
 	1.	Wydalenie członka koła naukowego może być spowodowane jego nie przestrzeganiem ustalonych zasad, bądź innymi powodami, które Zarząd Koła Naukowego uzna za wystarczające do wydalenia członka. Decyzja o wydaleniu członka musi być uargumentowana.
@@ -45,7 +45,7 @@ permalink: /statut/
 	2.	Prezes ma prawo weta. Może odrzucić dowolną decyzję Zarządu Koła Naukowego w trakcie posiedzenia. Każdy członek zarządu może zgłosić wniosek o uchylenie weta prezesa. Zarząd uchyla weto prezesa 2/3 głosów.
 
 **IV. Walne Zgromadzenia Członków Koła Naukowego**
-1.	Walne zgromadzenie podejmuje decyzje większością głosów. Aby walne zgromadzenie było uznane za ważne, musi w nim uczestniczyć  połowa aktywnych członków, w tym konieczna jest obecność prezesa koła naukowego. Członek aktywny rozumiany jest jako osoba regularnie uczestnicząca na spotkaniach koła naukowego.
+1.	Walne zgromadzenie podejmuje decyzje większością głosów. Aby walne zgromadzenie było uznane za ważne, musi w nim uczestniczyć połowa aktywnych członków, w tym konieczna jest obecność prezesa koła naukowego. Członek aktywny rozumiany jest jako osoba regularnie uczestnicząca na spotkaniach koła naukowego.
 2.	Walne zgromadzenie podejmuje decyzje w kwestiach nie podlegających bezpośrednio pod funkcje Zarządu Koła Naukowego oraz w kwestiach nieokreślonych bezpośrednio przez niniejszy dokument.
 3.	Kwestie poddawane pod głosowanie walnego zgromadzenia muszą pochodzić od członków Zarządu Koła Naukowego. Oznacza to, że członkowie koła naukowego, aby poddać swoje stanowisko pod głosowanie, muszą uzyskać wstawiennictwo przynajmniej jednego członka zarządu.
 4.	Na walnym zgromadzeniu, w miarę możliwości, każdy powinien zostać dopuszczony do głosu.
@@ -53,11 +53,11 @@ permalink: /statut/
 6.	Prezes ma prawo weta. Może odrzucić dowolną decyzję walnego zgromadzenia w trakcie obrad. Każdy członek Zarządu Koła Naukowego może zgłosić wniosek o uchylenie weta prezesa. Obecni na walnym zgromadzeniu członkowie koła uchylają weto prezesa 2/3 głosów.
 
 **V. Warunki i sposób samorozwiązania organizacji**
-1.	Koło naukowe „Gradient” może zostać rozwiązane podczas Walnego Zgromadzenia Członków Koła Naukowego 2/3 głosów.
+1.	Koło naukowe „Gradient” może zostać rozwiązane podczas Walnego Zgromadzenia Członków Koła Naukowego 2/3 głosów. Rozwiązanie koła naukowego może poddać pod głosowanie tylko prezes.
 
 **VI. Informacje dodatkowe**
 1.	Prezes koła naukowego nie może odrzucić decyzji uchylania weta.
 2.	Wymagane ilości głosów oraz wymagane ilości osób na poszczególnych posiedzeniach zaokrąglane są w górę.
 3.	Wszystkie wątpliwości oraz kwestie sporne rozstrzyga Zarząd Koła Naukowego.
 
-**VII. W sprawach nieuregulowanych statutem zastosowanie mają przepisy ustawy Prawo o szkolnictwie wyższym.**
+**W sprawach nieuregulowanych statutem zastosowanie mają przepisy ustawy Prawo o szkolnictwie wyższym.**

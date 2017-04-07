@@ -197,6 +197,14 @@ h6 {
 p {
   margin: 0 0 14.4px; }
 
+.information-page article p {
+  text-align: justify;
+  text-indent: 50px; }
+
+.article-post article p {
+  text-align: justify;
+  text-indent: 50px; }
+
 a {
   color: #2980b9;
   text-decoration: none; }
