@@ -18,4 +18,4 @@ Zapraszamy na kolejne spotkanie naszego koła. Czym zajmiemy się tym razem?
 
 Chciałbyś coś pokazać przed większą publicznością? Czekamy na kontakt! :)
 
-Do zobaczenia w **NE AUD1P o godzinie 18:15**!
+Do zobaczenia w **NE AUD1L o godzinie 18:15**!
