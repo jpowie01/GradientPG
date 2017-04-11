@@ -11,4 +11,4 @@ JEKYLL=/home/155173pj/.gem/ruby/gems/jekyll-3.2.1/exe/jekyll
 export HOME=/home/155173pj
 
 # Uruchamienie serwera na porcie 80
-sudo $BUNDLE exec $JEKYLL serve --host 0.0.0.0 --port 80 --detach
+sudo $BUNDLE exec $JEKYLL serve --host 172.20.83.26 --port 80 --detach

@@ -16,3 +16,6 @@ vendor/
 
 # IDEs
 .idea/
+
+# Ruby
+Gemfile.lock
