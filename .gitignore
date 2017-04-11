@@ -1,3 +1,7 @@
+# Deployment history
+deploy/deployment_history.log
+
+# Mac stuff
 .DS_Store
 
 # Compiled site
