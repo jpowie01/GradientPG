@@ -14,6 +14,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis commodo ipsum eu v
 ## Wstęp
 Aenean elit ante, elementum nec mi pellentesque, dictum viverra orci. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Quisque sit amet lacus gravida, volutpat nisi a, posuere massa. Pellentesque ac nunc sodales, malesuada felis et, mollis libero. Mauris maximus, urna sed bibendum pretium, nibh nisl ornare justo, eu tristique purus neque quis mi. Nam ultricies faucibus dui, a lobortis magna elementum sit amet.
 
+$$a^2 + b^2 = c^2$$
+
 ## Nagłówek
 Morbi tempus, neque lobortis ultrices finibus, dolor lacus dapibus ante, vel ultrices mauris velit eget neque. Sed sem lectus, mattis id arcu vitae, placerat elementum libero. Integer luctus at metus in molestie. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec vel lacus libero. Proin facilisis aliquet vestibulum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec sed ultricies nisl. Vivamus non ex a est rhoncus gravida. Maecenas sodales ex libero, nec molestie purus luctus quis. Mauris mi eros, convallis a nibh eget, volutpat pellentesque mauris. Morbi sit amet augue quis urna congue luctus eu non nunc. Fusce eu cursus velit, sed posuere quam.
 
