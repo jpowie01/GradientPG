@@ -1,4 +1,4 @@
-jekyll:
+gradient:
     image: jekyll/jekyll:pages
     container_name: gradient
     command: jekyll serve --watch --incremental
