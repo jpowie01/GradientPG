@@ -1,0 +1,3 @@
+[submodule "pliki"]
+	path = pliki
+	url = https://github.com/jpowie01/GradientPG_Pliki.git
