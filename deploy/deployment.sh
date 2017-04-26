@@ -15,4 +15,5 @@ export HOME=/home/155173pj
 echo "[`date`] Starting deployment." >> $LOG_DIR
 cd $DEPLOYMENT_DIR
 GIT_SSH=$GIT_WRAPPER git pull >> $LOG_DIR
+GIT_SSH=$GIT_WRAPPER git submodule update --remote pliki >> $LOG_DIR
 echo "[`date`] End of deployment." >> $LOG_DIR
