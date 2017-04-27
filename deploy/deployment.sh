@@ -20,6 +20,7 @@ GIT_SSH=$GIT_WRAPPER git pull >> $LOG_FILE
 GIT_SSH=$GIT_WRAPPER git submodule update --recursive --remote >> $LOG_FILE
 
 # Podlinkowanie wszystkich plików z folderu głównego do hostowanego
-find -name "pliki/**/*.pdf" -exec ln -s {} "$FILES_DIR" \;
+cd $MAIN_DIR/pliki
+find -name "*.pdf" -exec ln -s {} "$FILES_DIR" \;
 
 echo "[`date`] End of deployment." >> $LOG_FILE
