@@ -9,7 +9,7 @@ cover:  "/assets/budynek_eti.jpg"
 ---
 
 Cześć,  
-Już w poniedziałek ponownie widzimy się na spotkaniu naszego koła :)  
+Już w poniedziałek ponownie widzimy się na spotkaniu naszego koła :D  
 
 #### Agenda
 - dyskusja na temat [wykładu nr9](https://www.youtube.com/watch?v=N--YsFUyYnE),
