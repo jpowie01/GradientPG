@@ -3,7 +3,7 @@ layout: post
 title:  "Spotkanie - 24.04.2017"
 date:   2017-04-21 12:00:00
 author: Jakub Powierza
-categories: spotkania
+categories: Spotkania
 tags:	spotkanie agenda
 cover:  "/assets/budynek_eti.jpg"
 ---
