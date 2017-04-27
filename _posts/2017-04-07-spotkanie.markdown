@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Spotkanie #02 - 10.04.2017"
-date:   2017-04-10 12:00:00
+title:  "Spotkanie - 10.04.2017"
+date:   2017-04-07 12:00:00
 author: Jakub Powierza
 categories: Spotkania
 tags:	spotkanie agenda
