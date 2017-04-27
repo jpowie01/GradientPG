@@ -10,7 +10,7 @@ Poniżej zamieszczamy sporą ilość pytań i odpowiedzi, które zapewne będą 
 Chęci :)
 
 ### Q: Jak dodać nowy post lub projekt?
-Nowy post albo projekt można dodać poprzez utworzenie nowego pliku Markdown (.md/.markdown) w folderze `_posts`. Przykładowe posty i projekty możesz znaleźć w folderze `examples`.
+Nowy post albo projekt można dodać poprzez utworzenie nowego pliku Markdown (.md/.markdown) w folderze `_posts`. Przykładowe projekty możesz znaleźć w folderze `examples`.
 
 Ważnym jest odpowiednie nazewnictwo pliku! W przeciwnym przypadku silnik strony może nie wykryć Twojej treści. Prosimy o dostosowanie się do przyjętej konwencji nazwenictwa w odpowiednim formacie:
 ```
@@ -127,6 +127,19 @@ $$
 
 Więcej przykładów znajdziecie [tutaj](https://cdn.mathjax.org/mathjax/latest/test/examples.html).  
 **Tip:** Pobierzcie sobie dany przykład na dysk (prawy przycisk myszy na linku -> zapisz jako) i przejrzyjcie kod źródłowy danego przykładu :)
+
+### Q: Chcę dodać plik do mojego posta/projektu. Jak to zrobić?
+Przechowywanie dużych plików w repozytorium jest dość "upierdliwe". Każdy pull/fetch wymagać będzie od wszystkich osób pobierania całego folderu ze wszystkimi plikami, których prawie na pewno nie użyjesz :) Dlatego też... przygotowaliśmy osobne repozytorium na takie pliki :) Jak zapewne zauważyłeś w katalogu głównym znajduje się podmoduł gita (ang. submodule). Jest to nic innego jak link do innego repozytorium, które znajdziesz [tutaj](https://github.com/jpowie01/GradientPG_Pliki). Wystarczy, że wejdziesz na GitHuba i wrzucisz do niego plik metodą drag-and-drop. Instrukcja krok po kroku:
+1. Wejdź na stronę projektu na GitHubie.
+2. Wejdź do odpowiedniego katalogu (np. pdf).
+3. Przenieś plik ze swojego komputera metodą drag-and-drop albo użyj opcji "Upload files" w prawym górnym rogu.
+4. Postępuj z instrukcjami w formularzu i stwórz Pull Requesta.
+5. Poczekaj na naszą akceptację! Nie klikaj "Merge"!
+
+Plik będzie dostępny na stronie internetowej pod linkiem: [http://gradient.eti.pg.gda.pl/pliki/<ŚCIEŻKA>](http://gradient.eti.pg.gda.pl/pliki/<ŚCIEŻKA>). Pliki pobierane są podczas deploymentu, który odpala się o każdej pełnej godzinie.  
+
+**UWAGA nr1!** Mniejsze pliki (np. zdjęcia) proponujemy trzymać w folderze `assets` w niniejszym repozytorium. Będzie to wygodniejsze :)  
+**UWAGA nr2!** Prosimy o zdjęcia o wadze max. 150KB!  
 
 ### Q: Jakiej technologii użyliście?
 Użyliśmy [Jekylla](http://jekyllrb.com) ze skórką [Centrarium](https://github.com/bencentra/centrarium). Całość jest kompatybilna z GitHub Pages, gdzie testowaliśmy całość zanim zahostowaliśmy stronę na serwerach KASKu. Dodatkowo, użyliśmy biblioteki [MathJax](http://mathjax.org) oraz [HighlightJS](http://highlightjs.org), żeby dodać trochę życia do HTMLa :)
