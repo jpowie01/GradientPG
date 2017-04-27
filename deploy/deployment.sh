@@ -24,3 +24,6 @@ GIT_SSH=$GIT_WRAPPER git submodule update --recursive --remote >> $LOG_FILE
 cd $MAIN_DIR/pliki
 find . -name '*.pdf' | cpio -pdm $FILES_DIR
 echo "[`date`] End of deployment." >> $LOG_FILE
+
+# Przebudowanie strony
+$DEPLOYMENT_DIR/rebuild.sh
