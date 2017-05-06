@@ -39,10 +39,12 @@ code {
 	display: inline-block;
 	border-radius: 3px;
 	padding: 0 3px;
+	text-indent: 0px !important;
 }
 
 pre code.hljs {
-	font-size: modular-scale(-1);
+	font: normal modular-scale(-1) Consolas, Monaco, monospace;
+	padding: 1em;
 }
 
 .page-divider {
@@ -260,7 +262,7 @@ pre code.hljs {
 	img {
 		display: block;
 		margin: auto;
-		width: 90%;
+		max-width: 90%;
 	}
 	/*
 	*	Posts

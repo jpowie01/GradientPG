@@ -5,7 +5,8 @@ date:   2017-03-24 12:00:00
 author: Jakub Powierza
 categories: Spotkania
 tags:	spotkanie agenda
-cover:  "/assets/budynek_eti.jpg"
+comments: true
+cover:  "/assets/posts/budynek_eti.jpg"
 ---
 
 Cześć,  

@@ -28,7 +28,7 @@ markdown: kramdown
 paginate: 5
 paginate_path: "/page:num/"
 inter_post_navigation: false
-highlightjs_theme: "darcula"
+highlightjs_theme: "androidstudio"
 
 # Archive settings (see https://github.com/jekyll/jekyll-archives/)
 jekyll-archives:
@@ -41,7 +41,7 @@ jekyll-archives:
     tag: '/tag/:name/'
 
 # Disqus comments
-# disqus_shortname: bencentra
+disqus_shortname: gradientpg
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
