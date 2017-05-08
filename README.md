@@ -99,7 +99,7 @@ git push origin imie_nazwisko/tytul_posta_lub_projektu
 ### Q: Nigdy wcześniej nie korzystałem/-am z Gita. Muszę się go uczyć?
 Git stał się obecnie najpowszechniejszym narzędziem do kontroli wersji. Prędzej czy później każdy z nas będzie się go musiał nauczyć :)
 
-W Internecie znajduje się mnóstwo kursów, a także interaktywnych tutoriali. Główny workflow zamieściliśmy powyżej - na pewno sobie poradzisz :) W przypadku problemów prosimy o kontakt - spróbujemy pomóc.
+W Internecie znajduje się mnóstwo kursów (polecam [http://gitimmersion.com/](http://gitimmersion.com/)), a także interaktywnych tutoriali. Główny workflow zamieściliśmy powyżej - na pewno sobie poradzisz :) W przypadku problemów prosimy o kontakt - spróbujemy pomóc.
 
 ### Q: Kiedy pojawi się mój post na stronie?
 Strona aktualizuje się o każdej pełnej godzinie. Staraliśmy się o auto-deployment przy każdym merge'u, ale wymaga to trochę więcej wysiłku... Może pewnego dnia ulepszymy ten proces.
