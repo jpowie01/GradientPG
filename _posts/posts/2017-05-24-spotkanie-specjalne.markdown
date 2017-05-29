@@ -14,4 +14,4 @@ Kolejne spotkanie koła naukowego odbędzie się za tydzień (a nie za dwa tygod
 
 Mianowicie, 29 maja prezentację na nasze spotkanie przygotuje firma [SentiOne](https://sentione.com/). SentiOne jest bardzo prężnie rozwijającą się gdańską firmą, zajmującą się analizą sentymentu, która pojawiła się zresztą ostatnio na spotkaniu. Prelegentem będzie Michał Brzezicki CTO i wiceprezes firmy. Opowie o zagadnieniach, którymi zajmuje się firma oraz o rozpoczynanym właśnie projekcie badawczym.
 
-Godzina jak zwykle **18:15 w sali NE206**. Bardzo gorąco zapraszamy!
+Godzina jak zwykle **18:15 w ~~sali NE206~~ audytorium NE AUD1L**. Bardzo gorąco zapraszamy!
