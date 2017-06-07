@@ -42,6 +42,13 @@ code {
 	text-indent: 0px !important;
 }
 
+blockquote {
+	background: #eeeeee;
+	margin: 10px 20px 10px 20px;
+	padding: 10px 10px 10px 20px;
+	border-left: 2px #aaaaaa solid;
+}
+
 pre code.hljs {
 	font: normal modular-scale(-1) Consolas, Monaco, monospace;
 	padding: 1em;
