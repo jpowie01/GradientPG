@@ -15,6 +15,17 @@
   <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.11.0/styles/{{ site.highlightjs_theme }}.min.css">
   <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css">
 
+  <!-- Google Analytics -->
+  {% if site.ga_tracking_id %}
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.ga_tracking_id }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', '{{ site.ga_tracking_id }}');
+  </script>
+  {% endif %}
+
   <!-- Favicon and other icons (made with http://www.favicon-generator.org/) -->
   <link rel="shortcut icon" href="{{ "/assets/icons/favicon.ico" | prepend: site.baseurl }}" type="image/x-icon">
   <link rel="icon" href="{{ "/assets/icons/favicon.ico" | prepend: site.baseurl }}" type="image/x-icon">
