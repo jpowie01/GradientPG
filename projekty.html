@@ -6,7 +6,8 @@ permalink: /projekty/
 
 {% if site.categories.Projekty %}
 	<ul class="post-list" style="margin-bottom: 20px;">
-		{% for post in site.categories.Projekty %}
+		{% assign sorted_posts = (site.categories.Projekty | sort: 'title') %}
+		{% for post in sorted_posts %}
 			<li style="padding: 10px 0;">
 				<img src="{{ post.thumbnail | prepend: site.baseurl }}" style="width: 30%; margin-right: 20px; margin-bottom: 30px; float: left;" />
 				<section>
