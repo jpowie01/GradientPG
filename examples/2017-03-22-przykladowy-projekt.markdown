@@ -6,7 +6,7 @@ author: Jakub Powierza
 categories: Projekty
 tags:	python siec-neuronowa konwolucja
 cover:  "/assets/przykladowy_projekt.jpg"
-miniature: "/assets/przykladowy_projekt.mini.jpg"
+thumbnail: "/assets/przykladowy_projekt.mini.jpg"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis commodo ipsum eu varius ullamcorper. Proin rutrum massa nec tellus vulputate, ut elementum odio luctus. Curabitur non cursus est. Vestibulum non turpis in augue elementum faucibus ut ac tellus. Donec quis rutrum orci. Fusce quis purus in ex dignissim elementum id eu ipsum.
