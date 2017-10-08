@@ -18,7 +18,7 @@ Istniejące systemy do zarządzania zasobami obliczeniowymi są integrowane z fr
 
 Celem projektu TensorHive byłoby stworzenie lekkiego frameworka do rozpraszania treningów w Distributed TensorFlow, który wymagałby jedynie podania listy hostów dostępnych przez SSH, sam dokonywałby wykrycia dostępnych zasobów, umożliwiałby monitoring zajęcia zasobów, zarządzanie i szeregowanie zadań. Z podobną tematyką mierzyliśmy się w KASKu do tej pory w ramach projektu [KernelHive](http://onlinelibrary.wiley.com/doi/10.1002/cpe.3719/abstract), którego elementy mogą być wykorzystane w nowym projekcie. Mechanizm uruchamiania zadań mógłby być współdzielony przez oba systemy. Aby skorzystać z istniejącej marki, a jednocześnie reklamować ją dalej, proponuję rozwijać projekt pod nazwą TensorHive.
 
-Repozytorium projektu: https://github.com/roscisz/TensorHive
+Repozytorium projektu: [https://github.com/roscisz/TensorHive](https://github.com/roscisz/TensorHive)
 
 ### Zespół
 - Paweł Rościszewski (w ramach dalszej pracy badawczej),
