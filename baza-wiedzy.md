@@ -10,9 +10,9 @@ Już niedługo na poniższej stronie zaczną się pojawiać odnośniki do źród
 aktywnych członków naszego koła naukowego i stanowi reprezentację naszej wiedzy oraz zainteresowań.
 
 ## Spis treści
-- [Nagłówek 1](#nagłówek-1)
-- [Nagłówek 2](#nagłówek-2)
-- [Nagłówek 3](#nagłówek-3)
+- [Nagłówek 1](#nagwek-1)
+- [Nagłówek 2](#nagwek-2)
+- [Nagłówek 3](#nagwek-3)
 
 ### Nagłówek 1
 - test
