@@ -18,47 +18,75 @@ Ważnym jest odpowiednie nazewnictwo pliku! W przeciwnym przypadku silnik strony
 ```
 
 ### Q: Jak postawić całą stroną u mnie na komputerze?
-Postaraliśmy się, aby stronę można było postawić jak najszybciej oraz jak najwygodniej. Istnieją dwie możliwe drogi, których wybór zależy od Ciebie.
+Postaraliśmy się, aby stronę można było postawić jak najszybciej oraz jak najwygodniej. Istnieją trzy możliwe drogi, których wybór zależy od Ciebie.
 
-##### Opcja A. Docker Compose (rekomendowane)
-Jest to najwygodniejsza możliwa droga do przetestowanie swojej treści u siebie lokalnie. Jak to zrobić:
+##### Opcja A. Vagrant
+Jest to najwygodniejsza możliwa droga do przetestowanie swojej treści u siebie lokalnie. Wymaga, aby na Twoim komputerze znajdował się:
+- [VirtualBox](https://www.virtualbox.org) (im nowsza wersja tym lepiej - przynajmniej v5.1.0),
+- [Vagrant](https://www.vagrantup.com).
+
+Gdy upewnisz się, że wszystkie narzędzia już posiadasz, wymagane są poniższe kroki:
+1. Wejdź do terminala i przejdź do katalogu z poniższym projektem.
+2. Uruchom polecenie:
+```bash
+$ vagrant up
+```
+W tym momencie Vagrant przygotuje dla Ciebie maszynę wirtualną z Linuxem oraz wszelkimi potrzebnymi zależnościami.
+3. Połącz się z maszyną wirtualną poprzez SSH:  
+```bash
+$ vagrant ssh
+```
+4. Uruchom skrypt odpalający stronę na Twojej maszynie:
+```bash
+ubuntu@ubuntu-xenial:/vagrant$ ./run_server.sh --watch
+```
+5. Gotowe! Strona powinna być dostępna pod adresem `http://10.0.0.99/`.
+
+**TIP:** Jeżeli masz problemy z automatycznym odświeżaniem zawartości strony podczas modyfikacji treści, usuń opcję `--watch` i restartuj
+serwer manualnie po każdej zmianie.
+
+##### Opcja B. Docker Compose
+Docker ma swoje dni i bardzo często może mieć problemy na niektórych dystrybucjach Linuxa. Co więcej, Windows nie działa prawie wcale, a
+zainstalowanie samego Dockera to również przygoda (oby coś się zmieniło w przyszłości) :)
+
+Instrukcja:
 1. Zainstaluj na swoim komputerze Dockera. Szczegółowe instrukcje znajdziesz na stronie [producenta](https://www.docker.com/community-edition).
 2. Sklonuj repozytorium gdzieś u siebie na komputerze:  
 ```bash
-git clone https://github.com/jpowie01/GradientPG.git
+$ git clone https://github.com/jpowie01/GradientPG.git
 ```
 3. W folderze ze źródłami użyj polecenia:
 ```bash
-docker-compose up
+$ docker-compose up
 ```
 **UWAGA!** Polecenie za pierwszym razem może chwilę potrwać ze względu na pobranie obrazu z Internetu!
 4. Gotowe! Przejdź do swojej przeglądarki i wejdź na stronę `http://127.0.0.1:4000/`. Gdy tylko dodasz swoją treść do kodu - strona powinna zostać automatycznie wygenerowana oraz będzie sama aktualizowała swoją treść.
 
 **TIP:** Z powodu buga (prawdopodobnie w samym Jekyllu) sugerujemy trzymanie niniejszego projektu w miejscu, do którego ścieżka będzie zawierała tylko i wyłącznie kody ASCII (bez polskich znaków). W przeciwnym wypadku możesz mieć problemy z długą (bądź nawet wyłączoną) automatyczną aktualizacją strony.
 
-##### Opcja B. Zainstalowanie wszystkiego osobno
+##### Opcja C. Zainstalowanie wszystkiego natywnie
 Jest to opcja szczerze mówiąc masochistyczna. Wymaga ona instalacji wszystkich składników osobno. Jest to o tyle trudniejsza droga do opisania, gdyż zależy ona od posiadanego systemu operacyjnego.  
 
 Przykładowo - dla Ubuntu należy wykonać następujące kroki:
 1. Zainstaluj na swoim komputerze następujące paczki:
 ```bash
-sudo apt-get install make gcc ruby ruby-dev nodejs
+$ sudo apt-get install make gcc ruby ruby-dev nodejs
 ```
 2. Zainstaluj następujący pakiet za pomocą Gema:
 ```bash
-gem install bundler
+$ gem install bundler
 ```
 3. Sklonuj repozytorium gdzieś u siebie na komputerze:  
 ```bash
-git clone https://github.com/jpowie01/GradientPG.git
+$ git clone https://github.com/jpowie01/GradientPG.git
 ```
 4. W folderze ze źródłami wykonaj następujące polecenie:
 ```bash
-bundle install
+$ bundle install
 ```
 5. Następnie uruchom stronę następującym poleceniem:
 ```bash
-bundle exec jekyll serve
+$ bundle exec jekyll serve
 ```
 6. Gotowe! Przejdź do swojej przeglądarki i wejdź na stronę `http://127.0.0.1:4000/`. Gdy tylko dodasz swoją treść do kodu - strona powinna zostać automatycznie wygenerowana.
 
@@ -76,21 +104,21 @@ Nie, nie musisz. Możesz dodać post poprzez GUI z poziomu GitHuba. Nie będzies
 Do kontrybucji będziemy wykorzystywać następujący flow:
 1. Sklonuj repozytorium gdzieś u siebie na komputerze:  
 ```bash
-git clone https://github.com/jpowie01/GradientPG.git
+$ git clone https://github.com/jpowie01/GradientPG.git
 ```
 2. Stwórz brancha, na którym będziesz pracować (proszę o zachowanie konwencji nazewniczej):
 ```bash
-git checkout -b imie_nazwisko/tytul_posta_lub_projektu
+$ git checkout -b imie_nazwisko/tytul_posta_lub_projektu
 ```
 3. Zmodyfikuj stronę oraz przetestuj ją lokalnie.
 4. Zacommituj swoje zmiany:
 ```bash
-git add .
-git commit -m "Opis wprowadzonych zmian"
+$ git add .
+$ git commit -m "Opis wprowadzonych zmian"
 ```
 5. Wyślij swoje zmiany na GitHuba:
 ```bash
-git push origin imie_nazwisko/tytul_posta_lub_projektu
+$ git push origin imie_nazwisko/tytul_posta_lub_projektu
 ```
 6. Wejdź na GitHuba, a następnie utwórz Pull Request (więcej informacji znajdziesz [tutaj](https://help.github.com/articles/creating-a-pull-request/#creating-the-pull-request)).  
 
