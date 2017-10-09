@@ -4,7 +4,7 @@
 #
 
 # Upewnij sie, ze uzytkownik wejdzie do katalogu /vagrant przy wejsciu poprzez SSH
-echo "cd /vagrant" >> ~/.bash_profile
+echo "cd /vagrant" >> /home/ubuntu/.bash_profile
 
 # Update repozytoriow
 apt-get update
