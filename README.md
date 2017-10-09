@@ -31,7 +31,8 @@ Gdy upewnisz się, że wszystkie narzędzia już posiadasz, wymagane są poniżs
 ```bash
 $ vagrant up
 ```
-W tym momencie Vagrant przygotuje dla Ciebie maszynę wirtualną z Linuxem oraz wszelkimi potrzebnymi zależnościami.
+W tym momencie Vagrant przygotuje dla Ciebie maszynę wirtualną z Linuxem oraz wszelkimi potrzebnymi zależnościami. **Cierpliwości** - to może chwilę potrwać! :)
+
 3. Połącz się z maszyną wirtualną poprzez SSH:  
 ```bash
 $ vagrant ssh
