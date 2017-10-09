@@ -20,7 +20,7 @@ Ważnym jest odpowiednie nazewnictwo pliku! W przeciwnym przypadku silnik strony
 ### Q: Jak postawić całą stroną u mnie na komputerze?
 Postaraliśmy się, aby stronę można było postawić jak najszybciej oraz jak najwygodniej. Istnieją trzy możliwe drogi, których wybór zależy od Ciebie.
 
-##### Opcja A. Vagrant
+##### Opcja A. Vagrant (rekomendowana)
 Jest to najwygodniejsza możliwa droga do przetestowanie swojej treści u siebie lokalnie. Wymaga, aby na Twoim komputerze znajdował się:
 - [VirtualBox](https://www.virtualbox.org) (im nowsza wersja tym lepiej - przynajmniej v5.1.0),
 - [Vagrant](https://www.vagrantup.com).
@@ -40,10 +40,10 @@ $ vagrant ssh
 ```bash
 ubuntu@ubuntu-xenial:/vagrant$ ./run_server.sh --watch
 ```
-5. Gotowe! Strona powinna być dostępna pod adresem `http://10.0.0.99/`.
+5. Gotowe! Strona powinna być dostępna pod adresem `http://10.0.0.99/` i zmieniać swoją treść wraz z Twoimi modyfikacjami.
 
 **TIP:** Jeżeli masz problemy z automatycznym odświeżaniem zawartości strony podczas modyfikacji treści, usuń opcję `--watch` i restartuj
-serwer manualnie po każdej zmianie.
+serwer manualnie po każdej zmianie. Bardzo możliwe, że jest to bug po stronie Jekylla.
 
 ##### Opcja B. Docker Compose
 Docker ma swoje dni i bardzo często może mieć problemy na niektórych dystrybucjach Linuxa. Co więcej, Windows nie działa prawie wcale, a
