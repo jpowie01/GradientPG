@@ -61,6 +61,7 @@ $ git clone https://github.com/jpowie01/GradientPG.git
 $ docker-compose up
 ```
 **UWAGA!** Polecenie za pierwszym razem może chwilę potrwać ze względu na pobranie obrazu z Internetu!
+
 4. Gotowe! Przejdź do swojej przeglądarki i wejdź na stronę `http://127.0.0.1:4000/`. Gdy tylko dodasz swoją treść do kodu - strona powinna zostać automatycznie wygenerowana oraz będzie sama aktualizowała swoją treść.
 
 **TIP:** Z powodu buga (prawdopodobnie w samym Jekyllu) sugerujemy trzymanie niniejszego projektu w miejscu, do którego ścieżka będzie zawierała tylko i wyłącznie kody ASCII (bez polskich znaków). W przeciwnym wypadku możesz mieć problemy z długą (bądź nawet wyłączoną) automatyczną aktualizacją strony.
