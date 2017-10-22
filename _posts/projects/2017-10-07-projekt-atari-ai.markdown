@@ -19,4 +19,5 @@ For more details (also to see our development direction and current work) see ou
 ### Team
 - Piotr Januszewski,
 - Jakub Powierza,
+- Krzysztof Przekwas,
 - Sebastian Cygert.
