@@ -16,6 +16,8 @@ Jesteśmy otwarci na współpracę z trójmiejskimi (i nie tylko) firmami w celu
 ## Jak do nas dołączyć?
 Prosimy o [kontakt mailowy](mailto:{{ site.email }}) w celu uzyskania dostępu do materiałów zarezerwowanych wyłącznie dla członków naszego koła. Znajdziesz tam wszystkie informacje potrzebne do rozpoczęcia przygody z Machine Learningiem oraz Artificial Inteligence. Po uzyskaniu dostępu do grupy Google staniesz się częścią społczeności Gradientu :)
 
+Przed dołączeniem zapraszamy do zapoznania się z aktualnym [statutem](/statut).
+
 ## Członkowie Zarządu
 - Piotr Januszewski (Prezes),
 - Mateusz Jabłoński,

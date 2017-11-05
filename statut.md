@@ -2,6 +2,7 @@
 layout: page
 title: Statut
 permalink: /statut/
+main_nav: false
 ---
 
 **I. Postanowienia ogólne**
