@@ -104,9 +104,9 @@ Nie, nie musisz. Możesz dodać post poprzez GUI z poziomu GitHuba. Nie będzies
 
 ### Q: Jak udostępnić mój post w ramach strony?
 Do kontrybucji będziemy wykorzystywać następujący flow:
-1. Sklonuj repozytorium gdzieś u siebie na komputerze:  
+1. Zrób forka repozytorium (przycisk "Fork"), a następnie sklonuj repozytorium gdzieś u siebie na komputerze:  
 ```bash
-$ git clone https://github.com/jpowie01/GradientPG.git
+$ git clone https://github.com/TWOJ_GITHUB_LOGIN/GradientPG.git
 ```
 2. Stwórz brancha, na którym będziesz pracować (proszę o zachowanie konwencji nazewniczej):
 ```bash
@@ -123,9 +123,6 @@ $ git commit -m "Opis wprowadzonych zmian"
 $ git push origin imie_nazwisko/tytul_posta_lub_projektu
 ```
 6. Wejdź na GitHuba, a następnie utwórz Pull Request (więcej informacji znajdziesz [tutaj](https://help.github.com/articles/creating-a-pull-request/#creating-the-pull-request)).  
-
-**UWAGA!** Jako, że nasze repozytorium jest prywatne - każdy ma możliwość zmerge'owania swoich zmian do mastera bez przechodzenia etapu review. Prosimy jednak o rozwagę i dostosowanie się do regulaminu repozytorium. Merge'a może dokonać tylko członek Zarządu Koła lub Administrator repozytorium!
-
 ### Q: Nigdy wcześniej nie korzystałem/-am z Gita. Muszę się go uczyć?
 Git stał się obecnie najpowszechniejszym narzędziem do kontroli wersji. Prędzej czy później każdy z nas będzie się go musiał nauczyć :)
 
@@ -161,12 +158,7 @@ Więcej przykładów znajdziecie [tutaj](https://cdn.mathjax.org/mathjax/latest/
 **Tip:** Pobierzcie sobie dany przykład na dysk (prawy przycisk myszy na linku -> zapisz jako) i przejrzyjcie kod źródłowy danego przykładu :)
 
 ### Q: Chcę dodać plik do mojego posta/projektu. Jak to zrobić?
-Przechowywanie dużych plików w repozytorium jest dość "upierdliwe". Każdy pull/fetch wymagać będzie od wszystkich osób pobierania całego folderu ze wszystkimi plikami, których prawie na pewno nie użyjesz :) Dlatego też... przygotowaliśmy osobne repozytorium na takie pliki :) Jak zapewne zauważyłeś w katalogu głównym znajduje się podmoduł gita (ang. submodule). Jest to nic innego jak link do innego repozytorium, które znajdziesz [tutaj](https://github.com/jpowie01/GradientPG_Pliki). Wystarczy, że wejdziesz na GitHuba i wrzucisz do niego plik metodą drag-and-drop. Instrukcja krok po kroku:
-1. Wejdź na stronę projektu na GitHubie.
-2. Wejdź do odpowiedniego katalogu (np. pdf).
-3. Przenieś plik ze swojego komputera metodą drag-and-drop albo użyj opcji "Upload files" w prawym górnym rogu.
-4. Postępuj z instrukcjami w formularzu i stwórz Pull Requesta.
-5. Poczekaj na naszą akceptację! Nie klikaj "Merge"!
+Przechowywanie dużych plików w repozytorium jest dość "upierdliwe". Każdy pull/fetch wymagać będzie od wszystkich osób pobierania całego folderu ze wszystkimi plikami, których prawie na pewno nie użyjesz :) Dlatego też... przygotowaliśmy osobne repozytorium na takie pliki :) Jak zapewne zauważyłeś w katalogu głównym znajduje się podmoduł gita (ang. submodule). Jest to nic innego jak link do innego repozytorium, które znajdziesz [tutaj](https://github.com/jpowie01/GradientPG_Pliki). Wystarczy, że zrobisz pull request tak samo jak to robiłeś/-aś podczas dodawania nowego postu.
 
 Plik będzie dostępny na stronie internetowej pod linkiem: [http://gradient.eti.pg.gda.pl/pliki/<ŚCIEŻKA>](http://gradient.eti.pg.gda.pl/pliki/<ŚCIEŻKA>). Pliki pobierane są podczas deploymentu, który odpala się o każdej pełnej godzinie.  
 
