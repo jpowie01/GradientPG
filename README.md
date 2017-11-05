@@ -16,6 +16,32 @@ Ważnym jest odpowiednie nazewnictwo pliku! W przeciwnym przypadku silnik strony
 ```
 [ROK]-[MIESIĄC]-[DZIEŃ]-[tytul-posta-malymi-literami-bez-pl-znakow].markdown
 ```
+### Q: Jak udostępnić mój post w ramach strony?
+Do kontrybucji będziemy wykorzystywać następujący flow:
+1. Zrób forka repozytorium (przycisk "Fork"), a następnie sklonuj repozytorium gdzieś u siebie na komputerze:  
+```bash
+$ git clone https://github.com/TWOJ_GITHUB_LOGIN/GradientPG.git
+```
+2. Stwórz brancha, na którym będziesz pracować (proszę o zachowanie konwencji nazewniczej):
+```bash
+$ git checkout -b imie_nazwisko/tytul_posta_lub_projektu
+```
+3. Zmodyfikuj stronę oraz przetestuj ją lokalnie.
+4. Zacommituj swoje zmiany:
+```bash
+$ git add .
+$ git commit -m "Opis wprowadzonych zmian"
+```
+5. Wyślij swoje zmiany na GitHuba:
+```bash
+$ git push origin imie_nazwisko/tytul_posta_lub_projektu
+```
+6. Wejdź na GitHuba, a następnie utwórz Pull Request (więcej informacji znajdziesz [tutaj](https://help.github.com/articles/creating-a-pull-request/#creating-the-pull-request)).  
+
+### Q: Nigdy wcześniej nie korzystałem/-am z Gita. Muszę się go uczyć?
+Git stał się obecnie najpowszechniejszym narzędziem do kontroli wersji. Prędzej czy później każdy z nas będzie się go musiał nauczyć :)
+
+W Internecie znajduje się mnóstwo kursów (polecam [http://gitimmersion.com/](http://gitimmersion.com/)), a także interaktywnych tutoriali. Główny workflow zamieściliśmy powyżej - na pewno sobie poradzisz :) W przypadku problemów prosimy o kontakt - spróbujemy pomóc.
 
 ### Q: Jak postawić całą stroną u mnie na komputerze?
 Postaraliśmy się, aby stronę można było postawić jak najszybciej oraz jak najwygodniej. Istnieją trzy możliwe drogi, których wybór zależy od Ciebie.
@@ -99,39 +125,13 @@ Pomocne mogą się okazać następujące źródła:
 - [dokumentacja GitHub Pages](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/).
 
 ### Q: Czy muszę stawiać stronę lokalnie?
-Nie, nie musisz. Możesz dodać post poprzez GUI z poziomu GitHuba. Nie będziesz miał jednak możliwości kontroli nad dodawaną treścią oraz nie będziesz mógł upewnić się, że Twoje dzieło będzie wyglądało poprawnie na stronie.  
+Nie, nie musisz, ale nie będziesz mógł upewnić się, że Twoje dzieło będzie wyglądało poprawnie na stronie.  
 **Rekomendujemy, aby testować swoje posty i projekty lokalnie!**
-
-### Q: Jak udostępnić mój post w ramach strony?
-Do kontrybucji będziemy wykorzystywać następujący flow:
-1. Zrób forka repozytorium (przycisk "Fork"), a następnie sklonuj repozytorium gdzieś u siebie na komputerze:  
-```bash
-$ git clone https://github.com/TWOJ_GITHUB_LOGIN/GradientPG.git
-```
-2. Stwórz brancha, na którym będziesz pracować (proszę o zachowanie konwencji nazewniczej):
-```bash
-$ git checkout -b imie_nazwisko/tytul_posta_lub_projektu
-```
-3. Zmodyfikuj stronę oraz przetestuj ją lokalnie.
-4. Zacommituj swoje zmiany:
-```bash
-$ git add .
-$ git commit -m "Opis wprowadzonych zmian"
-```
-5. Wyślij swoje zmiany na GitHuba:
-```bash
-$ git push origin imie_nazwisko/tytul_posta_lub_projektu
-```
-6. Wejdź na GitHuba, a następnie utwórz Pull Request (więcej informacji znajdziesz [tutaj](https://help.github.com/articles/creating-a-pull-request/#creating-the-pull-request)).  
-### Q: Nigdy wcześniej nie korzystałem/-am z Gita. Muszę się go uczyć?
-Git stał się obecnie najpowszechniejszym narzędziem do kontroli wersji. Prędzej czy później każdy z nas będzie się go musiał nauczyć :)
-
-W Internecie znajduje się mnóstwo kursów (polecam [http://gitimmersion.com/](http://gitimmersion.com/)), a także interaktywnych tutoriali. Główny workflow zamieściliśmy powyżej - na pewno sobie poradzisz :) W przypadku problemów prosimy o kontakt - spróbujemy pomóc.
 
 ### Q: Kiedy pojawi się mój post na stronie?
 Strona aktualizuje się o każdej pełnej godzinie. Staraliśmy się o auto-deployment przy każdym merge'u, ale wymaga to trochę więcej wysiłku... Może pewnego dnia ulepszymy ten proces.
 
-### Q: Jak dodać kod do mojego projektu?
+### Q: Jak dodać kod do mojego tekstu?
 Aby dodać kod, wystarczy, że użyjesz następującej składni:
 ```
 {% highlight python %}
@@ -142,7 +142,7 @@ demo('hello', 'world')
 {% endhighlight %}
 ```
 
-### Q: Jak dodać wzór matmatyczny do mojego projektu?
+### Q: Jak dodać wzór matmatyczny do mojego tekstu?
 Na stronie można swobodnie umieszczać wzory matematyczne zapisane w formacie LaTeX. Wystarczy je owinąć w znacznik podwójnego dolara, a reszta zostanie sparsowana auto-magicznie. Biblioteka, którą zainstalowaliśmy powinna także poradzić sobie z innymi formatami.
 
 Przykład użycia wzoru zapisanego w LaTeX:
