@@ -20,4 +20,5 @@ For more details (also to see our development direction and current work) see ou
 - Piotr Januszewski,
 - Jakub Powierza,
 - Krzysztof Przekwas,
+- Piotr Sobczak,
 - Sebastian Cygert.
