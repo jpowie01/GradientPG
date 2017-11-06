@@ -29,6 +29,8 @@ Na wstępie chcielibyśmy polecić subskrypcję newslettera [The Wild Week in AI
 
 #### Kanały i playlisty na YouTube
 - [3Blue1Brown - Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+- [Siraj Raval - Artificial Intelligence Education](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+- [Two Minute Papers - AI and Deep Learnine](https://www.youtube.com/playlist?list=PLujxSBD-JXglGL3ERdDOhthD3jTlfudC2)
 - [Welch Labs - Neural Networks Demystified](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
 
 #### Książki
