@@ -60,6 +60,12 @@ Na wstępie chcielibyśmy polecić subskrypcję newslettera [The Wild Week in AI
 #### Posty warte uwagi:
 - [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
 
+#### Książki
+
+- [Artificial Intelligence: A Modern Approach (3rd Edition)](https://dcs.abu.edu.ng/staff/abdulrahim-abdulrazaq/courses/cosc208/Artificial%20Intelligence%20A%20Modern%20Approach%20(3rd%20Edition).pdf)
+- [Reinforcement Learning: An Introduction (2nd Edition Draft)](http://ufal.mff.cuni.cz/~straka/courses/npfl114/2016/sutton-bookdraft2016sep.pdf)
+
+
 #### Kursy Sztuczna Inteligencja
 - **Berkeley cs188** - Intro to AI:
   - [edXedge - wykłady oraz zadania](https://edge.edx.org/courses/course-v1:Berkeley+CS188+SP17/course/)
