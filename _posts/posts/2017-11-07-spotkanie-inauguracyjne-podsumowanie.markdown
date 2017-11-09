@@ -37,6 +37,11 @@ problemem.
 
 [<i class="fa fa-file-audio-o" aria-hidden="true"></i> MID]({{ site.url }}/pliki/mid/2017-11-07-spotkanie-inauguracyjne-podsumowanie/GenerowanieMuzyki.mid) - Przykład wygenerowanego utworu
 
+#### Wprowadzenie do TensorFlow
+Krótkie wprowadzenie do działania oraz podstawowe informacje o najpopularniejszym frameworku do uczenia maszynowego.
+
+[<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF]({{ site.url }}/pliki/pdf/2017-11-07-spotkanie-inauguracyjne-podsumowanie/TensorFlow.pdf) - Prezentacja
+
 #### Galeria zdjęć
 ![Zdjęcie 1]({{ site.url }}/pliki/jpg/2017-11-07-spotkanie-inauguracyjne-podsumowanie/Image1.jpg)  
 ![Zdjęcie 2]({{ site.url }}/pliki/jpg/2017-11-07-spotkanie-inauguracyjne-podsumowanie/Image2.jpg)  
