@@ -39,6 +39,10 @@ Na wstępie chcielibyśmy polecić subskrypcję newslettera [The Wild Week in AI
 #### Kursy oraz wykłady
 - [Deep Learning Summer School](http://videolectures.net/deeplearning2017_montreal/)
 
+#### Tutoriale frameworków
+- [PyTorch](http://pytorch.org/tutorials/)
+- [TensorFlow](https://www.tensorflow.org/tutorials/)
+
 ---
 ## Wizja komputerowa
 
