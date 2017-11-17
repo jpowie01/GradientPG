@@ -20,7 +20,7 @@ Spotykamy się w co drugi poniedziałek na Nowym Wydziale ETi Politechniki Gdań
 Jesteśmy otwarci na współpracę z trójmiejskimi (i nie tylko) firmami w celu promocji i rozwoju zainteresowania sztuczną inteligencją w środowisku akademickim. Planujemy kontynuować rozwój naszych projektów, a także organizować spotkania/konferencje z wieloma zaproszonymi gośćmi. Jeżeli jesteś zainteresowany/-a współpracą - prosimy o [kontakt mailowy](mailto:{{ site.email }}) :)
 
 ## Jak do nas dołączyć?
-W celu dołączenia do naszego koła naukowego prosimy o [kontakt mailowy](mailto:{{ site.email }}) (z adresu mailowego połączonego z kontem Google). Jako nowy członek koła naukowego uzyskasz dostęp do wewnętrzej grupy Google oraz Twista, w ramach którego spotkasz pozostałych członków koła :) Wszelkie materiały, potrzebne do nauki, znajdują się w zakładce "Baza wiedzy". Lista będzie sukcesywnie rozszerzana o dodatkowe pozycje!
+W celu dołączenia do naszego koła naukowego prosimy o [kontakt mailowy](mailto:{{ site.email }}) (z adresu mailowego połączonego z kontem Google). Jako nowy członek koła naukowego uzyskasz dostęp do wewnętrzej grupy Google oraz Twista, w ramach którego spotkasz pozostałych członków koła :) Wszelkie materiały potrzebne do nauki, znajdują się w zakładce "Baza wiedzy". Lista będzie sukcesywnie rozszerzana o dodatkowe pozycje!
 
 Przed dołączeniem do naszej społeczności zapraszamy do zapoznania się z aktualnym [statutem](/statut).
 
