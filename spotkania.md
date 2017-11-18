@@ -24,7 +24,7 @@ odpowiednie pasmo :)
     <tr><td>2017-11-06</td><td>Spotkanie Inauguracyjne</td><td>Piotr Januszewski</td><td><a href="/spotkania/2017/11/08/spotkanie-inauguracyjne-podsumowanie.html">Post</a></td></tr>
 
     <tr><td colspan="4"><strong>1. Wprowadzenie do uczenia maszynowego i sieci neuronowych</strong></td></tr>
-    <tr><td>2017-11-20</td><td>Wprowadzenie do ML</td><td>mgr Karol Draszawka</td><td>n/a</td></tr>
+    <tr><td>2017-11-20</td><td>Wprowadzenie do ML</td><td>mgr Karol Draszawka</td><td><a href="/spotkania/2017/11/18/spotkanie.html">Post</a></td></tr>
     <tr><td>2017-12-04</td><td>Wprowadzenie do ANN na przykładzie gęstej sieci klasyfikującej MNISTa</td><td>Krzysiek Przekwas</td><td>n/a</td></tr>
 
     <tr><td colspan="4"><strong>2. Wizja komputerowa</strong></td></tr>
