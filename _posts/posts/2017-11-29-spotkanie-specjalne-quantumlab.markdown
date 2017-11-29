@@ -10,7 +10,7 @@ cover:  "/assets/posts/budynek_eti.jpg"
 ---
 
 Witajcie!  
-Już w najbliższy poniedziałek odbędzie się kolejne spotkanie naszego koła. Tym razem będzie wyjątkowo! Co ciekawego przygotowaliśmy dla Was tym razem? 
+Już w najbliższy poniedziałek odbędzie się kolejne spotkanie naszego koła. Tym razem również będzie wyjątkowo! Co ciekawego przygotowaliśmy dla Was tym razem? 
 
 Na pierwszej godzinie spotkamy się z firmą Quantum Lab, pracującą nad produktami zdolnymi do rozpoznawania ludzkich emocji. Czym się ona zajmuje? Jak wygląda końcowy produkt? Na te pytania opowiedzą nam prezes Bartosz Rychlicki oraz przedstawicielka firmy Magdalena Jarosz. Więcej informacji na temat Quantum Lab znajdziecie na ich [stronie internetowej](https://quantumlab.co/). Liczymy, że to nie ostatnie spotkanie, a więc czekajcie na więcej :)
 
