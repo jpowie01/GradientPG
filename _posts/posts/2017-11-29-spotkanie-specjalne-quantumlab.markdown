@@ -16,5 +16,7 @@ Na pierwszej godzinie spotkamy się z firmą Quantum Lab, pracującą nad produk
 
 Na drugiej godzinie, zgodnie z cyklem mini-kursów, Krzysiek Przekwas przedstawi Wam wprowadzenie do sztucznych sieci neuronowych na przykładzie gęstej sieci klasyfikującej MNISTa. Będzie to nie lada gratka dla osób początkujących, aby wejść w świat modeli ANN. Nie bójcie się zadawać pytań, z chęcią pomożemy Wam w Waszym pierwszym kroku w świecie ML!
 
-Do zobaczenia w poniedziałek, **04.12.2017 w sali NE AUD1L o godzinie 18:15** :) Nie zapomnijcie zabrać swoich laptopów, mogą się przydać!
+Do zobaczenia w poniedziałek, **04.12.2017 w sali ~~NE AUD1L~~ EA 32 o godzinie 18:15** :) Nie zapomnijcie zabrać swoich laptopów, mogą się przydać!
+
+**EDIT:** Z powodów obłożenia audytoriów spotkanie zostało przeniesione do EA 32.
 
