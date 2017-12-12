@@ -18,6 +18,4 @@ Starting from reproducing his work, we now go further developing better agents f
 
 ### Team
 - Piotr Januszewski,
-- Jakub Powierza,
-- Krzysztof Przekwas,
 - Piotr Sobczak.
