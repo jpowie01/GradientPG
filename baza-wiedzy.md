@@ -24,8 +24,9 @@ Na wstępie chcielibyśmy polecić subskrypcję newslettera [The Wild Week in AI
 - [Machine Learning - Clear, Dynamic and Vivid](https://distill.pub/)
 
 #### Demo
-- [Tinker With a Neural Network Right Here in Your Browser](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.79386&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 - [Teachable Machine from Google](https://teachablemachine.withgoogle.com/)
+- [Tinker With a Neural Network Right Here in Your Browser](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.79386&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
+- [Turn any photo into an artwork!](https://deepart.io/)
 
 #### Kanały i playlisty na YouTube
 - [3Blue1Brown - Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
