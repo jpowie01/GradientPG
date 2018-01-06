@@ -28,8 +28,8 @@ odpowiednie pasmo :)
     <tr><td>2017-12-04</td><td>Wprowadzenie do ANN na przykładzie gęstej sieci klasyfikującej MNISTa</td><td>Krzysiek Przekwas</td><td><a href="/spotkania/2017/11/29/spotkanie-specjalne-quantumlab.html">Post</a></td></tr>
 
     <tr><td colspan="4"><strong>2. Wizja komputerowa</strong></td></tr>
-    <tr><td>2017-12-18</td><td>Wprowadzenie do CNN</td><td>Jakub Powierza</td><td>n/a</td></tr>
-    <tr><td>2018-01-08</td><td>Hands-on CIFAR</td><td>Jakub Powierza</td><td>n/a</td></tr>
+    <tr><td>2017-12-18</td><td>Wprowadzenie do CNN</td><td>Jakub Powierza</td><td><a href="/spotkania/2017/12/13/spotkanie.html">Post</a></td></tr>
+    <tr><td>2018-01-08</td><td>Hands-on CIFAR</td><td>Jakub Powierza</td><td><a href="/spotkania/2018/01/06/spotkanie.html">Post</a></td></tr>
     <tr><td>2018-01-22</td><td>“Transfer Learning” na przykładzie Dogs vs. Cats</td><td>mgr Adam Brzeski</td><td>n/a</td></tr>
 
     <tr><td colspan="4"><strong>3. Rekurencyjne sieci neuronowe</strong></td></tr>
@@ -60,8 +60,8 @@ odpowiednie pasmo :)
     <tr><td>2017-11-06</td><td>-</td><td>-</td><td>-</td></tr>
     <tr><td>2017-11-20</td><td>-</td><td>-</td><td>-</td></tr>
     <tr><td>2017-12-04</td><td>Spotkanie z Quantum Lab</td><td>QuantumLab</td><td><a href="/spotkania/2017/11/29/spotkanie-specjalne-quantumlab.html">Post</a></td></tr>
-    <tr><td>2017-12-18</td><td>Spotkanie z VoiceLab</td><td>VoiceLab</td><td>n/a</td></tr>
-    <tr><td>2018-01-08</td><td>Wolny slot</td><td>Wolny slot</td><td>n/a</td></tr>
+    <tr><td>2017-12-18</td><td>Spotkanie z VoiceLab</td><td>VoiceLab</td><td><a href="/spotkania/2017/12/13/spotkanie.html">Post</a></td></tr>
+    <tr><td>2018-01-08</td><td>Prezentacja aktywnych projektów</td><td>-</td><td>n/a</td></tr>
     <tr><td>2018-01-22</td><td>Wolny slot</td><td>Wolny slot</td><td>n/a</td></tr>
     <tr><td>2018-02-26</td><td>Wolny slot</td><td>Wolny slot</td><td>n/a</td></tr>
     <tr><td>2018-03-12</td><td>Wolny slot</td><td>Wolny slot</td><td>n/a</td></tr>
