@@ -6,4 +6,4 @@ export HOME=/home/155173pj
 
 # Uruchamienie serwera na porcie 80
 cd $MAIN_DIR
-sudo $BUNDLE exec $JEKYLL serve --host 0.0.0.0 --port 80 --detach --watch
+sudo $BUNDLE exec $JEKYLL serve --host 0.0.0.0 --port 5000 --detach --watch
