@@ -33,7 +33,7 @@ odpowiednie pasmo :)
     <tr><td>2018-01-22</td><td>“Transfer Learning” na przykładzie klasyfikacji wnętrz budynków i pomieszczeń</td><td>mgr Adam Brzeski</td><td><a href="/spotkania/2018/01/22/spotkanie.html">Post</a></td></tr>
 
     <tr><td colspan="4"><strong>3. Rekurencyjne sieci neuronowe</strong></td></tr>
-    <tr><td>2018-02-26</td><td>Wprowadzenie do RNN i NLP</td><td>Grzegorz Beringer</td><td>n/a</td></tr>
+    <tr><td>2018-02-28</td><td>Wprowadzenie do RNN i NLP</td><td>Grzegorz Beringer</td><td><a href="/spotkania/2018/02/27/spotkanie.html">Post</a></td></tr>
     <tr><td>2018-03-12</td><td>Hands-on RNN</td><td>Grzegorz Beringer</td><td>n/a</td></tr>
     <tr><td>2018-03-26</td><td>Wprowadzenie do LSTM i generowanie muzyki</td><td>Michał Górecki</td><td>n/a</td></tr>
 
@@ -63,7 +63,7 @@ odpowiednie pasmo :)
     <tr><td>2017-12-18</td><td>Spotkanie z VoiceLab</td><td>VoiceLab</td><td><a href="/spotkania/2017/12/13/spotkanie.html">Post</a></td></tr>
     <tr><td>2018-01-08</td><td>Prezentacja aktywnych projektów</td><td>-</td><td>n/a</td></tr>
     <tr><td>2018-01-22</td><td>Doświadczenia z ImagineHack oraz ImagineCup</td><td>Krzysiek Przekwas</td><td><a href="/spotkania/2018/01/22/spotkanie.html">Post</a></td></tr>
-    <tr><td>2018-02-26</td><td>Wolny slot</td><td>Wolny slot</td><td>n/a</td></tr>
+    <tr><td>2018-02-28</td><td>Architektura work2vec</td><td>Wojciech Janowski</td><td><a href="/spotkania/2018/02/27/spotkanie.html">Post</a></td></tr>
     <tr><td>2018-03-12</td><td>Wolny slot</td><td>Wolny slot</td><td>n/a</td></tr>
     <tr><td>2018-03-26</td><td>Wolny slot</td><td>Wolny slot</td><td>n/a</td></tr>
     <tr><td>2018-04-09</td><td>Wolny slot</td><td>Wolny slot</td><td>n/a</td></tr>
