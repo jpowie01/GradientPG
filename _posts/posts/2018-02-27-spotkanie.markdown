@@ -10,7 +10,7 @@ cover:  "/assets/posts/budynek_eti.jpg"
 ---
 
 Hej!  
-Tym razem spotykamy się w środę (28.02) o godzinie 18:15 w sali NE 106. Narazie będzie to
+Tym razem spotykamy się w środę (28.02) o godzinie 18:00 w sali NE 106. Narazie będzie to
  nasz nowy termin spotkań, na koniec kwietnia będziemy mogli wrócić do poniedziałku.
 
 ### Agenda
