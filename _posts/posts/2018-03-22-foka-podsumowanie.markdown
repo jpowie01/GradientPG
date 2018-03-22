@@ -6,6 +6,7 @@ author: Jakub Powierza
 categories: Specjalne
 tags:	stoisko foka wydarzenie podsumowanie
 comments: true
+cover:  "/assets/posts/2018-03-22-foka-podsumowanie/tlo.jpg"
 ---
 
 Cześć!  
