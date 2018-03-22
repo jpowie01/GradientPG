@@ -101,9 +101,16 @@ pre code.hljs {
 		}
 	}
 	.scrim {
+        height: 340px;
+        @include media ($mobile) {
+            height: 400px;
+        }
+        @include media ($tablet) {
+            height: 440px;
+        }
 		padding: 3em 1em;
+        position: relative;
 		&.has-cover {
-			background-color: rgba(0,0,0,0.2);
 			padding: 6em 1em !important;
 			@include media($tablet) {
 				padding: 9em 1em !important;
@@ -448,4 +455,21 @@ pre code.hljs {
 			text-decoration: underline;
 		}
 	}
+}
+
+#main-page-particles {
+    position: absolute;
+    width: 100%;
+    height: 340px;
+    @include media ($mobile) {
+        height: 400px;
+    }
+    @include media ($tablet) {
+        height: 440px;
+    }
+    background-color: rgb(38, 124, 161);
+    background-image: url("");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
 }

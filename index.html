@@ -3,11 +3,12 @@ layout: default
 ---
 <div class="home">
 
-<div class="site-header-container {% if site.cover %}has-cover{% endif %}" {% if site.cover %}style="background-image: url({{ site.cover | prepend: site.baseurl }});"{% endif %}>
-  <div class="scrim {% if site.cover %}has-cover{% endif %}">
+<div class="site-header-container has-cover">
+  <div id="main-page-particles"></div>
+  <div class="scrim has-cover">
     <header class="site-header">
-      <h1 class="title">{{ site.title }}</h1>
-      {% if site.subtitle %}<p class="subtitle">{{ site.subtitle }}</p>{% endif %}
+      <h1 class="title">Gradient</h1>
+      <p class="subtitle">Sztuczna Inteligencja, Deep Learning & Machine Learning</p>
     </header>
   </div>
 </div>
