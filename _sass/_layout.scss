@@ -102,14 +102,14 @@ pre code.hljs {
 	}
 	.scrim {
         height: 340px;
-        @include media ($mobile) {
-            height: 400px;
-        }
-        @include media ($tablet) {
-            height: 440px;
-        }
+		@include media ($mobile) {
+			height: 400px;
+		}
+		@include media ($tablet) {
+			height: 440px;
+		}
 		padding: 3em 1em;
-        position: relative;
+		position: relative;
 		&.has-cover {
 			padding: 6em 1em !important;
 			@include media($tablet) {
