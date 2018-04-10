@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Spotkanie - 11.04.2018"
-date:   2018-04-10 22:00:00
+date:   2018-04-10 20:00:00
 author: Jakub Powierza
 categories: Spotkania
 tags:	spotkanie agenda
