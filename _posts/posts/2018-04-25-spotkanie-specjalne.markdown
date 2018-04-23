@@ -20,7 +20,7 @@ Na pierwszej godzinie zabierzemy się za hands-ony z Tabular Q-Learning oraz DQN
  zrobić ostatnio. Dlatego też nie zapomnijcie o przygotowaniu sobie środowiska do pracy :) Hands-ony
  poprowadzi **Piotr Januszewski**.
 
-Po przeprowadzeniu minikursu głos zajmie przedstawiciel firmy SalesInteligence, a zarazem wiceprezes,
+Po przeprowadzeniu minikursu głos zabierze przedstawiciel firmy SalesInteligence, a zarazem wiceprezes,
  **pan Wiktor Mazur**. SalesInteligence współpracuje z wieloma liczącymi się na rynku partnerami rynku
  e-commerce, wspierając ich swoimi rozwiązaniami wykorzystującymi Machine Learning. Możecie znać ich
  przede wszystkim z ich porównywarki cen [Nokaut.pl](https://nokaut.pl)!
