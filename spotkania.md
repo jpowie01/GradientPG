@@ -35,11 +35,11 @@ odpowiednie pasmo :)
     <tr><td colspan="4"><strong>3. Rekurencyjne sieci neuronowe</strong></td></tr>
     <tr><td>2018-02-28</td><td>Wprowadzenie do RNN i NLP</td><td>Grzegorz Beringer</td><td><a href="/spotkania/2018/02/27/spotkanie.html">Post</a></td></tr>
     <tr><td>2018-03-14</td><td>Hands-on RNN</td><td>Grzegorz Beringer</td><td><a href="/spotkania/2018/03/13/spotkanie.html">Post</a></td></tr>
-    <tr><td>2018-03-28</td><td>Wprowadzenie do LSTM i generowanie muzyki</td><td>Michał Górecki</td><td>n/a</td></tr>
+    <tr><td>2018-03-28</td><td>Wprowadzenie do LSTM i generowanie muzyki</td><td>Michał Górecki</td><td><a href="/spotkania/2018/03/28/spotkanie.html">Post</a></td></tr>
 
     <tr><td colspan="4"><strong>4. Uczenie ze wzmocnieniem</strong></td></tr>
-    <tr><td>2018-04-11</td><td>Introduction to decision theory (utility theory + probability theory) </td><td>Piotr Januszewski</td><td>n/a</td></tr>
-    <tr><td>2018-04-25</td><td>Value Iteration, Bellman equation, TD-Learning etc.</td><td>Piotr Januszewski</td><td>n/a</td></tr>
+    <tr><td>2018-04-18</td><td>Introduction to decision theory (utility theory + probability theory) </td><td>Piotr Januszewski</td><td><a href="/spotkania/2018/04/10/spotkanie.html">Post</a></td></tr>
+    <tr><td>2018-04-25</td><td>Value Iteration, Bellman equation, TD-Learning etc.</td><td>Piotr Januszewski</td><td><a href="/spotkania/2018/04/23/spotkanie-specjalne.html">Post</a></td></tr>
     <tr><td>2018-05-09</td><td>Policy Search, Vanilla Policy Gradients</td><td>Piotr Januszewski</td><td>n/a</td></tr>
 
     <tr><td colspan="4"><strong>5. Framework TensorFlow</strong></td></tr>
@@ -65,9 +65,9 @@ odpowiednie pasmo :)
     <tr><td>2018-01-22</td><td>Doświadczenia z ImagineHack oraz ImagineCup</td><td>Krzysiek Przekwas</td><td><a href="/spotkania/2018/01/22/spotkanie.html">Post</a></td></tr>
     <tr><td>2018-02-28</td><td>Architektura work2vec</td><td>Wojciech Janowski</td><td><a href="/spotkania/2018/02/27/spotkanie.html">Post</a></td></tr>
     <tr><td>2018-03-14</td><td>Eksperyment z CNN i RNN w MNIST</td><td>Michał Grzywa</td><td><a href="/spotkania/2018/03/13/spotkanie.html">Post</a></td></tr>
-    <tr><td>2018-03-28</td><td>Wolny slot</td><td>Wolny slot</td><td>n/a</td></tr>
-    <tr><td>2018-04-11</td><td>Wolny slot</td><td>Wolny slot</td><td>n/a</td></tr>
-    <tr><td>2018-04-25</td><td>Wolny slot</td><td>Wolny slot</td><td>n/a</td></tr>
+    <tr><td>2018-03-28</td><td>FastText</td><td>Wojtek Janowski</td><td><a href="/spotkania/2018/03/28/spotkanie.html">Post</a></td></tr>
+    <tr><td>2018-04-18</td><td>-</td><td>-</td><td>n/a</td></tr>
+    <tr><td>2018-04-25</td><td>Spotkanie z SalesInteligence</td><td>SalesInteligence</td><td><a href="/spotkania/2018/04/23/spotkanie-specjalne.html">Post</a></td></tr>
     <tr><td>2018-05-09</td><td>Wolny slot</td><td>Wolny slot</td><td>n/a</td></tr>
     <tr><td>2018-05-23</td><td>Wolny slot</td><td>Wolny slot</td><td>n/a</td></tr>
     <tr><td>2018-06-06</td><td>Wolny slot</td><td>Wolny slot</td><td>n/a</td></tr>
