@@ -43,8 +43,8 @@ odpowiednie pasmo :)
     <tr><td>2018-05-09</td><td>-</td><td>-</td><td>n/a</td></tr>
 
     <tr><td colspan="4"><strong>5. Framework TensorFlow</strong></td></tr>
-    <tr><td>2018-05-23</td><td>Wprowadzenie do TensorFlow</td><td>Wojtek Janowski</td><td>n/a</td></tr>
-    <tr><td>2018-06-06</td><td>Uczenie rozproszone w TensorFlow</td><td>mgr Paweł Rościszewski</td><td>n/a</td></tr>
+    <tr><td>2018-05-23</td><td>Wprowadzenie do TensorFlow</td><td>Wojtek Janowski</td><td><a href="/spotkania/2018/05/22/spotkanie.html">Post</a></td></tr>
+    <tr><td>2018-06-06</td><td>Uczenie rozproszone w TensorFlow</td><td>mgr Paweł Rościszewski</td><td><a href="/spotkania/2018/06/05/spotkanie.html">Post</a></td></tr>
 
 </table>
 
@@ -63,13 +63,13 @@ odpowiednie pasmo :)
     <tr><td>2017-12-18</td><td>Spotkanie z VoiceLab</td><td>VoiceLab</td><td><a href="/spotkania/2017/12/13/spotkanie.html">Post</a></td></tr>
     <tr><td>2018-01-08</td><td>Prezentacja aktywnych projektów</td><td>-</td><td>n/a</td></tr>
     <tr><td>2018-01-22</td><td>Doświadczenia z ImagineHack oraz ImagineCup</td><td>Krzysiek Przekwas</td><td><a href="/spotkania/2018/01/22/spotkanie.html">Post</a></td></tr>
-    <tr><td>2018-02-28</td><td>Architektura work2vec</td><td>Wojciech Janowski</td><td><a href="/spotkania/2018/02/27/spotkanie.html">Post</a></td></tr>
+    <tr><td>2018-02-28</td><td>Architektura work2vec</td><td>Wojtek Janowski</td><td><a href="/spotkania/2018/02/27/spotkanie.html">Post</a></td></tr>
     <tr><td>2018-03-14</td><td>Eksperyment z CNN i RNN w MNIST</td><td>Michał Grzywa</td><td><a href="/spotkania/2018/03/13/spotkanie.html">Post</a></td></tr>
     <tr><td>2018-03-28</td><td>FastText</td><td>Wojtek Janowski</td><td><a href="/spotkania/2018/03/28/spotkanie.html">Post</a></td></tr>
     <tr><td>2018-04-18</td><td>-</td><td>-</td><td>n/a</td></tr>
     <tr><td>2018-04-25</td><td>-</td><td>-</td><td>n/a</td></tr>
     <tr><td>2018-05-11</td><td>Hackaton</td><td>-</td><td><a href="/spotkania/2018/05/15/hackaton.html">Post</a></td></tr>
-    <tr><td>2018-05-23</td><td>Wolny slot</td><td>Wolny slot</td><td>n/a</td></tr>
-    <tr><td>2018-06-06</td><td>Wolny slot</td><td>Wolny slot</td><td>n/a</td></tr>
+    <tr><td>2018-05-23</td><td>-</td><td>-</td><td>n/a</td></tr>
+    <tr><td>2018-06-06</td><td>Podsumowanie</td><td>Piotr Januszewski</td><td><a href="/spotkania/2018/06/05/spotkanie.html">Post</a></td></tr>
 </table>
 
