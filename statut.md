@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Statut
-permalink: /statut/
 main_nav: false
+title: titles.main.rules
+permalink: /statut/
+permalink_en: /rules/
 ---
 
 **I. Postanowienia ogólne**

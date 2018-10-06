@@ -1,32 +1,55 @@
 ---
 layout: page
-title: Projekty
-permalink: /projekty/
+title: titles.main.portfolio
+permalink: /portfolio/
+permalink_en: /portfolio/
 ---
 
-{% if site.categories.Projekty %}
-	<ul class="post-list" style="margin-bottom: 20px;">
-		{% assign sorted_posts = (site.categories.Projekty | sort: 'title') %}
-		{% for post in sorted_posts %}
-			<li style="padding: 10px 0;">
-				<img src="{{ post.thumbnail | prepend: site.baseurl }}" style="width: 30%; margin-right: 20px; margin-bottom: 30px; float: left;" />
-				<section>
-					<h2>
-						<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-					</h2>
-					<section class="post-excerpt" itemprop="description">
-						<p>{{ post.excerpt | strip_html | truncatewords: 25 }}</p>
-					</section>
-				</section>
-			</li>
-			{% if forloop.last == false %}
-				<hr style="clear: both;"/>
-			{% endif %}
-		{% endfor %}
-	</ul>
-{% else %}
-	<div style="text-align: center; padding: 50px 0;">
-		<h2>Niestety, nie mamy czym się jeszcze pochwalić :(</h2>
-		<h3>Zapraszamy wkrótce!</h3>
-	</div>
-{% endif %}
+<h2>Projekty</h2>
+<p>Poniżej znajduje się część projektów, którymi zajmowali się członkowie naszego koła naukowego.</p>
+
+<ul class="post-list" style="margin-bottom: 20px;">
+    {% assign sorted_posts = site.categories %} <!-- (site.categories.Projekty | sort: 'title') -->
+    {% for post in sorted_posts %}
+        <li style="padding: 10px 0;">
+            <img src="{{ post.thumbnail | prepend: site.baseurl }}" style="width: 30%; margin-right: 20px; margin-bottom: 30px; float: left;" />
+            <section>
+                <h2>
+                    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                </h2>
+                <section class="post-excerpt" itemprop="description">
+                    <p>{{ post.excerpt | strip_html | truncatewords: 25 }}</p>
+                </section>
+            </section>
+        </li>
+        <hr style="clear: both;"/>
+    {% endfor %}
+</ul>
+
+<h2>Wydarzenia</h2>
+<p>Poniżej znajdują się wydarzenia, w których braliśmy udział.</p>
+
+<ul class="post-list" style="margin-bottom: 20px;">
+    {% assign sorted_posts = site.categories %} <!-- Wydarzenia -->
+    {% for post in sorted_posts reversed %}
+        <li style="padding: 10px 0;">
+            <img src="{{ post.thumbnail | prepend: site.baseurl }}" style="width: 30%; margin-right: 20px; margin-bottom: 30px; float: left;" />
+            <section>
+                <h2>
+                    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                </h2>
+                <section class="post-excerpt" itemprop="description">
+                    <p>{{ post.excerpt | strip_html | truncatewords: 25 }}</p>
+                </section>
+            </section>
+        </li>
+        <hr style="clear: both;"/>
+    {% endfor %}
+</ul>
+
+<h2>Współpraca</h2>
+<p>Nasze koło naukowe jest otwarte na wszelką współpracę oraz propozycje wyładów, prelekcji czy warsztatów.
+Do tej pory, współpracowaliśmy z następującymi firmami:</p>
+
+### LOGO: Quantum Lab i Voice Lab, SentiOne i CTA
+

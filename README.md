@@ -16,6 +16,7 @@ Ważnym jest odpowiednie nazewnictwo pliku! W przeciwnym przypadku silnik strony
 ```
 [ROK]-[MIESIĄC]-[DZIEŃ]-[tytul-posta-malymi-literami-bez-pl-znakow].markdown
 ```
+
 ### Q: Jak udostępnić mój post w ramach strony?
 Do kontrybucji będziemy wykorzystywać następujący flow:
 1. Zrób forka repozytorium (przycisk "Fork"), a następnie sklonuj repozytorium gdzieś u siebie na komputerze:  
@@ -167,6 +168,8 @@ Plik będzie dostępny na stronie internetowej pod linkiem: [http://gradient.eti
 
 ### Q: Jakiej technologii użyliście?
 Użyliśmy [Jekylla](http://jekyllrb.com) ze skórką [Centrarium](https://github.com/bencentra/centrarium). Całość jest kompatybilna z GitHub Pages, gdzie testowaliśmy całość zanim zahostowaliśmy stronę na serwerach KASKu. Dodatkowo, użyliśmy biblioteki [MathJax](http://mathjax.org) oraz [HighlightJS](http://highlightjs.org), żeby dodać trochę życia do HTMLa :)
+
+Warto zapoznać się również z [tym cheatsheetem](https://devhints.io/jekyll), który zawiera wszelkie potrzebne informacje o developmencie stron w Jekyllu.
 
 ## Regulamin
 1. Każdy Członek Koła ma możliwość uczestnictwa w życiu strony internetowej (w tym publikacji treści).

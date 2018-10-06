@@ -1,8 +1,9 @@
 ---
 layout: information-page
-title: Spotkania
-permalink: /spotkania/
 main_nav: true
+title: titles.main.meetings
+permalink: /spotkania/
+permalink_en: /meetings/
 ---
 
 W tym roku akademickim planujemy, aby spotkania posiadały formę dostosowaną zarówno do osób zaawansowanych, jak i początkujących.

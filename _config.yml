@@ -3,7 +3,8 @@
 gems:
   - jekyll-archives # Sorry, not GitHub pages friendly!
   - jekyll-sitemap
-  - jekyll-paginate
+  - jekyll-paginate-v2
+  - jekyll-multiple-languages-plugin
 
 exclude:
   - "/vendor/"
@@ -14,7 +15,7 @@ title: Gradient
 subtitle: "Koło Naukowe Politechniki Gdańskiej"
 email: GradientPG@gmail.com
 name: Gradient PG
-description: Koło Naukowe Politechniki Gdańskiej "Gradient" zajmujące się tematyką uczenia maszynowego
+description: Koło Naukowe Politechniki Gdańskiej "Gradient" zajmujące się tematyką Sztucznej Inteligencji
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -22,13 +23,25 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://gradient.eti.pg.gda.pl/" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
+languages: ["pl", "en"]
 
 # Build settings
 markdown: kramdown
-paginate: 5
-paginate_path: "/page:num/"
+pagination:
+  enabled: true
+  sort_field: 'date'
+  sort_reverse: true
+  per_page: 5
+  permalink: "/page:num/"
 inter_post_navigation: false
 highlightjs_theme: "androidstudio"
+
+############################################################
+# Site configuration for the Auto-Pages feature
+# The values here represent the defaults if nothing is set
+autopages:
+  enabled: false
+
 
 # Archive settings (see https://github.com/jekyll/jekyll-archives/)
 jekyll-archives:
