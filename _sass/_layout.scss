@@ -301,20 +301,12 @@ pre code.hljs {
 		.tags {
 			font-size: 0.9em;
 		}
-		.rss {
-			margin: 1em 0 0 0;
-			@include span-columns(12);
-			@include media ($tablet) {
-				margin: 1em 0;
-				@include span-columns(6);
-			}
-		}
 		.share {
 			font-weight: bold;
 			margin: 0 0 1em 0;
 			@include span-columns(12);
 			@include media ($tablet) {
-				@include span-columns(6);
+				@include span-columns(12);
 				margin: 1em 0;
 				text-align: right;
 			}

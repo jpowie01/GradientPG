@@ -1,5 +1,6 @@
 # Main titles 
 titles:
+  subtitle: "Artificial Inteligence, Deep Learning & Machine Learning"
   main:
     main_page: "Gradient"
     archive: "Archive"
@@ -24,4 +25,11 @@ footer:
   contact: "Contact"
 
 # Other
+author: "Author"
+tags: "Tags"
+share: "Share"
+read_more: "Read more"
+page_title: "Strona"
+page_one_of: "z"
+post_in_category: "in"
 project: "Project"

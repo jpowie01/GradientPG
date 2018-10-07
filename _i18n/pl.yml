@@ -1,5 +1,6 @@
 # Main titles
 titles:
+  subtitle: "Sztuczna Inteligencja, Deep Learning & Machine Learning"
   main:
     main_page: "Gradient"
     archive: "Archiwum"
@@ -24,5 +25,12 @@ footer:
   contact: "Kontakt"
 
 # Other
+author: "Autor"
+tags: "Tagi"
+share: "Podziel się"
+read_more: "Czytaj dalej"
+page_title: "Page"
+page_one_of: "of"
+post_in_category: "w"
 project: "Projekt"
 
