@@ -4,8 +4,8 @@ locale: en
 title:  "Stock Forecasting"
 date:   2017-10-07 12:00:00
 author: Adam Brzeski
-categories: Projekty
-tags:	projekt stock_forecasting
+categories: Projects
+tags:	project stock_forecasting
 comments: true
 cover:  "/assets/projects/stock_forecasting/cover.jpg"
 thumbnail: "/assets/projects/stock_forecasting/thumbnail.jpg"

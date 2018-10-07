@@ -4,8 +4,8 @@ locale: en
 title:  "EMU"
 date:   2017-11-18 12:00:00
 author: Paweł Kopeć
-categories: Projekty
-tags:	projekt emu
+categories: Projects
+tags:	project emu
 comments: true
 cover:  "/assets/projects/emu/cover.jpg"
 thumbnail: "/assets/projects/emu/thumbnail.jpg"

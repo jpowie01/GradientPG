@@ -1,8 +1,28 @@
+# Main titles
 titles:
   main:
+    main_page: "Gradient"
     archive: "Archiwum"
     about_us: "O Nas"
     resources: "Baza wiedzy"
     portfolio: "Portfolio"
     meetings: "Spotkania"
     rules: "Statut"
+
+# Portfolio
+portfolio:
+  projects: "Projekty"
+  projects_description: "Poniżej znajduje się część projektów, którymi zajmowali się członkowie naszego koła naukowego."
+  events: "Wydarzenia"
+  events_description: "Poniżej znajdują się wydarzenia, w których braliśmy udział."
+  collaboration: "Współpraca"
+  collaboration_description: "Nasze koło naukowe jest otwarte na wszelką współpracę oraz propozycje wyładów, prelekcji czy warsztatów. Do tej pory, współpracowaliśmy z następującymi firmami:"
+
+# Footer
+footer:
+  site_map: "Mapa Strony"
+  contact: "Kontakt"
+
+# Other
+project: "Projekt"
+

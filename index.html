@@ -1,5 +1,6 @@
 ---
 layout: default
+title_i18n: titles.main.main_page
 main_nav: false
 pagination:
   enabled: true
@@ -21,8 +22,8 @@ pagination:
   {% for post in paginator.posts %}
   <li>
     <h2>
-      {% if post.tags contains "projekt" %}
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Projekt - {{ post.title }}</a>
+      {% if post.categories contains "Projects" or post.categories contains "Projekty" %}
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{% translate project %} - {{ post.title }}</a>
       {% else %}
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       {% endif %}

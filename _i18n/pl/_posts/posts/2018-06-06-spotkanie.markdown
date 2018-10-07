@@ -1,7 +1,7 @@
 ---
 layout: post
 locale: pl
-title:  "Spotkanie - 06.06.2018"
+title:  Spotkanie - 06.06.2018
 date:   2018-06-05 17:00:00
 author: Jakub Powierza
 categories: Spotkania

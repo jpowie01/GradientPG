@@ -13,20 +13,29 @@
     </div>
 
     <div class="site-navigation">
-      <p><strong>Mapa Strony</strong></p>
+        <p><strong>{% translate footer.site_map %}</strong></p>
       <ul class="pages">
         {% for page in site.pages %}
-          {% if page.title and page.main_nav != false and page.type != "tag" and page.type != "category" %}
-            <li class="nav-link"><a href="{{ page.url | prepend: site.baseurl }}">{% translate page.title %}</a>
+          {% if page.main_nav != false and page.type != "tag" and page.type != "category" and (page.title or page.title_i18n) %}
+            <li class="nav-link">
+              <a href="{{ page.url | prepend: site.baseurl }}">
+                {% if page.title_i18n %}
+                    {% translate page.title_i18n %}
+                {% else if page.title %}
+                    {{ page.title }}
+                {% else %}
+                    No title!
+                {% endif %}
+              </a>
+            </li>
           {% endif %}
         {% endfor %}
       </ul>
     </div>
 
-
     <div class="site-contact">
 
-      <p><strong>Kontakt</strong></p>
+      <p><strong>{% translate footer.contact %}</strong></p>
       <ul class="social-media-list">
         <li>
           <a href="mailto:{{ site.email }}">

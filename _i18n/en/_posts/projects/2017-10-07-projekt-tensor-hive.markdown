@@ -4,8 +4,8 @@ locale: en
 title:  "TensorHive"
 date:   2017-10-07 12:00:00
 author: Paweł Rościszewski
-categories: Projekty
-tags:	projekt tesnsorhive
+categories: Projects
+tags:	project tesnsorhive
 comments: true
 cover:  "/assets/projects/tensorhive/cover.jpg"
 thumbnail: "/assets/projects/tensorhive/thumbnail.jpg"

@@ -4,8 +4,8 @@ locale: en
 title:  "Gradient AI Lab"
 date:   2017-10-07 12:00:00
 author: Piotr Januszewski
-categories: Projekty
-tags:	projekt reinforcement_learning atariai gradientailab ailab
+categories: Projects
+tags:	project reinforcement_learning atariai gradientailab ailab
 comments: true
 cover:  "/assets/projects/ai_lab/cover.jpg"
 thumbnail: "/assets/projects/ai_lab/openai_robots.jpg"

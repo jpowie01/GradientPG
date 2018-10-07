@@ -1,0 +1,137 @@
+---
+layout: post
+locale: en
+title:  "Hackathon, Vol. I - 11/12.05.2018"
+date:   2018-05-15 17:00:00
+author: Jakub Powierza
+categories: Events
+tags:	hackathon summary
+comments: true
+cover:  "/assets/posts/2018-05-15-hackathon/background.jpg"
+---
+
+Hej,  
+Zamiast ostatniego spotkania na ETi postanowiliśmy się trochę zintegrować oraz zrobić coś, czego
+ nie robimy na codzień. Efekt? Spotkaliśmy się wraz ze
+ [Stowarzyszeniem Robotyków SKALP](https://www.facebook.com/Stowarzyszenie-Robotyków-SKALP-404413996671952/)
+ na wspólnym hackatonie!
+
+## Jak wyglądał hackathon?
+
+Hackathon przygotowany został wyłącznie dla członków naszego koła naukowego oraz członków
+ [Stowarzyszenia Robotyków SKALP](https://www.facebook.com/Stowarzyszenie-Robotyków-SKALP-404413996671952/).
+ Wspólnie spotkaliśmy się w piątek o godzinie 18:00 przed [Domem Technika NOT](https://www.facebook.com/domtechnikanotgdansk/),
+ po czym zgrupowaliśmy się w mniejsze paczki i... rozpoczęliśmy pracę :)
+
+<center><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdomtechnikanotgdansk%2Fposts%2F1686945508079649&width=500" width="500" height="645" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe></center>
+
+Głównym tematem naszego spotkania był **Reinforcement Learning**. Stąd wszystkie zespoły wybrały swój
+ projekt/pomysł, obracający się w tematyce sztucznej inteligencji sterującej wybranymi agentami.
+
+<center><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D422538601526158%26id%3D404413996671952&width=500" width="500" height="450" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe></center>
+
+Oprócz ciężkiej pracy wspomaganej RedBullami i pyszną pizzą nie zabrakło również dobrej zabawy i integracji
+ w klubie [Reconnect](https://www.facebook.com/reconnect.gg/) :) Najwytrwalsze zespoły pracowały i bawiły się
+ do samego rana!
+
+## Nasze zespoły
+
+Poniżej prezentujemy wszystkie zespoły, które wzięły udział w hackathonie.
+
+### Zespół "Space Y”
+
+> Celem naszego projektu było nauczenie agenta lądowania łazikiem na księżycu.
+> 
+> Misja powiodła się, zabawa była świetna, myślę że wszyscy członowie zespołu są dumni z naszego rozwiązania.
+>  Nauczyliśmy agenta jak lądować w wyznaczonym miejscu niezależnie od początkowego wektora prędkości łazika.
+>  Załączam kilka filmików prezentujących kolejne etapy nauki agenta.
+> 
+> ~ Mateusz Jabłoński
+
+**Członkowie:**
+ - Michał Martyniak,
+ - Kamil Pokora,
+ - Radosław Słowiński,
+ - Mateusz Jabłoński.
+
+**Początki uczenia**
+<center><video width="600" height="400" controls>
+  <source src="/assets/posts/2018-05-15-hackathon/spacey_first.mp4" type="video/mp4">
+</video></center>
+
+**Jest już lepiej...**
+<center><video width="600" height="400" controls>
+  <source src="/assets/posts/2018-05-15-hackathon/spacey_second.mp4" type="video/mp4">
+</video></center>
+
+**Wyuczony agent**
+<center><video width="600" height="400" controls>
+  <source src="/assets/posts/2018-05-15-hackathon/spacey_third.mp4" type="video/mp4">
+</video></center>
+
+### Zespół "ΩGo"
+
+> Ostatecznie próbowaliśmy wyuczyć balansowanie prętu na wagoniku przy pomocy DQN od 0 w Tensorflow.
+> Nie udało nam się do końca pomimo poprawienia kilku błędów w kodzie, ale może jeszcze się uda jakoś niedługo.
+> A no wydarzenie jak najbardziej spoko + pizza + zniżki na browary. W sumie to nie mam w ogóle nic do zarzucenia
+> poza tym, że miało być do 12 XD a o 2 już prawie nikogo nie było.
+>
+> ~ Michał Górecki
+
+**Członkowie:**
+ - Kuba Karczewski,
+ - Piotr Mazur,
+ - Dariusz Piotrkowski,
+ - Ania Malizjusz,
+ - Katarzyna Studzińska.
+
+### Zespół "Musk-have”
+
+> Celem naszego zespołu było wyuczenie algorytmu uczenia maszynowego opartego o głęboką sieć neuronową do sterowania
+> autonomicznym pojazdem w symulatorze Unity3D. Model miał być odtworzeniem modelu z tutoriala:
+> [https://github.com/llSourcell/How_to_simulate_a_se...](https://github.com/llSourcell/How_to_simulate_a_self_driving_car/blob/master/self-driving-car.ipynb).
+> Z powodu problemów z configuracją środowiska Unity, problem spalił na panewce, a zespół zajął się wsparciem innych projektów.
+>
+> ~ Piotr Sobczak i Piotr Januszewski
+
+**Członkowie:**
+ - Grzegorz Beringer,
+ - Jan Pliszka,
+ - Patrycja Matejek,
+ - Piotr Sobczak,
+ - Piotr Januszewski.
+
+### Zespołu "King Pong"
+
+> Podjęliśmy się nauczenia komputera gry w Ponga! Mimo początkowych problemów ze skonfigurowaniem środowiska
+> (instalacją gym[atari]) udało nam się stworzyć sieć neuronową i rozpocząć pierwsze treningi. Najmocniejszym punktem
+> zespołu okazali się Paweł oraz Paula, którzy od początku podeszli do zadania z determinacją i kontynuowali prace
+> osiągając coraz lepsze efekty. Dużym wsparciem przy projekcie było doświadczenie zdobyte od Piotrka oraz Michała,
+> z którymi omówiliśmy i rozrysowaliśmy działanie programu. Podczas prac nad zadaniem udało nam się nauczyć zdecydowanie
+> więcej niż agentowi, którego dalej męczymy treningami. Hackaton uważamy za bardzo udany! 🕹🍕🍻
+> 
+> ~ Bartek Borzyszkowski
+
+**Członkowie:**
+ - Paula Karbowska,
+ - Paweł Belczak,
+ - Artur Baryła,
+ - Jan Pliszka,
+ - Bartłomiej Borzyszkowski.
+
+## Podsumowanie
+
+Było ekstra! Wielkie dzięki wszystkim, którzy wzięli udział w wydarzeniu!
+
+Ogromne podziękowania należą się współorganizatorom - 
+ [Stowarzyszeniu Robotyków SKALP](https://www.facebook.com/Stowarzyszenie-Robotyków-SKALP-404413996671952/),
+ bez Was to wydarzenie by się nie odbyło! :) Podziękowania należą się także
+ [klubowi Reconnect](https://www.facebook.com/reconnect.gg/), który zasilił nas odpowiednią porcją napojów
+ energetycznych oraz zapewnił dobrą zabawę. Bardzo dziękujemy także firmie [JP-Telekom](http://jp-telekom.pl)
+ dzięki której zjedliśmy pyszną pizzę! Warto także pamiętać o [Domu Technika NOT](https://www.facebook.com/domtechnikanotgdansk/) - 
+ bez niego nie mielibyśmy gdzie się spotkać.
+
+Mamy nadzieję, że to nie ostatni nasz wspólny hackathon :)
+
+Do zobaczenia!
+

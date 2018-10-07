@@ -1,6 +1,6 @@
 ---
 layout: page
-title: titles.main.archive
+title_i18n: titles.main.archive
 permalink: /archiwum/
 permalink_en: /archive/
 ---

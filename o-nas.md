@@ -1,6 +1,6 @@
 ---
 layout: information-page
-title: titles.main.about_us
+title_i18n: titles.main.about_us
 permalink: /o-nas/
 permalink_en: /about-us/
 ---
