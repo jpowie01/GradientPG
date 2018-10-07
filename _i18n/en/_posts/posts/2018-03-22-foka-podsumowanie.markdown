@@ -25,11 +25,11 @@ For players of the "Game in Main Building" we presented a simple challenge descr
 Don't forget to leave a like on our [Facebook fanpage](http://facebook.com/GradientPG/). See you soon on the next events!
 
 #### Photo gallery
-![Photo 1]({{ site.url }}/pliki/jpg/2018-03-22-foka-podsumowanie/Image01.jpg)  
-![Photo 2]({{ site.url }}/pliki/jpg/2018-03-22-foka-podsumowanie/Image02.jpg)  
-![Photo 3]({{ site.url }}/pliki/jpg/2018-03-22-foka-podsumowanie/Image03.jpg)  
-![Photo 4]({{ site.url }}/pliki/jpg/2018-03-22-foka-podsumowanie/Image04.jpg)  
-![Photo 5]({{ site.url }}/pliki/jpg/2018-03-22-foka-podsumowanie/Image05.jpg)  
-![Photo 6]({{ site.url }}/pliki/jpg/2018-03-22-foka-podsumowanie/Image06.jpg)  
-![Photo 7]({{ site.url }}/pliki/jpg/2018-03-22-foka-podsumowanie/Image07.jpg)  
-![Photo 8]({{ site.url }}/pliki/jpg/2018-03-22-foka-podsumowanie/Image08.jpg)  
+![Photo 1](/pliki/jpg/2018-03-22-foka-podsumowanie/Image01.jpg)  
+![Photo 2](/pliki/jpg/2018-03-22-foka-podsumowanie/Image02.jpg)  
+![Photo 3](/pliki/jpg/2018-03-22-foka-podsumowanie/Image03.jpg)  
+![Photo 4](/pliki/jpg/2018-03-22-foka-podsumowanie/Image04.jpg)  
+![Photo 5](/pliki/jpg/2018-03-22-foka-podsumowanie/Image05.jpg)  
+![Photo 6](/pliki/jpg/2018-03-22-foka-podsumowanie/Image06.jpg)  
+![Photo 7](/pliki/jpg/2018-03-22-foka-podsumowanie/Image07.jpg)  
+![Photo 8](/pliki/jpg/2018-03-22-foka-podsumowanie/Image08.jpg)  

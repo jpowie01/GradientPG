@@ -230,5 +230,5 @@ Jak widać, Caffe nie jest takie straszne :) Myślę, że ten wstęp wystarczy, 
 - Ciekawy artykuł: [https://www.nextplatform.com/2017/04/19/machine-learning-gets-infiniband-boost-caffe2/](https://www.nextplatform.com/2017/04/19/machine-learning-gets-infiniband-boost-caffe2/)
 
 #### Pliki
-- [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF]({{ site.url }}/pliki/pdf/2017-05-05-wprowadzenie-do-caffe2/Wprowadzenie_Caffe2.pdf) - Prezentacja z ostatniego spotkania
-- [<i class="fa fa-book" aria-hidden="true"></i> Jupyter Notebook]({{ site.url }}/pliki/ipynb/Caffe2_Digit_Recognizer.ipynb) - Implementacja rozpoznawania cyfr dla [Kaggle](https://www.kaggle.com/c/digit-recognizer)
+- [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](/pliki/pdf/2017-05-05-wprowadzenie-do-caffe2/Wprowadzenie_Caffe2.pdf) - Prezentacja z ostatniego spotkania
+- [<i class="fa fa-book" aria-hidden="true"></i> Jupyter Notebook](/pliki/ipynb/Caffe2_Digit_Recognizer.ipynb) - Implementacja rozpoznawania cyfr dla [Kaggle](https://www.kaggle.com/c/digit-recognizer)

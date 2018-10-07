@@ -31,6 +31,6 @@ Do zobaczenia!
 
 Prezentację wprowadzającą do sieci konwolucyjnych znajdziecie tutaj:
 
-- [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF]({{ site.url }}/pliki/pdf/2018-01-06-spotkanie/Introduction_to_CNNs.pdf) - Wersja PDF
+- [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](/pliki/pdf/2018-01-06-spotkanie/Introduction_to_CNNs.pdf) - Wersja PDF
 - [<i class="fa fa-file-text-o" aria-hidden="true"></i> HTML](https://mega.nz/#%21H4IEnZKJ%21so0Czkp8lcLWCt0o3O912WnKZBFjkvZFeJG23kITpig) - Wersja HTML (z GIFami)
 
