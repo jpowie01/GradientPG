@@ -10,25 +10,25 @@ comments: true
 cover:  "/assets/posts/2017-05-26-65-lecie-wydzialu-eti/tlo.jpg"
 ---
 
-Hej!  
-Dziękujemy wszystkim za przybycie na naszą prelekcję oraz spotkanie z Nami przy stoisku :) Było super! Liczymy, że również Wam się podobało! Poniżej zamieszczamy wszelkie materiały, które dzisiaj zaprezentowaliśmy. Dodatkowo dołączamy parę zdjęć z naszej fotobudki z Neural Style :)  
+Hi!  
+On behalf of the Gradient team, we want to thank you for your attendence on our talks and at our stand :) It was alot of fun for us. Below you can find all presentations as well as some cool photos from our Neural Style photo booth :)
 
-Pamiętajcie o polubieniu naszej strony na [Facebooku](http://facebook.com/GradientPG/), gdzie znajdziecie więcej zdjęć z dzisiejszego wydarzenia!
+Take a look at our [Facebook page](http://facebook.com/GradientPG/) for more photos and informations about today's event!
 
-#### Prezentacje
-- [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF]({{ site.url }}/pliki/pdf/2017-05-26-65-lecie-wydzialu-eti/Przedstawienie_Kola_Naukowego.pdf) - Przedstawienie Koła Naukowego
-- [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF]({{ site.url }}/pliki/pdf/2017-05-26-65-lecie-wydzialu-eti/Uczenie_Maszynowe.pdf) - Uczenie Maszynowe. O co chodzi? (Dawid Paluchowski)
-- [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF]({{ site.url }}/pliki/pdf/2017-05-26-65-lecie-wydzialu-eti/Facebook.pdf) - AI w Facebooku (Jakub Powierza)
-- [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF]({{ site.url }}/pliki/pdf/2017-05-26-65-lecie-wydzialu-eti/Autonomiczne_Pojazdy.pdf) - Autonomiczne Pojazdy (Michał Martyniak)
+#### Talks
+- [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF]({{ site.url }}/pliki/pdf/2017-05-26-65-lecie-wydzialu-eti/Przedstawienie_Kola_Naukowego.pdf) - GradientPG student research group introduction
+- [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF]({{ site.url }}/pliki/pdf/2017-05-26-65-lecie-wydzialu-eti/Uczenie_Maszynowe.pdf) - Machine Learning. What's the matter? (Dawid Paluchowski)
+- [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF]({{ site.url }}/pliki/pdf/2017-05-26-65-lecie-wydzialu-eti/Facebook.pdf) - AI in Facebook (Jakub Powierza)
+- [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF]({{ site.url }}/pliki/pdf/2017-05-26-65-lecie-wydzialu-eti/Autonomiczne_Pojazdy.pdf) - Self-drivig cars (Michał Martyniak)
 - [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF]({{ site.url }}/pliki/pdf/2017-05-26-65-lecie-wydzialu-eti/Reinforcement_Learning_DeepMind.pdf) -  Reinforcement Learning and DeepMind (Piotr Januszewski)
 
-#### Galeria zdjęć
-![Zdjęcie 1]({{ site.url }}/pliki/jpg/2017-05-26-65-lecie-wydzialu-eti/Image1.jpg)  
-![Zdjęcie 2]({{ site.url }}/pliki/jpg/2017-05-26-65-lecie-wydzialu-eti/Image2.jpg)  
-![Zdjęcie 3]({{ site.url }}/pliki/jpg/2017-05-26-65-lecie-wydzialu-eti/Image3.jpg)  
-![Zdjęcie 4]({{ site.url }}/pliki/jpg/2017-05-26-65-lecie-wydzialu-eti/Image4.jpg)  
-![Zdjęcie 5]({{ site.url }}/pliki/jpg/2017-05-26-65-lecie-wydzialu-eti/Image5.jpg)  
-![Zdjęcie 6]({{ site.url }}/pliki/jpg/2017-05-26-65-lecie-wydzialu-eti/Image6.jpg)  
-![Zdjęcie 7]({{ site.url }}/pliki/jpg/2017-05-26-65-lecie-wydzialu-eti/Image7.jpg)  
-![Zdjęcie 8]({{ site.url }}/pliki/jpg/2017-05-26-65-lecie-wydzialu-eti/Image8.jpg)  
-![Zdjęcie 9]({{ site.url }}/pliki/jpg/2017-05-26-65-lecie-wydzialu-eti/Image9.jpg)  
+#### Photo gallery
+![Photo 1]({{ site.url }}/pliki/jpg/2017-05-26-65-lecie-wydzialu-eti/Image1.jpg)  
+![Photo 2]({{ site.url }}/pliki/jpg/2017-05-26-65-lecie-wydzialu-eti/Image2.jpg)  
+![Photo 3]({{ site.url }}/pliki/jpg/2017-05-26-65-lecie-wydzialu-eti/Image3.jpg)  
+![Photo 4]({{ site.url }}/pliki/jpg/2017-05-26-65-lecie-wydzialu-eti/Image4.jpg)  
+![Photo 5]({{ site.url }}/pliki/jpg/2017-05-26-65-lecie-wydzialu-eti/Image5.jpg)  
+![Photo 6]({{ site.url }}/pliki/jpg/2017-05-26-65-lecie-wydzialu-eti/Image6.jpg)  
+![Photo 7]({{ site.url }}/pliki/jpg/2017-05-26-65-lecie-wydzialu-eti/Image7.jpg)  
+![Photo 8]({{ site.url }}/pliki/jpg/2017-05-26-65-lecie-wydzialu-eti/Image8.jpg)  
+![Photo 9]({{ site.url }}/pliki/jpg/2017-05-26-65-lecie-wydzialu-eti/Image9.jpg)  
