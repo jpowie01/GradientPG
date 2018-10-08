@@ -8,6 +8,7 @@ categories: Wydarzenia
 tags:	stoisko foka wydarzenie podsumowanie
 comments: true
 cover:  "/assets/posts/2018-03-22-foka-podsumowanie/tlo.jpg"
+thumbnail:  "/assets/posts/2018-03-22-foka-podsumowanie/thumbnail.jpg"
 ---
 
 Cześć!  

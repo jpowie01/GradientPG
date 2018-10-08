@@ -11,11 +11,15 @@ cover:  "/assets/projects/ai_lab/cover.jpg"
 thumbnail: "/assets/projects/ai_lab/openai_robots.jpg"
 ---
 
-In this project we want to explore reinforcement learning techniques in deep learning. Our baseline is experiment presented by Andrej Karpathy on his [blog](http://karpathy.github.io/2016/05/31/rl/). His work is about lightweight Policy Gradient agent.  
+Projekt skupia się na zbadaniu i poznaniu Reinforcement Learningu z wykorzystaniem uczenia głębokiego.
+ Podstawą do eksperymentów jest post Andreja Karpathego na jego [blogu](http://karpathy.github.io/2016/05/31/rl/)
+ odnośnie agenta wykorzystującego metodę Policy Gradient.
 
 <p align="center"><img width="600" height="240" src ="/assets/projects/ai_lab/logo.jpg" /></p>
 
-Starting from reproducing his work, we now go further developing better agents for reinforcement learning tasks we find interesting. Eventually, we will start whole new projects based on gained experience. For more details (also to see our development direction and current work) see our [GitHub](https://github.com/piojanu/AtariAI).
+Początkowo, zajęliśmy się reprodukcją jego pracy. Obecnie skupiamy się na rozwoju bardziej zaawansowanych
+ agentów do zadań, które uważamy za interesujące. W przyszłości planujemy nowe projekty, wykorzystujące
+ zdobyte doświadczenie. Więcej szczegółów dostępnych jest na naszym [GitHubie](https://github.com/piojanu/AtariAI).
 
 ### Team
 - Piotr Januszewski,

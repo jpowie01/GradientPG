@@ -8,6 +8,7 @@ categories: Wydarzenia
 tags:	hackathon podsumowanie
 comments: true
 cover:  "/assets/posts/2018-05-15-hackathon/background.jpg"
+thumbnail:  "/assets/posts/2018-05-15-hackathon/thumbnail.jpg"
 ---
 
 Hej,  

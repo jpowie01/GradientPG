@@ -8,6 +8,7 @@ categories: Wydarzenia
 tags:	wydzial eti stoisko wyklad
 comments: true
 cover:  "/assets/posts/2017-05-26-65-lecie-wydzialu-eti/tlo.jpg"
+thumbnail: "/assets/posts/2017-05-26-65-lecie-wydzialu-eti/thumbnail.jpg"
 ---
 
 Hej!  
