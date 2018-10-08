@@ -19,7 +19,7 @@ Take a look at our [Facebook page](http://facebook.com/GradientPG/) for more pho
 - [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](/pliki/pdf/2017-05-26-65-lecie-wydzialu-eti/Przedstawienie_Kola_Naukowego.pdf) - GradientPG student research group introduction
 - [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](/pliki/pdf/2017-05-26-65-lecie-wydzialu-eti/Uczenie_Maszynowe.pdf) - Machine Learning. What's the matter? (Dawid Paluchowski)
 - [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](/pliki/pdf/2017-05-26-65-lecie-wydzialu-eti/Facebook.pdf) - AI in Facebook (Jakub Powierza)
-- [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](/pliki/pdf/2017-05-26-65-lecie-wydzialu-eti/Autonomiczne_Pojazdy.pdf) - Self-drivig cars (Michał Martyniak)
+- [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](/pliki/pdf/2017-05-26-65-lecie-wydzialu-eti/Autonomiczne_Pojazdy.pdf) - Self-driving cars (Michał Martyniak)
 - [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](/pliki/pdf/2017-05-26-65-lecie-wydzialu-eti/Reinforcement_Learning_DeepMind.pdf) -  Reinforcement Learning and DeepMind (Piotr Januszewski)
 
 #### Photo gallery

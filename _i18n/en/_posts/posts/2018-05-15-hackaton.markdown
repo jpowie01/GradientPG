@@ -13,8 +13,8 @@ cover:  "/assets/posts/2018-05-15-hackathon/background.jpg"
 Hey,  
 Instead of classical Gradient meeting on ETI, we decided that we need to integrate and do something unusual. And all of you know what kind of integration suits well all kind of developers. Thats right, we met with [SKALP Robotics Association](https://www.facebook.com/Stowarzyszenie-Robotyków-SKALP-404413996671952/) and orginized a hackaton!
 
-## How it looked?
-Hackaton was prepared exclusively for Gradient and [SKALP](https://www.facebook.com/Stowarzyszenie-Robotyków-SKALP-404413996671952/) members. We met at friday 18:00 in [Domem Technika NOT](https://www.facebook.com/domtechnikanotgdansk/) where we formed teams and ... get to work! :)
+## How did it look like?
+Hackaton was prepared exclusively for Gradient and [SKALP](https://www.facebook.com/Stowarzyszenie-Robotyków-SKALP-404413996671952/) members. We met at friday 18:00 in [Domem Technika NOT](https://www.facebook.com/domtechnikanotgdansk/) where we formed teams and ... got to work! :)
 
 <center><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdomtechnikanotgdansk%2Fposts%2F1686945508079649&width=500" width="500" height="645" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe></center>
 
@@ -110,7 +110,7 @@ It was fantastic! Thanks for participation!
 
 HUGE thanks to co-organizer - 
  [SKALP Robotics Association](https://www.facebook.com/Stowarzyszenie-Robotyków-SKALP-404413996671952/),
- without you this hackaton will never start! :) Also we would like to thank
+ without you this hackathon would have never happened! :) Also we would like to thank
  [Reconnect club](https://www.facebook.com/reconnect.gg/), who organized alot of drinks and entertainment. Thanks to [JP-Telekom](http://jp-telekom.pl) we had alot of quality pizza - you are the best! Also we don't forget [Domu Technika NOT](https://www.facebook.com/domtechnikanotgdansk/) - the best place to hack along.
 
 We hope that this is not our last hackaton :)
