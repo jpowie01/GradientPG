@@ -10,32 +10,26 @@ comments: true
 cover:  "/assets/posts/2018-03-22-foka-podsumowanie/tlo.jpg"
 ---
 
-Cześć!  
-Dziękujemy Wam, że byliście z nami na stoisku przygotowanym w ramach FOKI (Forum Organizacji
- i Kół Akademickich). Nie spodziewaliśmy się aż takiej frekwencji! :)
+Hello!
+We would like to thank you for your presence at our booth on FOKA (Academic Organizations and Scientific Circles Forum) event. We haven't even dreamed of that many attendees interested in our work! :)
 
-Na stoisku zaprezentowaliśmy w trzy dema:
- - detekcję obiektów w czasie rzeczywistym,
- - klasyfikację instrumentów (z muzyką na żywo),
- - agenta grającego w grę Pong.
+On our booth we had presented three demos:
+ - real time object detection
+ - musical instruments classification (with live music!)
+ - agent playing Pong game
 
-Dobrze, że w szczycie była nas piątka (a przez chwilę nawet szóstka) reprezentantów na stoisku,
- ponieważ momentami tworzyły się kilkuosobowe grupki, w ramach których tłumaczyliśmy czym
- zajmujemy się w kole oraz czym jest Sztuczna Inteligencja :)
+As there were many people interested, our presentation team consisting of six Gradient members were answering your questions. We give you alot of information about our current projects and even give some brief intro to what AI actually is :)
 
-Nie zabrakło także sporej ilości uczestników "Gry po Gmachu Głównym", w ramach której przygotowaliśmy
- proste zadanie mające na celu zapoznać Was z budową neuronu. Nikomu nie sprawiło ono większych problemów,
- a wiedza jaką wynieśliście z pewnością pokazała Wam czym są sieci neuronowe.
+For players of the "Game in Main Building" we presented a simple challenge describing neuron structure. There were no problems with the challange itself, we hope that this knowledge will help you understand how neural networks works.
 
-Pamiętajcie o polubieniu naszej strony na [Facebooku](http://facebook.com/GradientPG/) i do zobaczenia
- na kolejnych wydarzeniach!
+Don't forget to leave a like on our [Facebook fanpage](http://facebook.com/GradientPG/). See you soon on the next events!
 
-#### Galeria zdjęć
-![Zdjęcie 1]({{ site.url }}/pliki/jpg/2018-03-22-foka-podsumowanie/Image01.jpg)  
-![Zdjęcie 2]({{ site.url }}/pliki/jpg/2018-03-22-foka-podsumowanie/Image02.jpg)  
-![Zdjęcie 3]({{ site.url }}/pliki/jpg/2018-03-22-foka-podsumowanie/Image03.jpg)  
-![Zdjęcie 4]({{ site.url }}/pliki/jpg/2018-03-22-foka-podsumowanie/Image04.jpg)  
-![Zdjęcie 5]({{ site.url }}/pliki/jpg/2018-03-22-foka-podsumowanie/Image05.jpg)  
-![Zdjęcie 6]({{ site.url }}/pliki/jpg/2018-03-22-foka-podsumowanie/Image06.jpg)  
-![Zdjęcie 7]({{ site.url }}/pliki/jpg/2018-03-22-foka-podsumowanie/Image07.jpg)  
-![Zdjęcie 8]({{ site.url }}/pliki/jpg/2018-03-22-foka-podsumowanie/Image08.jpg)  
+#### Photo gallery
+![Photo 1](/pliki/jpg/2018-03-22-foka-podsumowanie/Image01.jpg)  
+![Photo 2](/pliki/jpg/2018-03-22-foka-podsumowanie/Image02.jpg)  
+![Photo 3](/pliki/jpg/2018-03-22-foka-podsumowanie/Image03.jpg)  
+![Photo 4](/pliki/jpg/2018-03-22-foka-podsumowanie/Image04.jpg)  
+![Photo 5](/pliki/jpg/2018-03-22-foka-podsumowanie/Image05.jpg)  
+![Photo 6](/pliki/jpg/2018-03-22-foka-podsumowanie/Image06.jpg)  
+![Photo 7](/pliki/jpg/2018-03-22-foka-podsumowanie/Image07.jpg)  
+![Photo 8](/pliki/jpg/2018-03-22-foka-podsumowanie/Image08.jpg)  

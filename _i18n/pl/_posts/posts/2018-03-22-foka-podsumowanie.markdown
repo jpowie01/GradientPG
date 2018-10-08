@@ -31,11 +31,11 @@ Pamiętajcie o polubieniu naszej strony na [Facebooku](http://facebook.com/Gradi
  na kolejnych wydarzeniach!
 
 #### Galeria zdjęć
-![Zdjęcie 1]({{ site.url }}/pliki/jpg/2018-03-22-foka-podsumowanie/Image01.jpg)  
-![Zdjęcie 2]({{ site.url }}/pliki/jpg/2018-03-22-foka-podsumowanie/Image02.jpg)  
-![Zdjęcie 3]({{ site.url }}/pliki/jpg/2018-03-22-foka-podsumowanie/Image03.jpg)  
-![Zdjęcie 4]({{ site.url }}/pliki/jpg/2018-03-22-foka-podsumowanie/Image04.jpg)  
-![Zdjęcie 5]({{ site.url }}/pliki/jpg/2018-03-22-foka-podsumowanie/Image05.jpg)  
-![Zdjęcie 6]({{ site.url }}/pliki/jpg/2018-03-22-foka-podsumowanie/Image06.jpg)  
-![Zdjęcie 7]({{ site.url }}/pliki/jpg/2018-03-22-foka-podsumowanie/Image07.jpg)  
-![Zdjęcie 8]({{ site.url }}/pliki/jpg/2018-03-22-foka-podsumowanie/Image08.jpg)  
+![Zdjęcie 1](/pliki/jpg/2018-03-22-foka-podsumowanie/Image01.jpg)  
+![Zdjęcie 2](/pliki/jpg/2018-03-22-foka-podsumowanie/Image02.jpg)  
+![Zdjęcie 3](/pliki/jpg/2018-03-22-foka-podsumowanie/Image03.jpg)  
+![Zdjęcie 4](/pliki/jpg/2018-03-22-foka-podsumowanie/Image04.jpg)  
+![Zdjęcie 5](/pliki/jpg/2018-03-22-foka-podsumowanie/Image05.jpg)  
+![Zdjęcie 6](/pliki/jpg/2018-03-22-foka-podsumowanie/Image06.jpg)  
+![Zdjęcie 7](/pliki/jpg/2018-03-22-foka-podsumowanie/Image07.jpg)  
+![Zdjęcie 8](/pliki/jpg/2018-03-22-foka-podsumowanie/Image08.jpg)  
