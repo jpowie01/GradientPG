@@ -1,6 +1,6 @@
 # Gradient - Politechnika Gdańska
 Witaj w repozytorium strony internetowej koła naukowego "Gradient". Poniżej zamieściliśmy kilka informacji,
- które mogą się przydać podczas Twojej kontrybucji. Prosimy Cię o dostosowanie się do panującego regulaminu!
+ które mogą się przydać podczas Twojego wkładu w rozwój strony. Prosimy Cię o dostosowanie się do panującego regulaminu!
 
 W przypadku problemów śmiało pisz do Administratorów lub Zarządu Koła. Na pewno ktoś Ci pomoże :)
 

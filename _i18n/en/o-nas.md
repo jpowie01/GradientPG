@@ -15,7 +15,7 @@ Our members actively work on ongoing projects, and participate in regular meetin
 
 We meet every other Wednesday at the Faculty of ETI at Gdańsk University of Technology at 18:15. For more details,
  please visit our homepage, where we post detailed information about the time and place of the next meeting.
- We also invite you to follow our [Facebooku](http://facebook.com/GradientPG) page to be up to date with us!
+ We also invite you to follow our [Facebook](http://facebook.com/GradientPG) page to be up to date with us!
 
 ## Future plans
 
