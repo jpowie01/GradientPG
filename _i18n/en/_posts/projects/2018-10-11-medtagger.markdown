@@ -20,7 +20,9 @@ Project was made using modern technologies and for more information visit our re
  [GitHub](https://github.com/jpowie01/MedTagger).
 
 MedTagger won the first prize and distinction in **"Jaskółki Przedsiębiorczości" (2018 edition)** competition
- ([more](https://pg.edu.pl/aktualnosci/-/asset_publisher/hWGncmoQv7K0/content/znamy-zwyciezcow-konkursu-jaskolki-przedsiebiorczosci-2018?p_p_auth=P9f0lKZA)).
+ about which you can read more
+ [on our University website](https://pg.edu.pl/aktualnosci/-/asset_publisher/hWGncmoQv7K0/content/znamy-zwyciezcow-konkursu-jaskolki-przedsiebiorczosci-2018?p_p_auth=P9f0lKZA)
+ and local newspaper - [Dziennik Bałtycki](https://dziennikbaltycki.pl/jaskolki-przedsiebiorczosci-2018-studenci-politechniki-gdanskiej-wymyslili-srodek-zwalczajacy-cellulit/ar/13296702).
 
 ### Team
 
