@@ -15,6 +15,8 @@ Celem tego projektu byłoby monitorowanie Twittera oraz innych źródeł hot new
 
 System taki mógłby ostatecznie stać się systemem rekomendującym dla analityków czy traderów, zwłaszcza gdyby udało się dostarczać predykcji z uzasadnieniem. Myślę że znajdą się również nieco prostsze wartości do przewidywania niż powyższe, które już w tej chwili obudowane są bardzo zaawansowanymi analizami, albo co gorsza mogą okazać się zupełnie nieprzewidywalne. Przykładem takiej prostszej wartości mogłyby być ceny wycieczek zagranicznych.
 
+Projekt można znaleźć na naszym [GitHubie](https://github.com/jakubkarczewski/SentimNet).
+
 ### Zespół
 - Adam Brzeski,
 - Michał Górecki,

@@ -1,7 +1,5 @@
 Ta lista wzoruje się na [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning). Jednakże, ma ona skupiać głównie materiały pomagające rozpocząć prace w najróżniejszych dziedzinach uczenia maszynowego oraz uczenia głębokiego.
 
-Na wstępie chcielibyśmy polecić subskrypcję newslettera [The Wild Week in AI](https://www.getrevue.co/profile/wildml). Nowości ze świata uczenia maszynowego w cotygodniowym podsumowaniu.
-
 # Spis treści
 - [ABC uczenia głębokiego](#abc-uczenia-glebokiego)
 - [Wizja komputerowa](#wizja-komputerowa)

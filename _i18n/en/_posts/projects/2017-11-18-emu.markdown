@@ -11,11 +11,17 @@ cover:  "/assets/projects/emu/cover.jpg"
 thumbnail: "/assets/projects/emu/thumbnail.jpg"
 ---
 
-Zafascynowani postępami technologicznymi w dziedzinie porozumiewania się człowieka z komputerem, rozpoczęliśmy projekt, który pomoże w automatyzacji rozumienia ludzkich zachowań. Projekt EMU, czyli Emotion Mini Utility jest oparty na sieci neuronowej specjalizującej się w rozpoznawaniu ludzkich emocji na podstawie zdjęcia. Zadanie jest o tyle ciekawe, że ludzka skuteczność w tej dziedzinie jest bardzo niska i sami mamy problem z klasyfikacją emocji na niektórych zdjęciach. Tym bardziej projekt jest warty uwagi.
+Fascinated with advances of human-computer interfaces we began a project that can help in automatic recognition of human emotions by machines.
 
-Zapraszamy do zabawy z modelem na własnym komputerze oraz przede wszystkim do dołączenia do zespołu. Czekają was zarówno zadania naukowe, organizacyjne jak i programistyczne.
+Project EMU or Emotion Mini Utility is based on convolutional neural networks with ability to guess human emotions based on face expression caught on a photograph.
 
-Repozytorium znajdziecie [tutaj](https://github.com/AffectiveComputing/emu/).
+Task of emotion classification is quite peculiar since even effectiveness of humans is pretty low. Authors themselves have sometimes problem trying to properly tell the emotion. This fact makes EMU even more interesting.
+
+We invite you to play around with our model on your own machine. Feedback is always welcome.
+
+Currently the project is developed as Bachelor thesis.
+
+Source code can be found [here](https://github.com/AffectiveComputing/emu/).
 
 ### Zespół
 - Paweł Kopeć,
