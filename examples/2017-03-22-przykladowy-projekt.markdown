@@ -1,10 +1,12 @@
 ---
 layout: article-post
+locale: pl
 title:  "Przykładowy projekt"
 date:   2017-03-26 12:00:00
 author: Jakub Powierza
 categories: Projekty
 tags:	python siec-neuronowa konwolucja
+comments: true
 cover:  "/assets/przykladowy_projekt.jpg"
 thumbnail: "/assets/przykladowy_projekt.mini.jpg"
 ---
