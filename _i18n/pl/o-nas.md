@@ -27,8 +27,8 @@ Przed dołączeniem do naszej społeczności zapraszamy do zapoznania się z akt
  - Mateusz Jabłoński.
 
 ## Opiekunowie Koła
- - mgr Adam Brzeski,
- - mgr Jan Cychnerski,
- - mgr Karol Draszawka,
- - mgr Paweł Rościszewski.
+ - mgr inż. Adam Brzeski,
+ - mgr inż. Jan Cychnerski,
+ - mgr inż. Karol Draszawka,
+ - dr inż. Paweł Rościszewski.
 

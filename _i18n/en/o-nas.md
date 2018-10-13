@@ -41,8 +41,8 @@ Before joining our community, we invite you to read the current [statute](/en/st
  - Mateusz Jabłoński.
 
 ## Supervisors
- - Adam Brzeski, MSc,
- - Jan Cychnerski, MSc,
- - Karol Draszawka, MSc,
- - Paweł Rościszewski, MSc.
+ - Adam Brzeski MSc,
+ - Jan Cychnerski MSc,
+ - Karol Draszawka MSc,
+ - Paweł Rościszewski PhD.
 
