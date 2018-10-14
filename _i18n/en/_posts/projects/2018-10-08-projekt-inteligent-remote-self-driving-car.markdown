@@ -27,5 +27,5 @@ Project has open repository on [GitHub](https://github.com/Borzyszkowski/Robotic
 ### Team
 
 - Bartłomiej Borzyszkowski,
-- Prof. K. Rajasekarana (India).
+- Prof. K. Rajasakaran (India).
 

@@ -22,10 +22,10 @@ Celem projektu jest stworzenie inteligentnego pojazdu, posiadającego dwie możl
 
 Projekt posiada otwarte repozytorium na [GitHubie](https://github.com/Borzyszkowski/Robotics-in-India-Intelligent-Robot).
  W folderze "Multimedia and Sources" znajduje się dodatkowo report i prezentacja, gdzie omówiona jest
- m.in. architektura między urządzeniami i schemat połączeń w robocie.
+ m.in. architektura i i schemat połączeń w robocie.
 
 ### Zespół
 
 - Bartłomiej Borzyszkowski,
-- Prof. K. Rajasekarana (India).
+- Prof. K. Rajasakaran (India).
 

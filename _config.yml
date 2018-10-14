@@ -5,6 +5,7 @@ gems:
   - jekyll-sitemap
   - jekyll-paginate-v2
   - jekyll-multiple-languages-plugin
+  - jekyll-redirect-from
 
 exclude:
   - "/vendor/"
