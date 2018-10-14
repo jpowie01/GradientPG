@@ -3,7 +3,7 @@ FROM ubuntu:16.04
 WORKDIR /gradient/
 
 RUN apt-get update
-RUN apt-get install -y make gcc ruby ruby-dev nodejs
+RUN apt-get install -y make gcc g++ ruby ruby-dev nodejs
 RUN apt-get install libffi-dev
 
 COPY Gemfile /gradient/Gemfile
