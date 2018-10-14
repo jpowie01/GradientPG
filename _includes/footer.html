@@ -2,15 +2,32 @@
 
   <div class="wrapper">
 
-    <h3 class="footer-heading">{{ site.title }}</h3>
+    <div class="facebook-plugin">
+        <div class="fb-page" data-href="https://www.facebook.com/GradientPG/"
+            data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" 
+            data-show-facepile="true">
+            <blockquote cite="https://www.facebook.com/GradientPG/" class="fb-xfbml-parse-ignore">
+                <a href="https://www.facebook.com/GradientPG/">Gradient PG</a>
+            </blockquote>
+        </div>
+    </div>
 
     <div class="site-navigation">
-
-      <p><strong>Mapa Strony</strong></p>
+        <p><strong>{% translate footer.site_map %}</strong></p>
       <ul class="pages">
         {% for page in site.pages %}
-          {% if page.title and page.main_nav != false and page.type != "tag" and page.type != "category" %}
-            <li class="nav-link"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+          {% if page.main_nav != false and page.type != "tag" and page.type != "category" and (page.title or page.title_i18n) %}
+            <li class="nav-link">
+              <a href="{{ page.url | prepend: site.baseurl }}">
+                {% if page.title_i18n %}
+                    {% translate page.title_i18n %}
+                {% else if page.title %}
+                    {{ page.title }}
+                {% else %}
+                    No title!
+                {% endif %}
+              </a>
+            </li>
           {% endif %}
         {% endfor %}
       </ul>
@@ -18,7 +35,7 @@
 
     <div class="site-contact">
 
-      <p><strong>Kontakt</strong></p>
+      <p><strong>{% translate footer.contact %}</strong></p>
       <ul class="social-media-list">
         <li>
           <a href="mailto:{{ site.email }}">
@@ -39,11 +56,6 @@
         {% endfor %}
 
       </ul>
-    </div>
-
-    <div class="site-signature">
-      <p class="rss-subscribe text"><strong>Subskrybuj <a href="{{ "/feed.xml" | prepend: site.baseurl }}">używając RSS</a></strong></p>
-      <p class="text">{{ site.description }}</p>
     </div>
 
   </div>

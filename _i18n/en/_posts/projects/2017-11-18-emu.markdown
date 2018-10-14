@@ -1,0 +1,29 @@
+---
+layout: article-post
+locale: en
+title:  "EMU"
+date:   2017-11-18 12:00:00
+author: Paweł Kopeć
+categories: Projects
+tags:	project emu
+comments: true
+cover:  "/assets/projects/emu/cover.jpg"
+thumbnail: "/assets/projects/emu/thumbnail.jpg"
+---
+
+Fascinated with advances of human-computer interfaces we began a project that can help in automatic recognition of human emotions by machines.
+
+Project EMU or Emotion Mini Utility is based on convolutional neural networks with ability to guess human emotions based on face expression caught on a photograph.
+
+Task of emotion classification is quite peculiar since even effectiveness of humans is pretty low. Authors themselves have sometimes problem trying to properly tell the emotion. This fact makes EMU even more interesting.
+
+We invite you to play around with our model on your own machine. Feedback is always welcome.
+
+Currently the project is developed as Bachelor thesis.
+
+Source code can be found [here](https://github.com/AffectiveComputing/emu/).
+
+### Zespół
+- Paweł Kopeć,
+- Michał Górecki.
+

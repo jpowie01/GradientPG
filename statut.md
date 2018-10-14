@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Statut
-permalink: /statut/
 main_nav: false
+title_i18n: titles.main.statute
+permalink: /statut/
+permalink_en: /statute/
 ---
 
 **I. Postanowienia ogólne**
@@ -75,3 +76,4 @@ na konkretne spotkanie koła naukowego.
 3. Wszystkie wątpliwości oraz kwestie sporne rozstrzyga Zarząd Koła Naukowego.
 
 **W sprawach nieuregulowanych niniejszym regulaminem zastosowanie mają obowiązujące przepisy ustawy Prawo o szkolnictwie wyższym, wraz z przepisami wykonawczymi i statutem uczelni.**
+

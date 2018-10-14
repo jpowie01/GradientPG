@@ -1,5 +1,9 @@
 ---
 layout: default
+title_i18n: titles.main.main_page
+main_nav: false
+pagination:
+  enabled: true
 ---
 <div class="home">
 
@@ -8,7 +12,7 @@ layout: default
   <div class="scrim has-cover">
     <header class="site-header">
       <h1 class="title">Gradient</h1>
-      <p class="subtitle">Sztuczna Inteligencja, Deep Learning & Machine Learning</p>
+      <p class="subtitle">{% translate titles.subtitle %}</p>
     </header>
   </div>
 </div>
@@ -18,20 +22,20 @@ layout: default
   {% for post in paginator.posts %}
   <li>
     <h2>
-      {% if post.tags contains "projekt" %}
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Projekt - {{ post.title }}</a>
+      {% if post.categories contains "Projects" or post.categories contains "Projekty" %}
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{% translate project %} - {{ post.title }}</a>
       {% else %}
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       {% endif %}
     </h2>
     <section class="post-excerpt" itemprop="description">
-      <p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
+      <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
     </section>
-	<p><a class="btn btn-sm btn-primary" href="{{ post.url | prepend: site.baseurl }}" role="button">Czytaj dalej <i class="fa fa-arrow-circle-right"></i></a>
+    <p><a class="btn btn-sm btn-primary" href="{{ post.url | prepend: site.baseurl }}" role="button">{% translate read_more %} <i class="fa fa-arrow-circle-right"></i></a>
     <section class="post-meta">
       <div class="post-date">{{ post.date | date: "%d/%m/%Y" }}</div>
       <div class="post-categories">
-      {% if post.categories.size > 0 %}w {% for cat in post.categories %}
+        {% if post.categories.size > 0 %}{% translate post_in_category %} {% for cat in post.categories %}
         {% if site.jekyll-archives %}
         <a href="{{ site.baseurl }}/category/{{ cat | downcase }}">{{ cat | capitalize }}</a>{% if forloop.last == false %}, {% endif %}
         {% else %}
@@ -71,7 +75,7 @@ layout: default
       <i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
     </span>
 		{% endif %}
-		<span class="page-number">Strona {{ paginator.page }} z {{ paginator.total_pages }}</span>
+        <span class="page-number">{% translate page_title %} {{ paginator.page }} {% translate page_one_of %} {{ paginator.total_pages }}</span>
 		{% if paginator.next_page %}
 		<a class="newer-posts" href="{{ site.baseurl }}/page{{paginator.next_page}}">
       <span class="fa-stack fa-lg">

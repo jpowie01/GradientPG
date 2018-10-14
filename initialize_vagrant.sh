@@ -10,7 +10,7 @@ echo "cd /vagrant" >> /home/ubuntu/.bash_profile
 apt-get update
 
 # Zainstalowanie wszystkich potrzebnych paczek
-apt-get install -y make gcc ruby ruby-dev nodejs
+apt-get install -y make gcc g++ ruby ruby-dev nodejs
 gem install bundler
 
 # Przejscie do katalogu z projektem oraz zainstalowanie dependencji

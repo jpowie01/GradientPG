@@ -1,0 +1,120 @@
+---
+layout: post
+locale: en
+title:  "Hackathon, Vol. I - 11/12.05.2018"
+date:   2018-05-15 17:00:00
+author: Jakub Powierza
+categories: Events
+tags:	hackathon summary
+comments: true
+cover:  "/assets/posts/2018-05-15-hackathon/background.jpg"
+thumbnail:  "/assets/posts/2018-05-15-hackathon/thumbnail.jpg"
+---
+
+Hey,  
+Instead of classical Gradient meeting on ETI, we decided that we need to integrate and do something unusual. And all of you know what kind of integration suits well all kind of developers. Thats right, we met with [SKALP Robotics Association](https://www.facebook.com/Stowarzyszenie-Robotyków-SKALP-404413996671952/) and orginized a hackaton!
+
+## How did it look like?
+Hackaton was prepared exclusively for Gradient and [SKALP](https://www.facebook.com/Stowarzyszenie-Robotyków-SKALP-404413996671952/) members. We met at friday 18:00 in [Domem Technika NOT](https://www.facebook.com/domtechnikanotgdansk/) where we formed teams and ... got to work! :)
+
+<center><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdomtechnikanotgdansk%2Fposts%2F1686945508079649&width=500" width="500" height="645" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe></center>
+
+Main topic of our meeting was **Reinforcement Learning**. Thats why teams were working on projects connected with AI agents.
+
+<center><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D422538601526158%26id%3D404413996671952&width=500" width="500" height="450" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe></center>
+
+Keeping RedBull&pizza fueled hard work aside, there were alot of fun and integration meetings in [Reconnect](https://www.facebook.com/reconnect.gg/) club :) Our 'last men standing' teams were working till the crack of dawn!
+
+## Our teams
+
+Poniżej prezentujemy wszystkie zespoły, które wzięły udział w hackathonie.
+
+### "Space Y” Team
+
+> The main goal of our project was to develop smart agent that can land rover on the surface of the moon
+> 
+> Mission turned out to be a success! It was a great time for out team, we were really proud of our solution.
+>  There are few videos presenting next stages of agent learning process
+> 
+> ~ Mateusz Jabłoński
+
+**Members:**
+ - Michał Martyniak,
+ - Kamil Pokora,
+ - Radosław Słowiński,
+ - Mateusz Jabłoński.
+
+**Learning process start**
+<center><video width="600" height="400" controls>
+  <source src="/assets/posts/2018-05-15-hackathon/spacey_first.mp4" type="video/mp4">
+</video></center>
+
+**We are getting there...**
+<center><video width="600" height="400" controls>
+  <source src="/assets/posts/2018-05-15-hackathon/spacey_second.mp4" type="video/mp4">
+</video></center>
+
+**Final agent**
+<center><video width="600" height="400" controls>
+  <source src="/assets/posts/2018-05-15-hackathon/spacey_third.mp4" type="video/mp4">
+</video></center>
+
+### Team "ΩGo"
+
+> Our task was to teach agent to balance rod on the bogie using DQN in Tensorflow.
+> We failed even after some major code fixes, but maybe we can get it work soon.
+> Event was cool, pizza + cheap beer is always good. 
+> I dont raise any objections... maybe one: event was planned to last to 12am but there were no people left at 2am xD.
+>
+> ~ Michał Górecki
+
+**Members:**
+ - Kuba Karczewski,
+ - Piotr Mazur,
+ - Dariusz Piotrkowski,
+ - Ania Malizjusz,
+ - Katarzyna Studzińska.
+
+### Team "Musk-have”
+
+> Our project idea was connected with deep learning model used for self-driving car in Unity3D environment. We planned to reimplement model basing on [https://github.com/llSourcell/How_to_simulate_a_se...](https://github.com/llSourcell/How_to_simulate_a_self_driving_car/blob/master/self-driving-car.ipynb)
+> Unfortunately we had problems with Unity configuration so team dispersed to help in other projects.
+>
+> ~ Piotr Sobczak i Piotr Januszewski
+
+**Members:**
+ - Grzegorz Beringer,
+ - Jan Pliszka,
+ - Patrycja Matejek,
+ - Piotr Sobczak,
+ - Piotr Januszewski.
+
+### Team "King Pong"
+
+> We decided to teach computer how to play Pong game! Although we had problems with environment setup (gym[atari]), we managed to create neural network and start learning process. 
+> Main strength of our team were Paweł and Paula, they were determined to accomplish the task. This resulted in constant progress. A huge help was offered from Piotrek and Michał
+> in form of problem breakdown and application structure description.
+> We learned more than our Pong agent, but still Hackaton was a huge success for us! 🕹🍕🍻
+> 
+> ~ Bartek Borzyszkowski
+
+**Members:**
+ - Paula Karbowska,
+ - Paweł Belczak,
+ - Artur Baryła,
+ - Jan Pliszka,
+ - Bartłomiej Borzyszkowski.
+
+## Summary
+
+It was fantastic! Thanks for participation!
+
+HUGE thanks to co-organizer - 
+ [SKALP Robotics Association](https://www.facebook.com/Stowarzyszenie-Robotyków-SKALP-404413996671952/),
+ without you this hackathon would have never happened! :) Also we would like to thank
+ [Reconnect club](https://www.facebook.com/reconnect.gg/), who organized alot of drinks and entertainment. Thanks to [JP-Telekom](http://jp-telekom.pl) we had alot of quality pizza - you are the best! Also we don't forget [Domu Technika NOT](https://www.facebook.com/domtechnikanotgdansk/) - the best place to hack along.
+
+We hope that this is not our last hackaton :)
+
+See you soon!
+

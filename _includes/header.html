@@ -1,3 +1,12 @@
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/pl_PL/sdk.js#xfbml=1&version=v3.1&appId=420123615182009&autoLogAppEvents=1';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
 <header class="navigation" role="banner">
   <div class="navigation-wrapper">
     <a href="{{ site.baseurl }}/" class="logo">
@@ -11,14 +20,31 @@
     <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">
       <i class="fa fa-bars"></i>
     </a>
-    <nav role="navigation">
+    <div style="float: right;">
+    <nav role="navigation" style="float: left;">
       <ul id="js-navigation-menu" class="navigation-menu show">
         {% for page in site.pages %}
-          {% if page.title and page.main_nav != false and page.type != "tag" and page.type != "category" %}
-          <li class="nav-link"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+          {% if page.main_nav != false and page.type != "tag" and page.type != "category" and (page.title or page.title_i18n) %}
+          <li class="nav-link">
+             <a href="{{ page.url | prepend: site.baseurl }}">
+                {% if page.title_i18n %}
+                    {% translate page.title_i18n %}
+                {% else if page.title %}
+                    {{ page.title }}
+                {% else %}
+                    No title!
+                {% endif %}
+             </a>
+          </li>
           {% endif %}
         {% endfor %}
       </ul>
     </nav>
+      <div class="change-language" style="line-height: 65px; float: right;">
+        <a href="{{ site.baseurl }}/../">PL</a>
+        <span>|</span>
+        <a href="{{ site.baseurl }}/../en/">EN</a>
+      </div>
+    </div>
   </div>
 </header>

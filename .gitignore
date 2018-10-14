@@ -16,6 +16,7 @@ vendor/
 
 # IDEs
 .idea/
+*.swp
 
 # Vagrant
 .vagrant/

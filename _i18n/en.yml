@@ -1,0 +1,35 @@
+# Main titles 
+titles:
+  subtitle: "Artificial Inteligence, Deep Learning & Machine Learning"
+  main:
+    main_page: "Gradient"
+    archive: "Archive"
+    about_us: "About Us"
+    resources: "Resources"
+    portfolio: "Portfolio"
+    meetings: "Meetings"
+    statute: "Statute"
+
+# Portfolio
+portfolio:
+  projects: "Projects"
+  projects_description: "Below you can find the list of all Projects on which our members were working."
+  events: "Events"
+  events_description: "Below you can find all Events we took part in."
+  collaboration: "Collaboration"
+  collaboration_description: "Our organization is open for any kind of collaboration including talks, lectures or hands-on excercises. Till now, we've been working together with such companies:"
+
+# Footer
+footer:
+  site_map: "Site Map"
+  contact: "Contact"
+
+# Other
+author: "Author"
+tags: "Tags"
+share: "Share"
+read_more: "Read more"
+page_title: "Page"
+page_one_of: "of"
+post_in_category: "in"
+project: "Project"

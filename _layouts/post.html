@@ -6,8 +6,16 @@ layout: default
 <div class="post-header-container {% if page.cover %}has-cover{% endif %}" {% if page.cover %}style="background-image: url({{ page.cover | prepend: site.baseurl }});"{% endif %}>
   <div class="scrim {% if page.cover %}has-cover{% endif %}">
     <header class="post-header">
-      <h1 class="title">{{ page.title }}</h1>
-      <p class="info">Autor: <strong>{{ page.author }}</strong></p>
+        <h1 class="title">
+            {% if page.title_i18n %}
+                {% translate page.title_i18n %}
+            {% else if page.title %}
+                {{ page.title }}
+            {% else %}
+                No title!
+            {% endif %}
+        </h1>
+        <p class="info">{% translate author %}: <strong>{{ page.author }}</strong></p>
     </header>
   </div>
 </div>
@@ -19,7 +27,7 @@ layout: default
 <section class="post-meta">
   <div class="post-date">{{ page.date | date: "%d/%m/%Y" }}</div>
   <div class="post-categories">
-  {% if page.categories.size > 0 %}w {% for cat in page.categories %}
+    {% if page.categories.size > 0 %}{% translate post_in_category %} {% for cat in page.categories %}
     {% if site.jekyll-archives %}
     <a href="{{ site.baseurl }}/category/{{ cat | downcase }}">{{ cat | capitalize }}</a>{% if forloop.last == false %}, {% endif %}
     {% else %}
@@ -36,17 +44,13 @@ layout: default
 {% if site.jekyll-archives %}
 {% if page.tags.size > 0 %}
 <section class="tags">
-  <strong>Tagi:</strong> {% for tag in page.tags %}<a href="{{ site.baseurl }}/tag/{{ tag }}">{{ tag }}</a>{% if forloop.last == false %},&nbsp;{% endif %}{% endfor %}
+    <strong>{% translate tags %}:</strong> {% for tag in page.tags %}<a href="{{ site.baseurl }}/tag/{{ tag }}">{{ tag }}</a>{% if forloop.last == false %},&nbsp;{% endif %}{% endfor %}
 </section>
 {% endif %}
 {% endif %}
-
-<section class="rss">
-  <p class="rss-subscribe text"><strong>Subskrybuj <a href="{{ "/feed.xml" | prepend: site.baseurl }}">używając RSS</a></strong></p>
-</section>
 
 <section class="share">
-  <span>Podziel się: </span>
+  <span>{% translate share %}: </span>
   {% for social in site.social %}
     {% capture full_url %}{{ site.url }}{{ site.baseurl }}{{ page.url }}{% endcapture %}
     {% if social.name == "Twitter" and social.share == true %}

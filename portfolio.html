@@ -1,0 +1,65 @@
+---
+layout: page
+title_i18n: titles.main.portfolio
+permalink: /portfolio/
+permalink_en: /portfolio/
+---
+
+<h2>{% translate portfolio.projects %}</h2>
+<p>{% translate portfolio.projects_description %}</p>
+
+<ul class="post-list" style="margin-bottom: 20px;">
+    {% if site.lang == "pl" %}
+        {% assign sorted_projects = site.categories["Projekty"] | sort: 'title'%}
+    {% elsif site.lang == "en" %}
+        {% assign sorted_projects = site.categories["Projects"] | sort: 'title' %}
+    {% endif %}
+    {% for post in sorted_projects %}
+        <li style="padding: 10px 0;">
+            <img src="{{ post.thumbnail | prepend: site.baseurl }}" style="width: 30%; margin-right: 20px; margin-bottom: 30px; float: left;" />
+            <section>
+                <h2>
+                    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                </h2>
+                <section class="post-excerpt" itemprop="description">
+                    <p>{{ post.content | strip_html | truncatewords: 25 }}</p>
+                </section>
+            </section>
+        </li>
+        <hr style="clear: both;"/>
+    {% endfor %}
+</ul>
+
+<h2>{% translate portfolio.events %}</h2>
+<p>{% translate portfolio.events_description %}</p>
+
+<ul class="post-list" style="margin-bottom: 20px;">
+    {% if site.lang == "pl" %}
+        {% assign sorted_events = site.categories["Wydarzenia"] %}
+    {% elsif site.lang == "en" %}
+        {% assign sorted_events = site.categories["Events"] %}
+    {% endif %}
+    {% for post in sorted_events %}
+        <li style="padding: 10px 0;">
+            <img src="{{ post.thumbnail | prepend: site.baseurl }}" style="width: 30%; margin-right: 20px; margin-bottom: 30px; float: left;" />
+            <section>
+                <h2>
+                    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                </h2>
+                <section class="post-excerpt" itemprop="description">
+                    <p>{{ post.content | strip_html | truncatewords: 25 }}</p>
+                </section>
+            </section>
+        </li>
+        <hr style="clear: both;"/>
+    {% endfor %}
+</ul>
+
+<h2>{% translate portfolio.collaboration %}</h2>
+<p>{% translate portfolio.collaboration_description%}</p>
+
+<a href="http://www.voicelab.ai" target="_blank"><img src="/assets/portfolio/voicelab.jpg" width="300" alt="VoiceLab"/></a><br/>
+<a href="https://sentione.com" target="_blank"><img src="/assets/portfolio/sentione.png" width="300" alt="SentiOne"/></a><br/>
+<a href="https://quantumlab.co" target="_blank"><img src="/assets/portfolio/quantumlab.svg" width="300" alt="QuantumLab"/></a><br/>
+<a href="http://cta.ai" target="_blank"><img src="/assets/portfolio/ctaai.jpg" width="250" alt="CTA.ai"/></a>
+
