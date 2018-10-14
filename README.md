@@ -77,6 +77,7 @@ $ vagrant ssh
 ```
 4. Uruchom skrypt odpalający stronę na Twojej maszynie:
 ```bash
+ubuntu@ubuntu-xenial:~$ cd /vagrant
 ubuntu@ubuntu-xenial:/vagrant$ ./run_server.sh --watch
 ```
 5. Gotowe! Strona powinna być dostępna pod adresem `http://10.0.0.99/` i zmieniać swoją treść wraz z Twoimi modyfikacjami.

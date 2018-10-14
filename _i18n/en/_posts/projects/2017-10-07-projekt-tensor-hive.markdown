@@ -1,28 +1,67 @@
 ---
 layout: article-post
-locale: en
+locale: pl
 title:  "TensorHive"
 date:   2017-10-07 12:00:00
-author: Paweł Rościszewski
-categories: Projects
-tags:	project tesnsorhive
+author: Paweł Rościszewski i Michał Martyniak
+categories: Projekty
+tags:	tensorhive gpu monitoring tensorflow
 comments: true
-cover:  "/assets/projects/tensorhive/cover.jpg"
-thumbnail: "/assets/projects/tensorhive/thumbnail.jpg"
+cover:  "/assets/projects/tensorhive/cover.png"
+thumbnail: "/assets/projects/tensorhive/thumbnail.png"
 ---
 
-W przypadku dużych architektur neuronowych i zbiorów danych treningowych, treningi mogą trwać wiele godzin. Na przykład w projekcie AlphaGo, sieć do klasyfikacji pozycji w grze Go na podstawie archiwalnych ruchów ekspertów była trenowana przez trzy tygodnie na 50 GPU. Rozproszenie treningu na wiele urządzeń jest nieuniknione w wielu praktycznych zastosowaniach. Choć trening sieci neuronowych jest problemem trudnym do zrównoleglenia, popularne frameworki do uczenia głębokiego udostępniają pewne mechanizmy treningu rozproszonego.
+![Logo TH](/assets/projects/tensorhive/thumbnail.png)
 
-Na przykład, użycie tzw. [Distributed TensorFlow](https://www.tensorflow.org/deploy/distributed) wymaga uruchomienia kilku+ programów treningowych (serwerów parametrów i workerów) na rozproszonych zasobach obliczeniowych. Jest to czasochłonne, gdyż należy odpowiednio ustawić parametry poszczególnych zadań, by zapewnić odpowiednią komunikację pomiędzy nimi. Zadanie staje się jeszcze trudniejsze w przypadku współdzielenia zasobów przez wielu użytkowników oraz różnych priorytetów poszczególnych zadań, czy też możliwości sterowania priorytetami przez admina.  Dodatkowo, w obliczu często zmieniającego się API TensorFlow, przydatne byłoby łatwe sterowanie wykorzystywaną wersją biblioteki (np. przez virtualenv).
+TensorHive jest lekkim narzędziem do zarządzania kilkoma serwerami wyposażonymi w GPU
+współdzielonymi przez wielu użytkowników do uczenia maszynowego w TensorFlow. Narzędzie
+jest lekkie w takim sensie, że wystarczy instalacja za pomocą pip, prosta konfiguracja poprzez
+wprowadzenie listy nazw hostów i już można korzystać z aplikacji webowej przedstawiającej
+na bieżąco parametry zasobów obliczeniowych na podstawie modułu automatycznego monitorowania.
 
-Istniejące systemy do zarządzania zasobami obliczeniowymi są integrowane z frameworkiem TensorFlow w ramach tzw. [TensorFlow ecosystem](https://github.com/tensorflow/ecosystem). W kontekście Google często mowa tu o rozwiązaniach “cloudowych” typu [Docker](https://github.com/tensorflow/ecosystem/tree/master/docker), [Kubernetes](https://github.com/tensorflow/ecosystem/tree/master/kubernetes), a także klastrowych typu [SLURM](https://deepsense.io/tensorflow-on-slurm-clusters/). Środowisko tzw. big data tworzy wrappery dedykowane popularnym technologiom takim, jak Apache Spark, Hadoop. Każde z tych rozwiązań wymaga znajomości, instalacji i konfiguracji powyższych systemów, co kłóci się z założeniem dostępności TensorFlow dla szerokiej rzeszy programistów.
+![Terminal z uruchomionym TensorHive](/assets/projects/tensorhive/terminal.png)
 
-Celem projektu TensorHive byłoby stworzenie lekkiego frameworka do rozpraszania treningów w Distributed TensorFlow, który wymagałby jedynie podania listy hostów dostępnych przez SSH, sam dokonywałby wykrycia dostępnych zasobów, umożliwiałby monitoring zajęcia zasobów, zarządzanie i szeregowanie zadań. Z podobną tematyką mierzyliśmy się w KASKu do tej pory w ramach projektu [KernelHive](http://onlinelibrary.wiley.com/doi/10.1002/cpe.3719/abstract), którego elementy mogą być wykorzystane w nowym projekcie. Mechanizm uruchamiania zadań mógłby być współdzielony przez oba systemy. Aby skorzystać z istniejącej marki, a jednocześnie reklamować ją dalej, proponuję rozwijać projekt pod nazwą TensorHive.
+![Monitorowanie](/assets/projects/tensorhive/monitoring.png)
+
+Zdefiniowanie kont użytkowników powiązanych z loginami na wykorzystywanych maszynach pozwala
+na dokonywanie rezerwacji zasobów na przyszłość za pomocą przejrzystego kalendarza, a naruszenia
+harmonogramu są wykrywane i skutkują akcjami wobec naruszającego: od informacji w konsoli, przez
+wysłanie maila po zabicie nieuprawnionego procesu.
+
+![Rezerwacje](/assets/projects/tensorhive/reservations.png)
+
+![Naruszenie](/assets/projects/tensorhive/violation.png)  
+
+TensorHive wykorzystuje REST API zrealizowane przy użyciu OpenAPI, dzięki czemu jest możliwe 
+rozszerzenie go o kolejne interfejsy użytkownika.
+
+![swagger](/assets/projects/tensorhive/swagger.png)
+
+W kolejnym etapie projektu planujemy dodać funkcjonalność uruchamiania rozproszonych treningów
+w TensorFlow. Wymaga to uruchomienia wielu procesów na różnych serwerach. TensorHive pozwoli
+użytkownikowi zdefiniować program treningowy, wybrać urządzenia, a procesy zostaną uruchomione
+automatycznie, a następnie monitorowane i w razie potrzeby zabite. Narzędzie scentralizuje
+wiedzę o systemie i zapotrzebowaniu użytkowników, co pozwoli na zaimplementowanie mechanizmów
+szeregowania zadań, aby żadne z dostępnych cennych GPU się nie marnowało.
+
+TensorHive tworzony jest z myślą o prawdziwych użytkownikach i prawdziwych aplikacjach. Narzędzie
+działa na serwerach Wydziału ETI, w tym najnowszym serwerze NVIDIA® DGX Station™. Zapotrzebowanie
+na funkcjonalności zgłaszane jest też przez firmę VoiceLab z Gdańska, która zajmuje się
+automatycznym rozpoznawaniem mowy.
+
+Przygotowujemy [realne scenariusze aplikacji treningowych](https://github.com/roscisz/TensorHive/tree/develop/examples "Przykładowe aplikacje") treningowych
+z dziedzin rozpoznawania obrazów,
+przetwarzania języka naturalnego i automatycznego rozpoznawania mowy, które pozwolą nam na
+ciągłe testowanie funkcjonalności narzędzia TensorHive. W trakcie prac dowiadujemy się też
+ciekawych rzeczy o przebiegu treningów rozproszonych w zależności od algorytmów, parametrów
+i wykorzystywanego sprzętu. 
+
 
 Repozytorium projektu: [https://github.com/roscisz/TensorHive](https://github.com/roscisz/TensorHive)
 
 ### Zespół
-- Paweł Rościszewski (w ramach dalszej pracy badawczej),
-- Witold Netel (praca mgr.),
+- Paweł Rościszewski,
 - Michał Martyniak,
-- Dariusz Piotrowski.
+- Filip Schodowski,
+- Tomasz Menet,
+- Karol Draszawka.
