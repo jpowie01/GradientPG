@@ -3,3 +3,4 @@ gradient:
     container_name: gradient
     ports:
         - 80:4000
+    restart: always
