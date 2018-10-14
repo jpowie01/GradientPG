@@ -28,6 +28,7 @@ COPY o-nas.md /gradient/o-nas.md
 COPY portfolio.html /gradient/portfolio.html
 COPY spotkania.md /gradient/spotkania.md
 COPY statut.md /gradient/statut.md
+COPY projekty.html /gradient/projekty.html
 
 CMD jekyll serve --host 0.0.0.0
 
