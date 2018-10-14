@@ -29,7 +29,7 @@ pagination:
       {% endif %}
     </h2>
     <section class="post-excerpt" itemprop="description">
-      <p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
+      <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
     </section>
     <p><a class="btn btn-sm btn-primary" href="{{ post.url | prepend: site.baseurl }}" role="button">{% translate read_more %} <i class="fa fa-arrow-circle-right"></i></a>
     <section class="post-meta">

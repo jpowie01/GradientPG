@@ -22,7 +22,7 @@ permalink_en: /portfolio/
                     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                 </h2>
                 <section class="post-excerpt" itemprop="description">
-                    <p>{{ post.excerpt | strip_html | truncatewords: 25 }}</p>
+                    <p>{{ post.content | strip_html | truncatewords: 25 }}</p>
                 </section>
             </section>
         </li>
@@ -47,7 +47,7 @@ permalink_en: /portfolio/
                     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                 </h2>
                 <section class="post-excerpt" itemprop="description">
-                    <p>{{ post.excerpt | strip_html | truncatewords: 25 }}</p>
+                    <p>{{ post.content | strip_html | truncatewords: 25 }}</p>
                 </section>
             </section>
         </li>

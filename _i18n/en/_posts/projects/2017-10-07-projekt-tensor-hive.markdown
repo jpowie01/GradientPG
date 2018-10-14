@@ -1,10 +1,10 @@
 ---
 layout: article-post
-locale: pl
-title:  "TensorHive"
+locale: en
+title:  "TensorHive [PL]"
 date:   2017-10-07 12:00:00
-author: Paweł Rościszewski i Michał Martyniak
-categories: Projekty
+author: Paweł Rościszewski and Michał Martyniak
+categories: Projects
 tags:	tensorhive gpu monitoring tensorflow
 comments: true
 cover:  "/assets/projects/tensorhive/cover.png"
