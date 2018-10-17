@@ -49,11 +49,11 @@ działa na serwerach Wydziału ETI, w tym najnowszym serwerze NVIDIA® DGX Stati
 na funkcjonalności zgłaszane jest też przez firmę VoiceLab z Gdańska, która zajmuje się
 automatycznym rozpoznawaniem mowy.
 
-Przygotowujemy [realne scenariusze aplikacji treningowych](https://github.com/roscisz/TensorHive/tree/develop/examples "Przykładowe aplikacje") treningowych
+Przygotowujemy [realne scenariusze aplikacji treningowych](https://github.com/roscisz/TensorHive/tree/develop/examples "Przykładowe aplikacje")
 z dziedzin rozpoznawania obrazów,
 przetwarzania języka naturalnego i automatycznego rozpoznawania mowy, które pozwolą nam na
 ciągłe testowanie funkcjonalności narzędzia TensorHive. W trakcie prac dowiadujemy się też
-ciekawych rzeczy o przebiegu treningów rozproszonych w zależności od algorytmów, parametrów
+ciekawych rzeczy o przebiegu rozproszonych treningów sieci neuronowych w zależności od algorytmów, parametrów
 i wykorzystywanego sprzętu. 
 
 
