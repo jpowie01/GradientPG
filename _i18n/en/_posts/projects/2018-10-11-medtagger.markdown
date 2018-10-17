@@ -26,10 +26,13 @@ MedTagger won the first prize and distinction in **"Jaskółki Przedsiębiorczo�
 
 ### Team
 
- - Jakub Powierza,
+ - **Supervisor:** Tomasz Dziubich PhD
+ - **Leader:** Jakub Powierza,
  - Dawid Paluchowski,
  - Karolina Olszewska,
  - Julia Pacuła,
  - Piotr Walkusz,
  - Jacek Szempliński.
+
+
 

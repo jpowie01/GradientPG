@@ -21,15 +21,9 @@ This year meetings will be focused on empowering our skills by sharing progress 
 
     <!-- Spotkanie nr 1 -->
     <tr>
-        <td rowspan="2">-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <!-- Data jest połączona przez colspan! -->
-        <td>-</td>
-        <td>-</td>
+        <td>25.10.2018</td>
+        <td>Kick-off meeting</td>
+        <td>Board Members</td>
         <td>-</td>
     </tr>
 

@@ -28,10 +28,12 @@ MedTagger uzyskał pierwszą nagrodę oraz wyróżnienie w konkursie **"Jaskół
 
 ### Zespół
 
- - Jakub Powierza,
+ - **Opiekun:** dr inż. Tomasz Dziubich
+ - **Leader:** Jakub Powierza,
  - Dawid Paluchowski,
  - Karolina Olszewska,
  - Julia Pacuła,
  - Piotr Walkusz,
  - Jacek Szempliński.
+
 

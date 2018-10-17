@@ -15,15 +15,9 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
 
     <!-- Spotkanie nr 1 -->
     <tr>
-        <td rowspan="2">-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <!-- Data jest połączona przez colspan! -->
-        <td>-</td>
-        <td>-</td>
+        <td>25.10.2018</td>
+        <td>Spotkanie inauguracyjne</td>
+        <td>Zarząd Koła</td>
         <td>-</td>
     </tr>
 
