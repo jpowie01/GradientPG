@@ -142,6 +142,13 @@ pre code.hljs {
       display: none;
     }
   }
+
+  .navigation-options {
+    @include media ($tablet) {
+      float: left;
+    }
+  }
+  
   // Nav menu
   .navigation-wrapper {
   	@include outer-container;

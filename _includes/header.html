@@ -21,7 +21,7 @@
       <i class="fa fa-bars"></i>
     </a>
     <div style="float: right;">
-    <nav role="navigation" style="float: left;">
+    <nav role="navigation" class="navigation-options">
       <ul id="js-navigation-menu" class="navigation-menu show">
         {% for page in site.pages %}
           {% if page.main_nav != false and page.type != "tag" and page.type != "category" and (page.title or page.title_i18n) %}
@@ -38,13 +38,13 @@
           </li>
           {% endif %}
         {% endfor %}
+      <li class="nav-link">
+        <a href="{{ site.baseurl }}/../" style="padding-right: 0;">PL</a>
+        <span>|</span>
+        <a href="{{ site.baseurl }}/../en/" style="padding-right: 0;">EN</a>
+      </li>
       </ul>
     </nav>
-      <div class="change-language" style="line-height: 65px; float: right;">
-        <a href="{{ site.baseurl }}/../">PL</a>
-        <span>|</span>
-        <a href="{{ site.baseurl }}/../en/">EN</a>
-      </div>
     </div>
   </div>
 </header>

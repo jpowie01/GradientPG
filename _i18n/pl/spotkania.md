@@ -23,7 +23,7 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
 
     <!-- Spotkanie nr 2 -->
     <tr>
-        <td rowspan="2">-</td>
+        <td rowspan="2">08.11.2018</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -38,7 +38,7 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
 
     <!-- Spotkanie nr 3 -->
     <tr>
-        <td rowspan="2">-</td>
+        <td rowspan="2">15.11.2018</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -53,7 +53,7 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
 
     <!-- Spotkanie nr 4 -->
     <tr>
-        <td rowspan="2">-</td>
+        <td rowspan="2">22.11.2018</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -68,7 +68,7 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
 
     <!-- Spotkanie nr 5 -->
     <tr>
-        <td rowspan="2">-</td>
+        <td rowspan="2">29.11.2018</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -83,7 +83,7 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
 
     <!-- Spotkanie nr 6 -->
     <tr>
-        <td rowspan="2">-</td>
+        <td rowspan="2">06.12.2018</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -98,7 +98,7 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
 
     <!-- Spotkanie nr 7 -->
     <tr>
-        <td rowspan="2">-</td>
+        <td rowspan="2">13.12.2018</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -113,7 +113,7 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
 
     <!-- Spotkanie nr 8 -->
     <tr>
-        <td rowspan="2">-</td>
+        <td rowspan="2">10.01.2019</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -128,7 +128,7 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
 
     <!-- Spotkanie nr 9 -->
     <tr>
-        <td rowspan="2">-</td>
+        <td rowspan="2">17.01.2019</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -143,7 +143,7 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
 
     <!-- Spotkanie nr 10 -->
     <tr>
-        <td rowspan="2">-</td>
+        <td rowspan="2">28.02.2019</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -158,7 +158,7 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
 
     <!-- Spotkanie nr 11 -->
     <tr>
-        <td rowspan="2">-</td>
+        <td rowspan="2">07.03.2019</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -173,7 +173,7 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
 
     <!-- Spotkanie nr 12 -->
     <tr>
-        <td rowspan="2">-</td>
+        <td rowspan="2">14.03.2019</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -188,7 +188,7 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
 
     <!-- Spotkanie nr 13 -->
     <tr>
-        <td rowspan="2">-</td>
+        <td rowspan="2">21.03.2018</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -203,7 +203,7 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
 
     <!-- Spotkanie nr 14 -->
     <tr>
-        <td rowspan="2">-</td>
+        <td rowspan="2">28.03.2018</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -218,7 +218,7 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
 
     <!-- Spotkanie nr 15 -->
     <tr>
-        <td rowspan="2">-</td>
+        <td rowspan="2">04.04.2019</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -231,6 +231,88 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
     </tr>
 
 
+    <!-- Spotkanie nr 16 -->
+    <tr>
+        <td rowspan="2">1.04.2019</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <!-- Data jest połączona przez colspan! -->
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+
+
+    <!-- Spotkanie nr 17 -->
+    <tr>
+        <td rowspan="2">09.05.2019</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <!-- Data jest połączona przez colspan! -->
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+
+
+    <!-- Spotkanie nr 18 -->
+    <tr>
+        <td rowspan="2">16.05.2019</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <!-- Data jest połączona przez colspan! -->
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+
+
+    <!-- Spotkanie nr 19 -->
+    <tr>
+        <td rowspan="2">23.05.2019</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <!-- Data jest połączona przez colspan! -->
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+
+
+    <!-- Spotkanie nr 20 -->
+    <tr>
+        <td rowspan="2">30.05.2019</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <!-- Data jest połączona przez colspan! -->
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+
+
+    <!-- Spotkanie nr 21 -->
+    <tr>
+        <td>06.06.2019</td>
+        <td>Zakończenie i podsumowanie działalności</td>
+        <td>Zarząd Koła</td>
+        <td>-</td>
+    </tr>
 
 </table>
 
