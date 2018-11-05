@@ -52,7 +52,7 @@ layout: default
 <section class="share">
     <span>{% translate share %}: </span>
   {% for social in site.social %}
-    {% capture full_url %}{{ site.url }}{{ site.baseurl }}{{ page.url }}{% endcapture %}
+    {% capture full_url %}http://gradient.eti.pg.gda.pl/{{ site.baseurl }}{{ page.url }}{% endcapture %}
     {% if social.name == "Twitter" and social.share == true %}
       <a href="//twitter.com/share?text={{ page.title | cgi_escape }}&url={{ full_url | cgi_escape}}&via={{social.username}}"
         onclick="window.open(this.href, '{{ social.icon }}-share', 'width=550,height=255');return false;">
@@ -78,7 +78,7 @@ layout: default
       </a>
     {% endif %}
     {% if social.name == "Pinterest" and social.share == true %}
-      <a href="//www.pinterest.com/pin/create/button/?description={{ page.title | cgi_escape }}&url={{ full_url | cgi_escape}}&media={{ site.url }}{% if page.cover %}{{ page.cover | prepend: site.baseurl  }}{% elsif site.cover %}{{ site.cover | prepend: site.baseurl }}{% else %}{{ site.logo | prepend: site.baseurl }}{% endif %}"
+      <a href="//www.pinterest.com/pin/create/button/?description={{ page.title | cgi_escape }}&url={{ full_url | cgi_escape}}&media=http://gradient.eti.pg.gda.pl/{% if page.cover %}{{ page.cover | prepend: site.baseurl  }}{% elsif site.cover %}{{ site.cover | prepend: site.baseurl }}{% else %}{{ site.logo | prepend: site.baseurl }}{% endif %}"
         onclick="window.open(this.href, '{{ social.icon }}-share', 'width=550,height=255');return false;">
         <i class="fa fa-{{ social.icon | remove_first: '-square' }}-square fa-lg"></i>
       </a>

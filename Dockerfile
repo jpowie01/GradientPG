@@ -31,4 +31,3 @@ COPY statut.md /gradient/statut.md
 COPY projekty.html /gradient/projekty.html
 
 CMD jekyll serve --host 0.0.0.0
-
