@@ -409,7 +409,7 @@ pre code.hljs {
 			@include span-columns(6);
 		}
 		@include media ($tablet) {
-			@include span-columns(3);
+			@include span-columns(2);
 		}
 		font-size: 0.9em;
 		ul {
@@ -428,7 +428,7 @@ pre code.hljs {
 			margin-right: 0;
 		}
 		@include media ($tablet) {
-			@include span-columns(3);
+			@include span-columns(4);
 			margin-top: 0;
 		}
 		font-size: 0.9em;

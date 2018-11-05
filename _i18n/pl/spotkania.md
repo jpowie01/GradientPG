@@ -18,20 +18,20 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
         <td>25.10.2018</td>
         <td>Spotkanie inauguracyjne</td>
         <td>Zarząd Koła</td>
-        <td>-</td>
+        <td><a href="/spotkania/2018/11/05/spotkanie-inauguracyjne-podsumowanie.html">Post</a></td>
     </tr>
 
     <!-- Spotkanie nr 2 -->
     <tr>
         <td rowspan="2">08.11.2018</td>
-        <td>-</td>
-        <td>-</td>
+        <td>Wprowadzenie do Machine Learningu oraz Uczenia Nadzorowanego</td>
+        <td>Jakub Powierza</td>
         <td>-</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
-        <td>-</td>
-        <td>-</td>
+        <td>Hands-on</td>
+        <td>Jakub Powierza</td>
         <td>-</td>
     </tr>
 
@@ -39,14 +39,14 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
     <!-- Spotkanie nr 3 -->
     <tr>
         <td rowspan="2">15.11.2018</td>
-        <td>-</td>
-        <td>-</td>
+        <td>Deep Supervised Learning and Transfer Learning</td>
+        <td>Grzegorz Beringer</td>
         <td>-</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
-        <td>-</td>
-        <td>-</td>
+        <td>Hands-on</td>
+        <td>Grzegorz Beringer</td>
         <td>-</td>
     </tr>
 
@@ -54,14 +54,14 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
     <!-- Spotkanie nr 4 -->
     <tr>
         <td rowspan="2">22.11.2018</td>
-        <td>-</td>
-        <td>-</td>
+        <td>Introduction to Recurrent Neural Networks</td>
+        <td>mgr Karol Draszawka</td>
         <td>-</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
-        <td>-</td>
-        <td>-</td>
+        <td>Hands-on</td>
+        <td>mgr Karol Draszawka</td>
         <td>-</td>
     </tr>
 
@@ -69,14 +69,14 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
     <!-- Spotkanie nr 5 -->
     <tr>
         <td rowspan="2">29.11.2018</td>
-        <td>-</td>
-        <td>-</td>
+        <td>Deep Reinforcement Learning through Policy Iteration and AlphaZero</td>
+        <td>Piotr Januszewski</td>
         <td>-</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
-        <td>-</td>
-        <td>-</td>
+        <td>Hands-on</td>
+        <td>Piotr Januszewski</td>
         <td>-</td>
     </tr>
 

@@ -31,14 +31,14 @@ This year meetings will be focused on empowering our skills by sharing progress 
     <!-- Spotkanie nr 2 -->
     <tr>
         <td rowspan="2">08.11.2018</td>
-        <td>-</td>
-        <td>-</td>
+        <td>Machine Learning and Supervised Learning basics</td>
+        <td>Jakub Powierza</td>
         <td>-</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
-        <td>-</td>
-        <td>-</td>
+        <td>Hands-on</td>
+        <td>Jakub Powierza</td>
         <td>-</td>
     </tr>
 
@@ -46,14 +46,14 @@ This year meetings will be focused on empowering our skills by sharing progress 
     <!-- Spotkanie nr 3 -->
     <tr>
         <td rowspan="2">15.11.2018</td>
-        <td>-</td>
-        <td>-</td>
+        <td>Deep Supervised Learning and Transfer Learning</td>
+        <td>Grzegorz Beringer</td>
         <td>-</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
-        <td>-</td>
-        <td>-</td>
+        <td>Hands-on</td>
+        <td>Grzegorz Beringer</td>
         <td>-</td>
     </tr>
 
@@ -61,14 +61,14 @@ This year meetings will be focused on empowering our skills by sharing progress 
     <!-- Spotkanie nr 4 -->
     <tr>
         <td rowspan="2">22.11.2018</td>
-        <td>-</td>
-        <td>-</td>
+        <td>Introduction to Recurrent Neural Networks</td>
+        <td>mgr Karol Draszawka</td>
         <td>-</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
-        <td>-</td>
-        <td>-</td>
+        <td>Hands-on</td>
+        <td>mgr Karol Draszawka</td>
         <td>-</td>
     </tr>
 
@@ -76,14 +76,14 @@ This year meetings will be focused on empowering our skills by sharing progress 
     <!-- Spotkanie nr 5 -->
     <tr>
         <td rowspan="2">29.11.2018</td>
-        <td>-</td>
-        <td>-</td>
+        <td>Deep Reinforcement Learning through Policy Iteration and AlphaZero</td>
+        <td>Piotr Januszewski</td>
         <td>-</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
-        <td>-</td>
-        <td>-</td>
+        <td>Hands-on</td>
+        <td>Piotr Januszewski</td>
         <td>-</td>
     </tr>
 
