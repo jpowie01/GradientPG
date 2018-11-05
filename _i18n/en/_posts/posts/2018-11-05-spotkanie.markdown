@@ -4,8 +4,8 @@ locale: pl
 title:  Meeting - 08.11.2018
 date:   2018-11-05 18:00:00
 author: Jakub Powierza
-categories: Spotkania
-tags:	spotkanie agenda
+categories: Meetings
+tags:	meeting agenda
 comments: true
 cover:  "/assets/posts/budynek_eti.jpg"
 ---
