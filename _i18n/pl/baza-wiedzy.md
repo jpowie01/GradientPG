@@ -10,10 +10,15 @@ Ta lista wzoruje się na [Awesome Machine Learning](https://github.com/josephmis
 
 ## Matematyka uczenia maszynowego
 
-#### Uczenie maszynowe
+#### Książki
 - **[An Introduction to Statistical Learning with Applications in R](https://www-bcf.usc.edu/~gareth/ISL/)**
 - [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/)
 - [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
+
+#### Kursy
+- **[Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)**
+  Istnieje możliwość [dostępu do materiałów za darmo](https://learner.coursera.help/hc/en-us/articles/209818613-Enrollment-options), ale bez dostępu do sprawdzianów i bez certyfikatu końcowego. Lepszą opcją jest zaaplikowanie o [wsparcie finansowe](https://learner.coursera.help/hc/en-us/articles/209819033-Apply-for-Financial-Aid), polecamy to rozwiązanie!
+- [Statistical Learning (kurs autorów książki ISL, patrz wyżej)](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
 
 #### Pokrewne dziedziny
 - [Linear Algebra Done Right](https://p.fuwafuwa.moe/fsefcd.pdf)
@@ -41,9 +46,11 @@ Ta lista wzoruje się na [Awesome Machine Learning](https://github.com/josephmis
 - [Welch Labs - Neural Networks Demystified](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
 
 #### Książki
+- **[Deep Learning Book](https://www.deeplearningbook.org)**
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 
 #### Kursy oraz wykłady
+- [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/)
 - [Deep Learning Summer School](http://videolectures.net/deeplearning2017_montreal/)
 
 #### Tutoriale frameworków
