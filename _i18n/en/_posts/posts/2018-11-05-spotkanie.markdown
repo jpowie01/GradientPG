@@ -11,9 +11,7 @@ cover:  "/assets/posts/budynek_eti.jpg"
 ---
 
 Hello!  
-On the next Thursday (08.11.2018) at 18:15 we will meet together at the first lecture that will introduce you to the AI world!
-
-**Place is still unknown!** Please monitor our Facebook page and e-mails sent on Google group.
+On the next Thursday (08.11.2018) in EA AUD1 at 18:15 we will meet together at the first lecture that will introduce you to the AI world!
 
 On the meeting Jakub Powierza will talk about "Machine Learning and Supervised Learning basics". It will be a gentle
  introduction to the problems and maths that stands behind supervised learning. Prepare your computers as on the second
@@ -23,4 +21,11 @@ Before the meeting we recommend you to recall Linear Algebra basics 😉 It will
  what exactly supervised learning is.
 
 See you!
+
+### Files
+
+[<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](/pliki/pdf/2018-11-05-spotkanie/IntroductionToSupervisedLearning.pdf) - Slides  
+[<i class="fa fa-book" aria-hidden="true"></i> Jupyter Notebook](/pliki/ipynb/2018-11-05-spotkanie/Clear.ipynb) - Hands-on - Clear version  
+[<i class="fa fa-book" aria-hidden="true"></i> Jupyter Notebook](/pliki/ipynb/2018-11-05-spotkanie/Completed.ipynb) - Hands-on - Completed version  
+[<i class="fa fa-book" aria-hidden="true"></i> Jupyter Notebook](/pliki/ipynb/2018-11-05-spotkanie/Extended.ipynb) - Hands-on - Extended version
 

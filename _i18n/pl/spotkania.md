@@ -24,15 +24,15 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
     <!-- Spotkanie nr 2 -->
     <tr>
         <td rowspan="2">08.11.2018</td>
-        <td>Wprowadzenie do Machine Learningu oraz Uczenia Nadzorowanego</td>
+        <td>Machine Learning and Supervised Learning basics</td>
         <td>Jakub Powierza</td>
-        <td>-</td>
+        <td><a href="/spotkania/2018/11/05/spotkanie.html">Prezentacja</a></td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
         <td>Hands-on</td>
         <td>Jakub Powierza</td>
-        <td>-</td>
+        <td><a href="/spotkania/2018/11/05/spotkanie.html">Materiały</a></td>
     </tr>
 
 

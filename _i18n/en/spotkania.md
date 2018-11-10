@@ -24,7 +24,7 @@ This year meetings will be focused on empowering our skills by sharing progress 
         <td>25.10.2018</td>
         <td>Kick-off meeting</td>
         <td>Board Members</td>
-        <td>-</td>
+        <td><a href="/en/meetings/2018/11/05/spotkanie-inauguracyjne-podsumowanie.html">Summary</a></td>
     </tr>
 
 
@@ -33,13 +33,13 @@ This year meetings will be focused on empowering our skills by sharing progress 
         <td rowspan="2">08.11.2018</td>
         <td>Machine Learning and Supervised Learning basics</td>
         <td>Jakub Powierza</td>
-        <td>-</td>
+        <td><a href="/en/meetings/2018/11/05/spotkanie.html">Slides</a></td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
         <td>Hands-on</td>
         <td>Jakub Powierza</td>
-        <td>-</td>
+        <td><a href="/en/meetings/2018/11/05/spotkanie.html">Resources</a></td>
     </tr>
 
 
