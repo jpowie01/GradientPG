@@ -2,7 +2,7 @@ This list was inspired by “[Awesome Machine Learning](https://github.com/josep
  However, it mainly focuses on materials that help to start working in various fields of machine learning and deep learning.
 
 # Table of Contents
-- [Mathematics for Machine Learning](mathematics-for-machine-learning)
+- [Mathematics for Machine Learning](#mathematics-for-machine-learning)
 - [Deep Learning 101](#deep-learning-101)
 - [Computer Vision](#computer-vision)
 - [Reinforcement Learning](#reinforcement-learning)
@@ -11,10 +11,15 @@ This list was inspired by “[Awesome Machine Learning](https://github.com/josep
 
 ## Mathematics for Machine Learning
 
-#### Machine Learning
+#### Books
 - **[An Introduction to Statistical Learning with Applications in R](https://www-bcf.usc.edu/~gareth/ISL/)**
 - [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/)
 - [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
+
+#### Courses
+- **[Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)**
+  You can [audit](https://learner.coursera.help/hc/en-us/articles/209818613-Enrollment-options) each of three courses in specialization for free or ask for [Financial Aid](https://learner.coursera.help/hc/en-us/articles/209819033-Apply-for-Financial-Aid)! The latter is highly recommended.
+- [Statistical Learning (from ISL book authors, see above)](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
 
 #### Related fields
 - [Linear Algebra Done Right](https://p.fuwafuwa.moe/fsefcd.pdf)
@@ -42,9 +47,11 @@ This list was inspired by “[Awesome Machine Learning](https://github.com/josep
 - [Welch Labs - Neural Networks Demystified](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
 
 #### Books
+- **[Deep Learning Book](https://www.deeplearningbook.org)**
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 
 #### Courses
+- [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/)
 - [Deep Learning Summer School](http://videolectures.net/deeplearning2017_montreal/)
 
 #### Framework Tutorials
