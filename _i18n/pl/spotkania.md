@@ -39,7 +39,7 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
     <!-- Spotkanie nr 3 -->
     <tr>
         <td rowspan="2">15.11.2018</td>
-        <td>Deep Supervised Learning and Transfer Learning</td>
+        <td>Computer Vision and Transfer Learning</td>
         <td>Grzegorz Beringer</td>
         <td>-</td>
     </tr>

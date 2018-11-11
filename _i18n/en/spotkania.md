@@ -46,7 +46,7 @@ This year meetings will be focused on empowering our skills by sharing progress 
     <!-- Spotkanie nr 3 -->
     <tr>
         <td rowspan="2">15.11.2018</td>
-        <td>Deep Supervised Learning and Transfer Learning</td>
+        <td>Computer Vision and Transfer Learning</td>
         <td>Grzegorz Beringer</td>
         <td>-</td>
     </tr>
