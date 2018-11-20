@@ -48,13 +48,13 @@ This year meetings will be focused on empowering our skills by sharing progress 
         <td rowspan="2">15.11.2018</td>
         <td>Computer Vision and Transfer Learning</td>
         <td>Grzegorz Beringer</td>
-        <td>-</td>
+        <td><a href="/en/meetings/2018/11/14/spotkanie.html">Slides</a></td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
         <td>Hands-on</td>
         <td>Grzegorz Beringer</td>
-        <td>-</td>
+        <td><a href="/en/meetings/2018/11/14/spotkanie.html">Resources</a></td>
     </tr>
 
 

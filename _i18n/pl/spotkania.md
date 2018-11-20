@@ -41,13 +41,13 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
         <td rowspan="2">15.11.2018</td>
         <td>Computer Vision and Transfer Learning</td>
         <td>Grzegorz Beringer</td>
-        <td>-</td>
+        <td><a href="/spotkania/2018/11/14/spotkanie.html">Prezentacja</a></td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
         <td>Hands-on</td>
         <td>Grzegorz Beringer</td>
-        <td>-</td>
+        <td><a href="/spotkania/2018/11/14/spotkanie.html">Materiały</a></td>
     </tr>
 
 

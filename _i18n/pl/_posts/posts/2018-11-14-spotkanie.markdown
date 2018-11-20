@@ -31,3 +31,8 @@ Najlepiej będzie jeżeli zacytujemy tutaj samego Grzegorza:
 
 Do zobaczenia!
 
+### Pliki
+
+[<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](/pliki/pdf/2018-11-14-spotkanie/ComputerVisionAndTransferLearning.pdf) - Prezentacja  
+[<i class="fa fa-book" aria-hidden="true"></i> GitHub](https://github.com/gberinger/resnet-finetune-demo) - Hands-on
+

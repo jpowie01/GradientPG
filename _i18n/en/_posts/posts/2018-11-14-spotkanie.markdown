@@ -25,3 +25,8 @@ Check out email message for more details about setting up your enviroment!
 
 See you!
 
+### Files
+
+[<i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](/pliki/pdf/2018-11-14-spotkanie/ComputerVisionAndTransferLearning.pdf) - Slides  
+[<i class="fa fa-book" aria-hidden="true"></i> GitHub](https://github.com/gberinger/resnet-finetune-demo) - Hands-on
+
