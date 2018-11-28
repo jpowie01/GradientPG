@@ -1,6 +1,6 @@
 ---
 layout: post
-locale: pl
+locale: en
 title:  Kick-off meeting - Summary
 date:   2018-11-05 17:00:00
 author: Jakub Powierza

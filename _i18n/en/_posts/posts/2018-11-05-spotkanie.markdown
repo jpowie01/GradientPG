@@ -1,6 +1,6 @@
 ---
 layout: post
-locale: pl
+locale: en
 title:  Meeting - 08.11.2018
 date:   2018-11-05 18:00:00
 author: Jakub Powierza
