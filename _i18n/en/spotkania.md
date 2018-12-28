@@ -91,29 +91,35 @@ This year meetings will be focused on empowering our skills by sharing progress 
     <!-- Spotkanie nr 6 -->
     <tr>
         <td rowspan="2">06.12.2018</td>
-        <td>-</td>
-        <td>-</td>
+        <td>Intorduction to Kaggle and "Boston Housing"</td>
+        <td>Grzegorz Beringer & Piotr Januszewski</td>
         <td>-</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
-        <td>-</td>
-        <td>-</td>
+        <td>Integration & Networking</td>
+        <td>Pizza PRL</td>
         <td>-</td>
     </tr>
 
 
     <!-- Spotkanie nr 7 -->
     <tr>
-        <td rowspan="2">13.12.2018</td>
-        <td>-</td>
-        <td>-</td>
+        <td rowspan="3">13.12.2018</td>
+        <td>Introduction</td>
+        <td>Supervisors</td>
         <td>-</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
+        <td>Autonomous Robot Project</td>
+        <td>Bartek Borzyszkowski</td>
         <td>-</td>
-        <td>-</td>
+    </tr>
+    <tr>
+        <!-- Data jest połączona przez colspan! -->
+        <td>Raspberry PI + Intel Movidius Neural Compute Stick</td>
+        <td>Piotr Januszewski</td>
         <td>-</td>
     </tr>
 

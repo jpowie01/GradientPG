@@ -84,29 +84,35 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
     <!-- Spotkanie nr 6 -->
     <tr>
         <td rowspan="2">06.12.2018</td>
-        <td>-</td>
-        <td>-</td>
+        <td>Wprowadzenie do Kaggle i "Boston Housing"</td>
+        <td>Grzegorz Beringer & Piotr Januszewski</td>
         <td>-</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
-        <td>-</td>
-        <td>-</td>
+        <td>Integracja & Networking</td>
+        <td>Pizzeria PRL</td>
         <td>-</td>
     </tr>
 
 
     <!-- Spotkanie nr 7 -->
     <tr>
-        <td rowspan="2">13.12.2018</td>
-        <td>-</td>
-        <td>-</td>
+        <td rowspan="3">13.12.2018</td>
+        <td>Przedstawienie się</td>
+        <td>Opiekunowie Koła</td>
         <td>-</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
+        <td>Projekt autonomicznego pojazdu</td>
+        <td>Bartek Borzyszkowski</td>
         <td>-</td>
-        <td>-</td>
+    </tr>
+    <tr>
+        <!-- Data jest połączona przez colspan! -->
+        <td>Raspberry PI + Intel Movidius Neural Compute Stick</td>
+        <td>Piotr Januszewski</td>
         <td>-</td>
     </tr>
 
