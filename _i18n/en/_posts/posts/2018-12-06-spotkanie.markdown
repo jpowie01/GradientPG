@@ -1,7 +1,7 @@
 ---
 layout: post
 locale: en
-title:  Meeting - 06.11.2018
+title:  Meeting - 06.12.2018
 date:   2018-12-05 22:00:00
 author: Jakub Powierza
 categories: Meetings

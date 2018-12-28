@@ -1,7 +1,7 @@
 ---
 layout: post
 locale: pl
-title:  Spotkanie - 06.11.2018
+title:  Spotkanie - 06.12.2018
 date:   2018-12-05 22:00:00
 author: Jakub Powierza
 categories: Spotkania
