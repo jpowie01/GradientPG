@@ -142,7 +142,7 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
 
     <!-- Spotkanie nr 10 -->
     <tr>
-        <td rowspan="3">28.02.2019</td>
+        <td rowspan="3">24.01.2019</td>
         <td>Segmentacja semantyczna</td>
         <td>Paweł Białas</td>
         <td>-</td>
@@ -163,7 +163,7 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
 
     <!-- Spotkanie nr 11 -->
     <tr>
-        <td rowspan="2">07.03.2019</td>
+        <td rowspan="2">28.02.2019</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -178,7 +178,7 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
 
     <!-- Spotkanie nr 12 -->
     <tr>
-        <td rowspan="2">14.03.2019</td>
+        <td rowspan="2">07.03.2019</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -193,7 +193,7 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
 
     <!-- Spotkanie nr 13 -->
     <tr>
-        <td rowspan="2">21.03.2018</td>
+        <td rowspan="2">14.03.2019</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -208,7 +208,7 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
 
     <!-- Spotkanie nr 14 -->
     <tr>
-        <td rowspan="2">28.03.2018</td>
+        <td rowspan="2">21.03.2018</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -223,7 +223,7 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
 
     <!-- Spotkanie nr 15 -->
     <tr>
-        <td rowspan="2">04.04.2019</td>
+        <td rowspan="2">28.03.2018</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -238,7 +238,7 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
 
     <!-- Spotkanie nr 16 -->
     <tr>
-        <td rowspan="2">1.04.2019</td>
+        <td rowspan="2">04.04.2019</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -253,7 +253,7 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
 
     <!-- Spotkanie nr 17 -->
     <tr>
-        <td rowspan="2">09.05.2019</td>
+        <td rowspan="2">1.04.2019</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -268,7 +268,7 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
 
     <!-- Spotkanie nr 18 -->
     <tr>
-        <td rowspan="2">16.05.2019</td>
+        <td rowspan="2">09.05.2019</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -283,7 +283,7 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
 
     <!-- Spotkanie nr 19 -->
     <tr>
-        <td rowspan="2">23.05.2019</td>
+        <td rowspan="2">16.05.2019</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -298,7 +298,7 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
 
     <!-- Spotkanie nr 20 -->
     <tr>
-        <td rowspan="2">30.05.2019</td>
+        <td rowspan="2">23.05.2019</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -312,6 +312,21 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
 
 
     <!-- Spotkanie nr 21 -->
+    <tr>
+        <td rowspan="2">30.05.2019</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <!-- Data jest połączona przez colspan! -->
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+
+
+    <!-- Spotkanie nr 22 -->
     <tr>
         <td>06.06.2019</td>
         <td>Zakończenie i podsumowanie działalności</td>
