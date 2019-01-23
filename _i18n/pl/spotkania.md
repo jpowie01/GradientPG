@@ -120,43 +120,42 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
     <!-- Spotkanie nr 8 -->
     <tr>
         <td rowspan="2">10.01.2019</td>
-        <td>-</td>
-        <td>-</td>
+        <td>Prezentacja własnego frameworka do sieci neuronowych</td>
+        <td>Hubert Skrzypczak</td>
         <td>-</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
-        <td>-</td>
-        <td>-</td>
+        <td>Burza mózgów dotycząca projektów</td>
+        <td>Piotr Januszewski</td>
         <td>-</td>
     </tr>
 
 
     <!-- Spotkanie nr 9 -->
     <tr>
-        <td rowspan="2">17.01.2019</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <!-- Data jest połączona przez colspan! -->
-        <td>-</td>
+        <td>17.01.2019</td>
+        <td>Inauguracja AI Bay</td>
         <td>-</td>
         <td>-</td>
     </tr>
-
 
     <!-- Spotkanie nr 10 -->
     <tr>
-        <td rowspan="2">28.02.2019</td>
-        <td>-</td>
-        <td>-</td>
+        <td rowspan="3">28.02.2019</td>
+        <td>Segmentacja semantyczna</td>
+        <td>Paweł Białas</td>
         <td>-</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
+        <td>Oferta pojektów grupowych oraz projektów dyplomowych</td>
+        <td>Sebastian Cygiert</td>
         <td>-</td>
+    </tr>
+    <tr>
+        <!-- Data jest połączona przez colspan! -->
+        <td>Najlepsze rozwiązania "Boston Housing"</td>
         <td>-</td>
         <td>-</td>
     </tr>

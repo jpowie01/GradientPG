@@ -127,43 +127,42 @@ This year meetings will be focused on empowering our skills by sharing progress 
     <!-- Spotkanie nr 8 -->
     <tr>
         <td rowspan="2">10.01.2019</td>
-        <td>-</td>
-        <td>-</td>
+        <td>Presentation about custom framework for training neural networks</td>
+        <td>Hubert Skrzypczak</td>
         <td>-</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
-        <td>-</td>
-        <td>-</td>
+        <td>Brainstorming about our projects</td>
+        <td>Piotr Januszewski</td>
         <td>-</td>
     </tr>
 
 
     <!-- Spotkanie nr 9 -->
     <tr>
-        <td rowspan="2">17.01.2019</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <!-- Data jest połączona przez colspan! -->
-        <td>-</td>
+        <td>17.01.2019</td>
+        <td>AI Bay Inauguration</td>
         <td>-</td>
         <td>-</td>
     </tr>
-
 
     <!-- Spotkanie nr 10 -->
     <tr>
-        <td rowspan="2">28.02.2019</td>
-        <td>-</td>
-        <td>-</td>
+        <td rowspan="3">28.02.2019</td>
+        <td>Semantic Segmentation</td>
+        <td>Paweł Białas</td>
         <td>-</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
+        <td>Group Projects and Diploma Thesis Projects</td>
+        <td>Sebastian Cygiert</td>
         <td>-</td>
+    </tr>
+    <tr>
+        <!-- Data jest połączona przez colspan! -->
+        <td>Best solutions for "Boston Housing"</td>
         <td>-</td>
         <td>-</td>
     </tr>
