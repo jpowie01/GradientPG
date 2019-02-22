@@ -17,7 +17,7 @@ MedTagger is an open platform for aggregation and labeling of medical datasets. 
  datasets will drive the innovation of new AI applications in medicine.
 
 Project was made using modern technologies and for more information visit our repository on
- [GitHub](https://github.com/jpowie01/MedTagger).
+ [GitHub](https://github.com/medtagger/MedTagger).
 
 MedTagger won the first prize and distinction in **"Jaskółki Przedsiębiorczości" (2018 edition)** competition
  about which you can read more

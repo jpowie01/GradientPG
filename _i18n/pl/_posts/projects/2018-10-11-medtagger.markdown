@@ -19,7 +19,7 @@ MedTagger jest otwartą platformą do agregacji oraz etykietowania zbiorów medy
  przyspieszyć prace nad aplikacjami sztucznej inteligencji w medycynie.
 
 Projekt wykorzystuje wiele nowoczesnych technologii, o których dowiecie się więcej z naszego repozytorium
- na [GitHubie](https://github.com/jpowie01/MedTagger).
+ na [GitHubie](https://github.com/medtagger/MedTagger).
 
 MedTagger uzyskał pierwszą nagrodę oraz wyróżnienie w konkursie **"Jaskółki Przedsiębiorczości" (edycja 2018)**
  o czym więcej możecie przeczytać
