@@ -22,7 +22,8 @@ Project was made using modern technologies and for more information visit our re
 MedTagger won the first prize and distinction in **"Jaskółki Przedsiębiorczości" (2018 edition)** competition
  about which you can read more
  [on our University website](https://pg.edu.pl/aktualnosci/-/asset_publisher/hWGncmoQv7K0/content/znamy-zwyciezcow-konkursu-jaskolki-przedsiebiorczosci-2018?p_p_auth=P9f0lKZA)
- and local newspaper - [Dziennik Bałtycki](https://dziennikbaltycki.pl/jaskolki-przedsiebiorczosci-2018-studenci-politechniki-gdanskiej-wymyslili-srodek-zwalczajacy-cellulit/ar/13296702).
+ and local newspaper - [Dziennik Bałtycki](https://dziennikbaltycki.pl/jaskolki-przedsiebiorczosci-2018-studenci-politechniki-gdanskiej-wymyslili-srodek-zwalczajacy-cellulit/ar/13296702). Team's work was also recognized by IHS Markit in the competition for **"The best group project in the
+ artificial inteligence field"** ([more information](https://pg.edu.pl/aktualnosci/-/asset_publisher/hWGncmoQv7K0/content/studenci-pg-stworzyli-robota-do-inspekcji-inteligentnych-budynkow)).
 
 ### Team
 
@@ -31,8 +32,5 @@ MedTagger won the first prize and distinction in **"Jaskółki Przedsiębiorczo�
  - Dawid Paluchowski,
  - Karolina Olszewska,
  - Julia Pacuła,
- - Piotr Walkusz,
- - Jacek Szempliński.
-
-
+ - Piotr Walkusz.
 

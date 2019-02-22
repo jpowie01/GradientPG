@@ -24,7 +24,8 @@ Projekt wykorzystuje wiele nowoczesnych technologii, o których dowiecie się wi
 MedTagger uzyskał pierwszą nagrodę oraz wyróżnienie w konkursie **"Jaskółki Przedsiębiorczości" (edycja 2018)**
  o czym więcej możecie przeczytać
  [na stronie Politechniki Gdańskiej](https://pg.edu.pl/aktualnosci/-/asset_publisher/hWGncmoQv7K0/content/znamy-zwyciezcow-konkursu-jaskolki-przedsiebiorczosci-2018?p_p_auth=P9f0lKZA)
- oraz [Dziennika Bałtyckiego](https://dziennikbaltycki.pl/jaskolki-przedsiebiorczosci-2018-studenci-politechniki-gdanskiej-wymyslili-srodek-zwalczajacy-cellulit/ar/13296702).
+ oraz [Dziennika Bałtyckiego](https://dziennikbaltycki.pl/jaskolki-przedsiebiorczosci-2018-studenci-politechniki-gdanskiej-wymyslili-srodek-zwalczajacy-cellulit/ar/13296702). Rozwój projektu zdobył także uznanie firmy IHS Markit w konkursie na **"Najlepszy projekt grupowy z dziedziny
+ sztucznej inteligencji"** ([więcej informacji](https://pg.edu.pl/aktualnosci/-/asset_publisher/hWGncmoQv7K0/content/studenci-pg-stworzyli-robota-do-inspekcji-inteligentnych-budynkow)).
 
 ### Zespół
 
@@ -33,7 +34,5 @@ MedTagger uzyskał pierwszą nagrodę oraz wyróżnienie w konkursie **"Jaskół
  - Dawid Paluchowski,
  - Karolina Olszewska,
  - Julia Pacuła,
- - Piotr Walkusz,
- - Jacek Szempliński.
-
+ - Piotr Walkusz.
 
