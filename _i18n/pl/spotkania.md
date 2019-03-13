@@ -163,7 +163,7 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
 
     <!-- Spotkanie nr 11 -->
     <tr>
-        <td rowspan="2">28.02.2019</td>
+        <td>28.02.2019</td>
         <td>Spotkanie AI Bay</td>
         <td>-</td>
         <td>-</td>
@@ -172,7 +172,7 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
 
     <!-- Spotkanie nr 12 -->
     <tr>
-        <td rowspan="2">07.03.2019</td>
+        <td>07.03.2019</td>
         <td>Ścieżka naukowa w Polsce</td>
         <td>prof. Paweł Czarnul</td>
         <td>-</td>

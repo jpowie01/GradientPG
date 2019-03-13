@@ -170,7 +170,7 @@ This year meetings will be focused on empowering our skills by sharing progress 
 
     <!-- Spotkanie nr 11 -->
     <tr>
-        <td rowspan="2">28.02.2019</td>
+        <td>28.02.2019</td>
         <td>AI Bay Meeting</td>
         <td>-</td>
         <td>-</td>
@@ -179,7 +179,7 @@ This year meetings will be focused on empowering our skills by sharing progress 
 
     <!-- Spotkanie nr 12 -->
     <tr>
-        <td rowspan="2">07.03.2019</td>
+        <td>07.03.2019</td>
         <td>Scientific career in Poland</td>
         <td>prof. Paweł Czarnul</td>
         <td>-</td>
