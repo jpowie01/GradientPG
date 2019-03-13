@@ -164,13 +164,7 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
     <!-- Spotkanie nr 11 -->
     <tr>
         <td rowspan="2">28.02.2019</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <!-- Data jest połączona przez colspan! -->
-        <td>-</td>
+        <td>Spotkanie AI Bay</td>
         <td>-</td>
         <td>-</td>
     </tr>
@@ -179,14 +173,8 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
     <!-- Spotkanie nr 12 -->
     <tr>
         <td rowspan="2">07.03.2019</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <!-- Data jest połączona przez colspan! -->
-        <td>-</td>
-        <td>-</td>
+        <td>Ścieżka naukowa w Polsce</td>
+        <td>prof. Paweł Czarnul</td>
         <td>-</td>
     </tr>
 
@@ -194,14 +182,14 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
     <!-- Spotkanie nr 13 -->
     <tr>
         <td rowspan="2">14.03.2019</td>
-        <td>-</td>
-        <td>-</td>
+        <td>Wstęp do NLP</td>
+        <td>Wojciech Janowski</td>
         <td>-</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
-        <td>-</td>
-        <td>-</td>
+        <td>Jak połączyć ML z Webem, czyli REST API + Keras</td>
+        <td>Kuba Karczewski</td>
         <td>-</td>
     </tr>
 

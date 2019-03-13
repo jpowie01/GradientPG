@@ -171,13 +171,7 @@ This year meetings will be focused on empowering our skills by sharing progress 
     <!-- Spotkanie nr 11 -->
     <tr>
         <td rowspan="2">28.02.2019</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <!-- Data jest połączona przez colspan! -->
-        <td>-</td>
+        <td>AI Bay Meeting</td>
         <td>-</td>
         <td>-</td>
     </tr>
@@ -186,14 +180,8 @@ This year meetings will be focused on empowering our skills by sharing progress 
     <!-- Spotkanie nr 12 -->
     <tr>
         <td rowspan="2">07.03.2019</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <!-- Data jest połączona przez colspan! -->
-        <td>-</td>
-        <td>-</td>
+        <td>Scientific career in Poland</td>
+        <td>prof. Paweł Czarnul</td>
         <td>-</td>
     </tr>
 
@@ -201,14 +189,14 @@ This year meetings will be focused on empowering our skills by sharing progress 
     <!-- Spotkanie nr 13 -->
     <tr>
         <td rowspan="2">14.03.2019</td>
-        <td>-</td>
-        <td>-</td>
+        <td>Introduction to NLP</td>
+        <td>Wojciech Janowski</td>
         <td>-</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
-        <td>-</td>
-        <td>-</td>
+        <td>Deploy ML models to the Web, REST API + Keras</td>
+        <td>Kuba Karczewski</td>
         <td>-</td>
     </tr>
 
