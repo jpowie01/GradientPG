@@ -203,14 +203,8 @@ This year meetings will be focused on empowering our skills by sharing progress 
 
     <!-- Spotkanie nr 14 -->
     <tr>
-        <td rowspan="2">21.03.2018</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <!-- Data jest połączona przez colspan! -->
-        <td>-</td>
+        <td>21.03.2018</td>
+        <td>FOKA</td>
         <td>-</td>
         <td>-</td>
     </tr>
@@ -218,14 +212,8 @@ This year meetings will be focused on empowering our skills by sharing progress 
 
     <!-- Spotkanie nr 15 -->
     <tr>
-        <td rowspan="2">28.03.2018</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <!-- Data jest połączona przez colspan! -->
-        <td>-</td>
+        <td>28.03.2018</td>
+        <td>Projects prepared for FOKA</td>
         <td>-</td>
         <td>-</td>
     </tr>
@@ -234,14 +222,14 @@ This year meetings will be focused on empowering our skills by sharing progress 
     <!-- Spotkanie nr 16 -->
     <tr>
         <td rowspan="2">04.04.2019</td>
-        <td>-</td>
-        <td>-</td>
+        <td>Image Captioning</td>
+        <td>Wojciech Janowski</td>
         <td>-</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
-        <td>-</td>
-        <td>-</td>
+        <td>Processing crowdsourcing data using Unsupervised Learning methods</td>
+        <td>Jakub Powierza</td>
         <td>-</td>
     </tr>
 

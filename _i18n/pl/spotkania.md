@@ -196,29 +196,16 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
 
     <!-- Spotkanie nr 14 -->
     <tr>
-        <td rowspan="2">21.03.2018</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <!-- Data jest połączona przez colspan! -->
-        <td>-</td>
+        <td>21.03.2018</td>
+        <td>FOKA</td>
         <td>-</td>
         <td>-</td>
     </tr>
-
 
     <!-- Spotkanie nr 15 -->
     <tr>
-        <td rowspan="2">28.03.2018</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <!-- Data jest połączona przez colspan! -->
-        <td>-</td>
+        <td>28.03.2018</td>
+        <td>Prezentacje projektów z FOKI</td>
         <td>-</td>
         <td>-</td>
     </tr>
@@ -227,14 +214,14 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
     <!-- Spotkanie nr 16 -->
     <tr>
         <td rowspan="2">04.04.2019</td>
-        <td>-</td>
-        <td>-</td>
+        <td>Image Captioning</td>
+        <td>Wojciech Janowski</td>
         <td>-</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
-        <td>-</td>
-        <td>-</td>
+        <td>Wykorzystanie metod uczenia nienadzorowanego w analizie danych crowdsourcingowych</td>
+        <td>Jakub Powierza</td>
         <td>-</td>
     </tr>
 
