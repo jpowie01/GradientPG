@@ -25,4 +25,4 @@ W najbliższy czwartek, 11 kwietnia, ponownie spotkamy się na cotygodniowym sp
 
 Spotkanie odbędzie się w sali NE 104 o godzinie 18:15.
 
-Sedecznie zapraszamy! :)
+Serdecznie zapraszamy! :)
