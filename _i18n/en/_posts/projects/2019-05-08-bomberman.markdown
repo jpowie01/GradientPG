@@ -19,18 +19,17 @@ In this project, we compare various agents and their behaviour in different envi
  with Pommerman, popular AI competition. Finally, we discuss existing exploration methods such as Max-Boltzmann, Random-Walk, Greedy,
  E-Greedy and explain systems of rewards implemented in agents as well as tactics they have learned.
 
-Our own environment "Bombermna - Brics" and trained agents are available at GitHub repositories:
- [Environment Bomberman - Brics](https://github.com/Borzyszkowski/Bomberman-Brics).
- [RL vs Bomberman](https://github.com/Borzyszkowski/RL-Bomberman-Gradient).
+Our own environment "Bomberman - Brics" and trained agents are available at GitHub repositories:
+[Environment Bomberman - Brics](https://github.com/Borzyszkowski/Bomberman-Brics).
+[RL vs Bomberman](https://github.com/Borzyszkowski/RL-Bomberman-Gradient).
 
 Project was presented on several events and conferences such as FOKA 2019 and GUT Day for AI. 
-At the moment, our team is working on scientific paper which will be presented in following months.
+At the moment, our team is working on scientific publication which will be presented in following months.
 
 ### Team
 
- - Bartłomiej Borzyszkowski, GUT
- - Marcin Świniarski, GUT
- - Hubert Skrzypczak, GUT
- - Grzegorz Opoka, AGH
- - Maksymilian Bubala, AGH
-
+ - Bartłomiej Borzyszkowski (Gdańsk Univeristy of Technology)
+ - Marcin Świniarski (Gdańsk Univeristy of Technology)
+ - Hubert Skrzypczak (Gdańsk Univeristy of Technology)
+ - Grzegorz Opoka (AGH Univeristy of Technology)
+ - Maksymilian Bubala (AGH Univeristy of Technology)
