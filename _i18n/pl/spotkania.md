@@ -228,15 +228,9 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
 
     <!-- Spotkanie nr 17 -->
     <tr>
-        <td rowspan="2">1.04.2019</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <!-- Data jest połączona przez colspan! -->
-        <td>-</td>
-        <td>-</td>
+        <td>11.04.2019</td>
+        <td>Docker - When and why to use?</td>
+        <td>Łukasz Wencel (Intel AI)</td>
         <td>-</td>
     </tr>
 
@@ -244,29 +238,23 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
     <!-- Spotkanie nr 18 -->
     <tr>
         <td rowspan="2">09.05.2019</td>
-        <td>-</td>
-        <td>-</td>
+        <td>CARLA Challenge</td>
+        <td>Sebastian Cygert & Michał Martyniak</td>
         <td>-</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
-        <td>-</td>
-        <td>-</td>
+        <td>Wybory nowego Zarządu Koła</td>
+        <td>Zarząd Koła</td>
         <td>-</td>
     </tr>
 
 
     <!-- Spotkanie nr 19 -->
     <tr>
-        <td rowspan="2">16.05.2019</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <!-- Data jest połączona przez colspan! -->
-        <td>-</td>
-        <td>-</td>
+        <td>16.05.2019</td>
+        <td>Wprowadzenie do GANów</td>
+        <td>Paweł Kopeć</td>
         <td>-</td>
     </tr>
 
@@ -274,14 +262,14 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
     <!-- Spotkanie nr 20 -->
     <tr>
         <td rowspan="2">23.05.2019</td>
-        <td>-</td>
-        <td>-</td>
+        <td>Mechanizm atencji w RNN</td>
+        <td>Paweł Kopeć</td>
         <td>-</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
-        <td>-</td>
-        <td>-</td>
+        <td>Object detection from the cloud to the edge</td>
+        <td>Piotr Januszewski</td>
         <td>-</td>
     </tr>
 
