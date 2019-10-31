@@ -21,299 +21,233 @@ This year meetings will be focused on empowering our skills by sharing progress 
 
     <!-- Spotkanie nr 1 -->
     <tr>
-        <td>25.10.2018</td>
-        <td>Kick-off meeting</td>
-        <td>Board Members</td>
-        <td><a href="/en/meetings/2018/11/05/spotkanie-inauguracyjne-podsumowanie.html">Summary</a></td>
+        <td>30.10.2019</td>
+        <td>Inauguration of year 2019/20</td>
+        <td>Zarząd Koła</td>
+        <td>-</td>
     </tr>
-
 
     <!-- Spotkanie nr 2 -->
     <tr>
-        <td rowspan="2">08.11.2018</td>
-        <td>Machine Learning and Supervised Learning basics</td>
-        <td>Jakub Powierza</td>
-        <td><a href="/en/meetings/2018/11/05/spotkanie.html">Slides</a></td>
-    </tr>
-    <tr>
-        <!-- Data jest połączona przez colspan! -->
-        <td>Hands-on</td>
-        <td>Jakub Powierza</td>
-        <td><a href="/en/meetings/2018/11/05/spotkanie.html">Resources</a></td>
-    </tr>
-
-
-    <!-- Spotkanie nr 3 -->
-    <tr>
-        <td rowspan="2">15.11.2018</td>
-        <td>Computer Vision and Transfer Learning</td>
-        <td>Grzegorz Beringer</td>
-        <td><a href="/en/meetings/2018/11/14/spotkanie.html">Slides</a></td>
-    </tr>
-    <tr>
-        <!-- Data jest połączona przez colspan! -->
-        <td>Hands-on</td>
-        <td>Grzegorz Beringer</td>
-        <td><a href="/en/meetings/2018/11/14/spotkanie.html">Resources</a></td>
-    </tr>
-
-
-    <!-- Spotkanie nr 4 -->
-    <tr>
-        <td rowspan="2">22.11.2018</td>
-        <td>Introduction to Recurrent Neural Networks</td>
-        <td>mgr Karol Draszawka</td>
+        <td rowspan="2">07.11.2019</td>
+        <td>Machine Learning and Supervised Learning</td>
+        <td>Marcin Świniarski</td>
         <td>-</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
         <td>Hands-on</td>
-        <td>mgr Karol Draszawka</td>
+        <td>Marcin Świniarski</td>
+        <td>-</td>
+    </tr>
+
+
+    <!-- Spotkanie nr 3 -->
+    <tr>
+        <td rowspan="2">14.11.2019</td>
+        <td>Deep Neural Networks in details</td>
+        <td>Marcin Świniarski</td>
+        <td>-</td>
+    </tr>
+	    <tr>
+        <!-- Data jest połączona przez colspan! -->
+        <td>Hands-on</td>
+        <td>Marcin Świniarski</td>
+		<td>-</td>
+    </tr>
+    <tr>
+        <!-- Data jest połączona przez colspan! -->
+        <td>Introduction of School on Reinforcement Learning</td>
+        <td>Piotr Januszewski</td>
+		<td>-</td>
+    </tr>
+
+
+    <!-- Spotkanie nr 4 -->
+    <tr>
+        <td rowspan="2">21.11.2019</td>
+        <td>Convolutional Neural Networks and Transfer Learning</td>
+        <td>Hubert Skrzypczak</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <!-- Data jest połączona przez colspan! -->
+        <td>Hands-on</td>
+        <td>Hubert Skrzypczak</td>
         <td>-</td>
     </tr>
 
 
     <!-- Spotkanie nr 5 -->
     <tr>
-        <td rowspan="2">29.11.2018</td>
-        <td>Deep Reinforcement Learning through Policy Iteration and AlphaZero</td>
-        <td>Piotr Januszewski</td>
+        <td rowspan="2">28.11.2019</td>
+        <td>Deep dive into Deep Learning</td>
+        <td>mgr inż. Jan Cychnerski</td>
         <td>-</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
         <td>Hands-on</td>
-        <td>Piotr Januszewski</td>
+        <td>mgr inż. Jan Cychnerski</td>
         <td>-</td>
     </tr>
 
 
     <!-- Spotkanie nr 6 -->
     <tr>
-        <td rowspan="2">06.12.2018</td>
-        <td>Intorduction to Kaggle and "Boston Housing"</td>
-        <td>Grzegorz Beringer & Piotr Januszewski</td>
+        <td rowspan="2">05.12.2019</td>
+        <td>AI at CERN OpenLab - praca w Europejskiej Organizacji Badań Nuklearnych</td>
+        <td>Bartłomiej Borzyszkowski</td>
         <td>-</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
-        <td>Integration & Networking</td>
-        <td>Pizza PRL</td>
+        <td>Neuromorphic Computing (Spiking Neural Networks) in High Energy Physics</td>
+        <td>Bartłomiej Borzyszkowski</td>
         <td>-</td>
     </tr>
 
 
     <!-- Spotkanie nr 7 -->
     <tr>
-        <td rowspan="3">13.12.2018</td>
-        <td>Introduction</td>
-        <td>Supervisors</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <!-- Data jest połączona przez colspan! -->
-        <td>Autonomous Robot Project</td>
-        <td>Bartek Borzyszkowski</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <!-- Data jest połączona przez colspan! -->
-        <td>Raspberry PI + Intel Movidius Neural Compute Stick</td>
-        <td>Piotr Januszewski</td>
+        <td rowspan="3">12.12.2019</td>
+        <td>TBA</td>
+		<td>TBA</td>
         <td>-</td>
     </tr>
 
 
     <!-- Spotkanie nr 8 -->
     <tr>
-        <td rowspan="2">10.01.2019</td>
-        <td>Presentation about custom framework for training neural networks</td>
-        <td>Hubert Skrzypczak</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <!-- Data jest połączona przez colspan! -->
-        <td>Brainstorming about our projects</td>
-        <td>Piotr Januszewski</td>
+        <td rowspan="3">09.01.2020</td>
+        <td>TBA</td>
+		<td>TBA</td>
         <td>-</td>
     </tr>
 
 
     <!-- Spotkanie nr 9 -->
     <tr>
-        <td>17.01.2019</td>
-        <td>AI Bay Inauguration</td>
-        <td>-</td>
-        <td>-</td>
+        <td rowspan="3">18/19.01.2020</td>
+        <td>AI Games Hackathon</td>
+		<td>Gdański Park Naukowo-Technologiczny</td>
+        <td><a href="https://aigames.it/?fbclid=IwAR1tN5qx_-97VTKjW2dIHl58Xnmr0TlQF-tOg8SbHaIdp-8wze8PcPu77O4">Zapraszamy</a></td>
     </tr>
 
     <!-- Spotkanie nr 10 -->
     <tr>
-        <td rowspan="3">24.01.2019</td>
-        <td>Semantic Segmentation</td>
-        <td>Paweł Białas</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <!-- Data jest połączona przez colspan! -->
-        <td>Group Projects and Diploma Thesis Projects</td>
-        <td>Sebastian Cygiert</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <!-- Data jest połączona przez colspan! -->
-        <td>Best solutions for "Boston Housing"</td>
-        <td>-</td>
+        <td rowspan="3">23.01.2020</td>
+        <td>TBA</td>
+		<td>TBA</td>
         <td>-</td>
     </tr>
 
 
     <!-- Spotkanie nr 11 -->
     <tr>
-        <td>28.02.2019</td>
-        <td>AI Bay Meeting</td>
-        <td>-</td>
+        <td rowspan="3">TBA</td>
+        <td>TBA</td>
+		<td>TBA</td>
         <td>-</td>
     </tr>
 
 
     <!-- Spotkanie nr 12 -->
     <tr>
-        <td>07.03.2019</td>
-        <td>Scientific career in Poland</td>
-        <td>prof. Paweł Czarnul</td>
+        <td rowspan="3">TBA</td>
+        <td>TBA</td>
+		<td>TBA</td>
         <td>-</td>
     </tr>
 
 
     <!-- Spotkanie nr 13 -->
     <tr>
-        <td rowspan="2">14.03.2019</td>
-        <td>Introduction to NLP</td>
-        <td>Wojciech Janowski</td>
+        <td rowspan="3">TBA</td>
+        <td>TBA</td>
+		<td>TBA</td>
         <td>-</td>
     </tr>
-    <tr>
-        <!-- Data jest połączona przez colspan! -->
-        <td>Deploy ML models to the Web, REST API + Keras</td>
-        <td>Kuba Karczewski</td>
-        <td>-</td>
-    </tr>
+
 
 
     <!-- Spotkanie nr 14 -->
     <tr>
-        <td>21.03.2018</td>
-        <td>FOKA</td>
-        <td>-</td>
+        <td rowspan="3">TBA</td>
+        <td>TBA</td>
+		<td>TBA</td>
         <td>-</td>
     </tr>
 
-
     <!-- Spotkanie nr 15 -->
     <tr>
-        <td>28.03.2018</td>
-        <td>Projects prepared for FOKA</td>
-        <td>-</td>
+        <td rowspan="3">TBA</td>
+        <td>TBA</td>
+		<td>TBA</td>
         <td>-</td>
     </tr>
 
 
     <!-- Spotkanie nr 16 -->
     <tr>
-        <td rowspan="2">04.04.2019</td>
-        <td>Image Captioning</td>
-        <td>Wojciech Janowski</td>
+        <td rowspan="3">TBA</td>
+        <td>TBA</td>
+		<td>TBA</td>
         <td>-</td>
     </tr>
-    <tr>
-        <!-- Data jest połączona przez colspan! -->
-        <td>Processing crowdsourcing data using Unsupervised Learning methods</td>
-        <td>Jakub Powierza</td>
-        <td>-</td>
-    </tr>
+
 
 
     <!-- Spotkanie nr 17 -->
     <tr>
-        <td rowspan="2">1.04.2019</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <!-- Data jest połączona przez colspan! -->
-        <td>-</td>
-        <td>-</td>
+        <td rowspan="3">TBA</td>
+        <td>TBA</td>
+		<td>TBA</td>
         <td>-</td>
     </tr>
 
 
     <!-- Spotkanie nr 18 -->
     <tr>
-        <td rowspan="2">09.05.2019</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <!-- Data jest połączona przez colspan! -->
-        <td>-</td>
-        <td>-</td>
+        <td rowspan="3">TBA</td>
+        <td>TBA</td>
+		<td>TBA</td>
         <td>-</td>
     </tr>
 
 
     <!-- Spotkanie nr 19 -->
     <tr>
-        <td rowspan="2">16.05.2019</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <!-- Data jest połączona przez colspan! -->
-        <td>-</td>
-        <td>-</td>
+        <td rowspan="3">TBA</td>
+        <td>TBA</td>
+		<td>TBA</td>
         <td>-</td>
     </tr>
 
 
     <!-- Spotkanie nr 20 -->
     <tr>
-        <td rowspan="2">23.05.2019</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <!-- Data jest połączona przez colspan! -->
-        <td>-</td>
-        <td>-</td>
+        <td rowspan="3">TBA</td>
+        <td>TBA</td>
+		<td>TBA</td>
         <td>-</td>
     </tr>
 
 
     <!-- Spotkanie nr 21 -->
     <tr>
-        <td rowspan="2">30.05.2019</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <!-- Data jest połączona przez colspan! -->
-        <td>-</td>
-        <td>-</td>
+        <td rowspan="3">TBA</td>
+        <td>TBA</td>
+		<td>TBA</td>
         <td>-</td>
     </tr>
 
 
     <!-- Spotkanie nr 22 -->
     <tr>
-        <td>06.06.2019</td>
-        <td>Summary of our work and accomplishments</td>
-        <td>Board Members</td>
+        <td rowspan="3">TBA</td>
+        <td>TBA</td>
+		<td>TBA</td>
         <td>-</td>
     </tr>
 
